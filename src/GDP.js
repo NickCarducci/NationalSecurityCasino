@@ -95,9 +95,8 @@ class GDPchild extends React.Component {
               backgroundColor: "rgba(250,250,250,.6)"
             }}
           >
-            {Math.round(this.state.lowTesting * 100) / 100} gdp/pop -&nbsp;
-            <br />
-            {Math.round(this.state.highTesting * 100) / 100}
+            ${Math.round(this.state.lowTesting * 100) / 100}/person -&nbsp;
+            <br />${Math.round(this.state.highTesting * 100) / 100}/person
             <div
               style={{
                 height: "min-content",
@@ -288,11 +287,15 @@ class GDP extends React.Component {
         async () => {
           const copy = gdpdata.map((x) => {
             var foo = { ...x };
-            var thisdecade = popdata.find(
-              (p) => x.year - p.year < 10 && x.year - p.year > -1
-            );
+            var b4Idx = null;
+            var thisdecade = popdata.find((p, i) => {
+              b4Idx = i;
+              return x.year - p.year < 10 && x.year - p.year > -1;
+            });
             foo.num = foo.num * 1000000000;
-            var addi = thisdecade.pop * ((x.year - thisdecade.year) / 10);
+            var b4pop = popdata[b4Idx - 1] ? popdata[b4Idx - 1].pop : 0;
+            var b4year = popdata[b4Idx - 1] ? popdata[b4Idx - 1].year : 0;
+            var addi = (thisdecade.pop - b4pop) * ((x.year - b4year) / 10);
             foo.pop = thisdecade.pop + addi;
             return foo;
           });
