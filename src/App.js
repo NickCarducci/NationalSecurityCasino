@@ -51,9 +51,6 @@ export default class App extends React.Component {
     const { childrenAbducted } = this.state;
     return (
       <div style={{ width: "100%", textAlign: "center" }}>
-          Nj transit “flex pass” collective bargain rollover tech A-OK
-          <br />
-          <br />
         <div
           style={{
             width: "100%",
@@ -86,6 +83,26 @@ export default class App extends React.Component {
             maxWidth: "600px"
           }}
         >
+          500k (NJ)mail in
+          <br />
+          How many voted already?
+          <br />
+          732k - David Wilestein 1/3 of total vote, 2.1m, is not the turnout;
+          only of each 1/3 Dems, Republicans, non-voters (
+          <a
+            href="https://nextdoor.com/p/yJhWyXgPTdNG?utm_source=share&extras=Njc0NDU4Nzc%3D"
+            style={{ color: "rgb(200,200,255)" }}
+          >
+            detesting/eligible, like my little brother
+          </a>
+          )
+          <br />
+          Particularly small business (trust-building)
+          <br />
+          <br />
+          Nj transit “flex pass” collective bargain rollover tech A-OK
+          <br />
+          <br />
           <a href="https://magnate.company">green new deal</a>&nbsp;would be to
           cash:debt*income back to 1908 and timelesspaydayroyalty
           <br />
