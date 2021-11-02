@@ -1,4 +1,26 @@
+import React from "react";
+import GDP from "./GDP";
+import "./styles.css";
+import TwitterTweetEmbed from "./TwitterTweetEmbed";
 import { UAParser } from "ua-parser-js";
+
+export const shortNumber = (scler, notRound) => {
+  var newnum = String(Math.round(scler));
+  if (notRound) newnum = String(scler);
+  var app = null;
+  var decimal = null;
+  const suff = ["", "k", "m", "b", "t"];
+  for (let i = 0; i < suff.length; i++) {
+    if (newnum.length > 3) {
+      decimal = newnum[newnum.length - 3];
+      newnum = newnum.substring(0, newnum.length - 3);
+    } else {
+      app = i;
+      break;
+    }
+  }
+  return newnum + (decimal ? "." + decimal : "") + suff[app];
+};
 
 export default class App extends React.Component {
   constructor(props) {
@@ -13,8 +35,10 @@ export default class App extends React.Component {
     const covidStart = new Date(new Date(`2020-01-01`).setHours(0, 0, 0, 0));
     const dateSpan = date.getTime() - covidStart.getTime();
     const years = dateSpan / (31556952 * 1000);
-    this.setState({ childrenAbducted: years * 80000 });
-    this.setState({ ios: this.state.browser.includes("Safari") });
+    this.setState({
+      childrenAbducted: shortNumber(years * 80000),
+      ios: this.state.browser.includes("Safari")
+    });
     window.addEventListener("scroll", this.handleScroll);
     this.refresh(true);
     window.addEventListener("resize", this.refresh);
@@ -56,8 +80,7 @@ export default class App extends React.Component {
             ngo
           </a>
           <a href="https://www.fbi.gov/file-repository/2015-ncic-missing-person-and-unidentified-person-statistics.pdf/view">
-            {Math.round(childrenAbducted)} US citizen children abducted since
-            covid
+            {childrenAbducted} US citizen children abducted since covid
           </a>
           <br />
           meanwhile login.gov and
