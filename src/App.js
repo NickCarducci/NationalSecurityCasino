@@ -1,7 +1,3 @@
-import React from "react";
-import GDP from "./GDP";
-import "./styles.css";
-import TwitterTweetEmbed from "./TwitterTweetEmbed";
 import { UAParser } from "ua-parser-js";
 
 export default class App extends React.Component {
@@ -18,7 +14,9 @@ export default class App extends React.Component {
     const dateSpan = date.getTime() - covidStart.getTime();
     const years = dateSpan / (31556952 * 1000);
     this.setState({ childrenAbducted: years * 80000 });
-    this.refresh();
+    this.setState({ ios: this.state.browser.includes("Safari") });
+    window.addEventListener("scroll", this.handleScroll);
+    this.refresh(true);
     window.addEventListener("resize", this.refresh);
   };
   componentWillUnmount() {
@@ -26,12 +24,6 @@ export default class App extends React.Component {
     clearTimeout(this.resizeTimer);
     window.removeEventListener("resize", this.refresh);
   }
-  componentDidMount = () => {
-    this.setState({ ios: this.state.browser.includes("Safari") });
-    window.addEventListener("scroll", this.handleScroll);
-    this.refresh(true);
-    window.addEventListener("resize", this.refresh);
-  };
   refresh = (first) => {
     const width = this.state.ios ? window.screen.availWidth : window.innerWidth;
     if (first || Math.abs(this.state.lastWidth - width) > 0) {
@@ -225,12 +217,15 @@ export default class App extends React.Component {
               left: "100px"
             }}
           >
-            #BondZero &bull; #HungJury &bull; #TruncatedSalesTax &bull;
-            &nbsp;#FundSewagePolice &nbsp; convict-intranet tamperproof dns,
-            ArrayArrays &bull; #ReverseM2 &bull; #MillennialIncomeDeficit
-            &bull;&nbsp;#GovernmentGentrification &bull; #FreePeopleLawsuits
-            &bull;&nbsp;#ConflictOfInterests &bull; #ClassPrecedenceMalfeasance
-            &bull; #ConstantGDPoverPopulation
+            #BondZero &bull; #HungJury &bull;&nbsp;
+            <a href="https://stackoverflow.com/a/69812518/11711280">
+              #TruncatedSalesTax
+            </a>
+            &nbsp;&bull; &nbsp;#FundSewagePolice &nbsp; convict-intranet
+            tamperproof dns, ArrayArrays &bull; #ReverseM2 &bull;
+            #MillennialIncomeDeficit &bull;&nbsp;#GovernmentGentrification
+            &bull; #FreePeopleLawsuits &bull;&nbsp;#ConflictOfInterests &bull;
+            #ClassPrecedenceMalfeasance &bull; #ConstantGDPoverPopulation
             <br />
             DEA/Walgreens, concentration #AmphetaminesAreMoney
             #MinnesotaIsGuilty: I guess we got time, but extends without
