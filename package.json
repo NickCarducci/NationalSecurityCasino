@@ -1,0 +1,27 @@
+{
+  "name": "NationalSecurityCasino",
+  "version": "1.0.0",
+  "description": "nationalsecuritycasino.com non-voters are voters",
+  "keywords": ["react", "starter"],
+  "main": "src/index.js",
+  "dependencies": {
+    "exenv": "1.2.2",
+    "prop-types": "15.7.2",
+    "react": "17.0.0",
+    "react-dom": "17.0.0",
+    "react-scripts": "3.4.3",
+    "react-svg-curve": "0.2.1",
+    "scriptjs": "2.5.9",
+    "ua-parser-js": "0.7.28"
+  },
+  "devDependencies": {
+    "typescript": "3.8.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+}
