@@ -129,17 +129,17 @@ class GDPchild extends React.Component {
                       ((x - this.state.lowDate) / this.state.xAxis) *
                         0.9 *
                         this.props.width,
-                      ((y - this.state.lowTesting) / this.state.yAxis) * 150
+                      0 // ((y - this.state.lowTesting) / this.state.yAxis) * 150
                     ];
                     return (
                       <rect
                         x={transformation[0]}
                         y={transformation[1]}
-                        width="1"
+                        width={4}
                         height="100%"
                         stroke="rgb(230,230,230)"
-                        fill="transparent"
-                        strokeWidth="1"
+                        fill="grey"
+                        strokeWidth={2}
                         key={i}
                       />
                     );
@@ -155,11 +155,11 @@ class GDPchild extends React.Component {
                       <rect
                         x={transformation[0]}
                         y={transformation[1]}
-                        width="4px"
+                        width={2}
                         height="100%"
                         stroke="rgb(230,230,230)"
-                        fill="rgb(200,200,200)"
-                        strokeWidth="4"
+                        fill="rgb(230,230,230)"
+                        strokeWidth={1}
                         key={i}
                       />
                     );
@@ -175,11 +175,11 @@ class GDPchild extends React.Component {
                       <rect
                         x={transformation[0]}
                         y={transformation[1]}
-                        width="1"
-                        height="1"
+                        width={4}
+                        height={4}
                         stroke="black"
-                        fill="transparent"
-                        strokeWidth="4"
+                        fill="black"
+                        strokeWidth={2}
                         key={i}
                       />
                     );
