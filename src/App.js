@@ -99,7 +99,7 @@ export default class App extends React.Component {
             backgroundColor: "rgb(180,200,255)"
           }}
         >
-          {/*this.state.width && <Misses width={this.state.width} />*/ }
+          {/*this.state.width && <Misses width={this.state.width} />*/}
           <a
             href="https://lightte.ch"
             style={{ color: "white", textDecoration: "none" }}
@@ -254,7 +254,9 @@ export default class App extends React.Component {
               Amendment 2
             </a>
             &nbsp; says nothing about private property, Jack Posebic. Isn't he
-            paid by CHINA?
+            paid by CHINA? Cops are to recover-as-is & torts cover bid-price of
+            sale without current debt-inelasticity value-met either
+            <br />
             <br />
             He continues, "Jury was removed because they presumed-guilt for
             dismay with that weapon,&nbsp;
