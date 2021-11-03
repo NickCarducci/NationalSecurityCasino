@@ -3,6 +3,7 @@ import GDP from "./GDP";
 import "./styles.css";
 import TwitterTweetEmbed from "./TwitterTweetEmbed";
 import { UAParser } from "ua-parser-js";
+//import Misses from "./misses";
 
 export const shortNumber = (scler, notRound) => {
   var newnum = String(Math.round(scler));
@@ -22,6 +23,35 @@ export const shortNumber = (scler, notRound) => {
   return newnum + (decimal ? "." + decimal : "") + suff[app];
 };
 
+export const zeroPad = (num) => {
+  var res = "0";
+  if (String(num).length === 1) {
+    res = `0${num}`;
+  } else {
+    res = num;
+  }
+  return res;
+};
+export const child = (index, absolute) => {
+  //dateSpan = date - covidStart
+  //dateSpan / (31556952 * 1000);
+  //const years =_* 80000
+  //31556952 = 1 year in seconds
+  index = index ? index : 5;
+  var year = 2015 + index;
+  const localized = (date) => new Date(date).setHours(0, 0, 0, 0);
+  /**
+        `${year}-${zeroPad(new Date(localized()).getMonth() + 1)}-${zeroPad(
+          new Date(localized()).getDate()
+        )}` */
+  return (
+    (((new Date(localized(`${year}-01-01`)).getTime() -
+      new Date(localized(`2015-01-01`)).getTime()) /
+      31556952) *
+      80000) /
+    1000
+  );
+};
 export default class App extends React.Component {
   constructor(props) {
     super(props);
@@ -31,12 +61,8 @@ export default class App extends React.Component {
     this.state = { browser: name, width: null, ios: null, lastWidth: null };
   }
   componentDidMount = () => {
-    var date = new Date(new Date().setHours(0, 0, 0, 0));
-    const covidStart = new Date(new Date(`2020-01-01`).setHours(0, 0, 0, 0));
-    const dateSpan = date.getTime() - covidStart.getTime();
-    const years = dateSpan / (31556952 * 1000);
     this.setState({
-      childrenAbducted: shortNumber(years * 80000),
+      childrenAbducted: shortNumber(child()),
       ios: this.state.browser.includes("Safari")
     });
     window.addEventListener("scroll", this.handleScroll);
@@ -73,6 +99,7 @@ export default class App extends React.Component {
             backgroundColor: "rgb(180,200,255)"
           }}
         >
+          {/*this.state.width && <Misses width={this.state.width} />*/ }
           <a
             href="https://lightte.ch"
             style={{ color: "white", textDecoration: "none" }}
