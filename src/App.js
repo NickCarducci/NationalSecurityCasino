@@ -1,6 +1,5 @@
 import React from "react";
 import GDP from "./GDP";
-import "./styles.css";
 import TwitterTweetEmbed from "./TwitterTweetEmbed";
 import { UAParser } from "ua-parser-js";
 //import Misses from "./misses";
@@ -92,7 +91,13 @@ export default class App extends React.Component {
   render() {
     const { childrenAbducted } = this.state;
     return (
-      <div style={{ width: "100%", textAlign: "center" }}>
+      <div
+        style={{
+          width: "100%",
+          textAlign: "center",
+          fontFamily: "'Quantico', sans-serif"
+        }}
+      >
         <div
           style={{
             width: "100%",
@@ -125,6 +130,16 @@ export default class App extends React.Component {
             maxWidth: "600px"
           }}
         >
+          <div
+            style={{
+              fontWeight: "bolder",
+              backgroundColor: "navy",
+              color: "rgb(197, 179, 88)",
+              WebkitTextStroke: "1 rgb(197, 179, 88)"
+            }}
+          >
+            Teapharmacy.party &&nbsp;<a href="https://froth.app">epiology</a>
+          </div>
           500k (NJ)mail in
           <br />
           How many voted already?
@@ -198,7 +213,7 @@ export default class App extends React.Component {
             style={{
               width: "calc(100% - 156px)",
               float: "left",
-              shapeOutside: "ellipse()",
+              shapeOutside: "rect()",
               position: "relative",
               maxWidth: "300px"
             }}
@@ -228,7 +243,7 @@ export default class App extends React.Component {
             style={{
               width: "calc(100% - 156px)",
               float: "left",
-              shapeOutside: "ellipse()",
+              shapeOutside: "rect()",
               position: "relative",
               maxWidth: "300px"
             }}
@@ -301,6 +316,7 @@ export default class App extends React.Component {
           &nbsp;#ConsumerTwitter and have legal rights rallying cry can be "
           <a href="https://micro-theory.com">hung jury</a>"
           <TwitterTweetEmbed tweetId="1434938133246844930" />
+          gentrification
           <TwitterTweetEmbed tweetId="1433865364602068999" />
           <div
             style={{
@@ -1245,3 +1261,4 @@ export default class App extends React.Component {
     );
   }
 }
+
