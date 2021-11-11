@@ -130,6 +130,27 @@ export default class App extends React.Component {
             maxWidth: "600px"
           }}
         >
+          "all of the give, none of the get," chris cuomo on hidden premiums for
+          lower monthly-down-payment pays off, even when gdp/down-payments isn't
+          LEGALLY a job
+          <br />
+          <br />
+          <br />
+          <div style={{ padding: "10px" }}>
+            “Unlike most of wall street, we only have.one boss: our customer” Ed
+            Bugos dollar vigilante, vigilante meaning a risk, discounting even
+            potential-market-entrants, more and more as
+            bond-value-withdrwawalable overpowers dollar
+          </div>
+          <br />
+          <br />
+          boycotting credit as income, you cannot&nbsp;
+          <a href="https://saverparty.xyz">get everything</a>[, in reference to
+          the infrastructure spending bill], it's just not possible," kilmeade.
+          education is trade secrets, patents are rent seeking (no utility is
+          designable), profits are net loss, net loss is profits
+          accrual-withdrawalable with bonds
+          (improsonment-republic-subcontracts), kids should work
           <div
             style={{
               fontWeight: "bolder",
@@ -138,7 +159,15 @@ export default class App extends React.Component {
               WebkitTextStroke: "1 rgb(197, 179, 88)"
             }}
           >
-            Teapharmacy.party &&nbsp;<a href="https://froth.app">epiology</a>
+            Teapharmacy.party &&nbsp;
+            <a
+              href="https://froth.app"
+              style={{
+                color: "rgb(197, 179, 88)"
+              }}
+            >
+              epiology
+            </a>
           </div>
           500k (NJ)mail in
           <br />
@@ -1261,4 +1290,3 @@ export default class App extends React.Component {
     );
   }
 }
-
