@@ -10,13 +10,11 @@ class GDPchild extends React.Component {
     let testing = [];
     let noData = [];
     let date = [];
-    var no = [];
     props.data.map((x) => {
       date.push(x.year);
       const gdppop = x.num / x.pop;
       testing.push(gdppop);
       testingData.push([x.year, gdppop]);
-      no.push(0);
       return noData.push([x.year, 0]);
     });
     var highDate = Math.max(...date);
@@ -27,7 +25,6 @@ class GDPchild extends React.Component {
     testingData.sort((a, b) => a[0] - b[0]);
 
     var state = {
-      chosenDecade: 2000,
       highTesting,
       testingData,
       noData,
@@ -45,13 +42,11 @@ class GDPchild extends React.Component {
       let testing = [];
       let noData = [];
       let date = [];
-      var no = [];
       this.props.data.map((x) => {
         date.push(x.year);
         const gdppop = x.num / x.pop;
         testing.push(gdppop);
         testingData.push([x.year, gdppop]);
-        no.push(0);
         return noData.push([x.year, 0]);
       });
       var highDate = Math.max(...date);
@@ -243,19 +238,24 @@ class GDPchild extends React.Component {
 class GDP extends React.Component {
   constructor(props) {
     super(props);
+    const popdatapre2010 = popdata.filter((x) => x.year < 2010);
     this.state = {
       chosenDecade: 2000,
-      chosenDecadeInx: popdata.length,
-      data: gdpdata.map((x) => {
-        var foo = { ...x };
-        var thisdecade = popdata.find(
-          (p) => x.year - p.year < 10 && x.year - p.year > -1
-        );
-        foo.num = foo.num * 1000000000;
-        var addi = thisdecade.pop * ((x.year - thisdecade.year) / 10);
-        foo.pop = thisdecade.pop + addi;
-        return foo;
-      }),
+      chosenDecadeInx: popdatapre2010.length,
+      data: gdpdata
+        .map((x) => {
+          var foo = { ...x };
+          var thisdecade = popdata.find(
+            (p) => x.year - p.year < 10 && x.year - p.year > -1
+          );
+          if (foo.num) {
+            foo.num = foo.num * 1000000000;
+          }
+          var addi = thisdecade.pop * ((x.year - thisdecade.year) / 10);
+          foo.pop = thisdecade.pop + addi;
+          return foo;
+        })
+        .filter((x) => x.year < 2000 + 1 && 2000 - x.year < 120),
       chosenState: "Florida",
       last: 1000,
       crime: true
@@ -282,7 +282,11 @@ class GDP extends React.Component {
             return foo;
           });
           this.setState({
-            data: copy.filter((x) => x.year < this.state.chosenDecade + 1)
+            data: copy.filter(
+              (x) =>
+                x.year < this.state.chosenDecade + 1 &&
+                this.state.chosenDecade - x.year < 120
+            )
           });
         }
       );
@@ -305,6 +309,7 @@ class GDP extends React.Component {
     );*/
     //console.log(this.props.covidData);
     //if (this.state.chosenState === this.state.lastChosenState) {
+    const popdatapre2010 = popdata.filter((x) => x.year < 2010);
     return (
       <div
         style={{
@@ -384,7 +389,8 @@ class GDP extends React.Component {
                   { chosenDecadeInx: this.state.chosenDecadeInx - 1 },
                   () => {
                     this.setState({
-                      chosenDecade: popdata[this.state.chosenDecadeInx].year
+                      chosenDecade:
+                        popdatapre2010[this.state.chosenDecadeInx].year
                     });
                   }
                 );
@@ -396,12 +402,13 @@ class GDP extends React.Component {
           <div
             style={{ border: "1px solid", padding: "10px", userSelect: "none" }}
             onClick={() => {
-              if (this.state.chosenDecadeInx < popdata.length - 1)
+              if (this.state.chosenDecadeInx < popdatapre2010.length - 1)
                 this.setState(
                   { chosenDecadeInx: this.state.chosenDecadeInx + 1 },
                   () => {
                     this.setState({
-                      chosenDecade: popdata[this.state.chosenDecadeInx].year
+                      chosenDecade:
+                        popdatapre2010[this.state.chosenDecadeInx].year
                     });
                   }
                 );
