@@ -423,9 +423,10 @@ export default class App extends React.Component {
               duress beyond mvp findings
             </span>
             <br />
-            hung-jury of 1/4 doctors to be ignored, assume virions go in,
-            mandate vaccines instead of understand bacteria causes
-            virus-infected-cells to shit virions
+            hung-jury of 1/4 doctors to be ignored (no
+            industry-precedence-saveFace-motive), assume virions go in, mandate
+            vaccines instead of understand bacteria causes virus-infected-cells
+            to shit virions
             <TwitterTweetEmbed tweetId="1432355213428596736" />
             <TwitterTweetEmbed tweetId="1434925859023040518" />
             #ExcessDeaths are expected 16m life-expectancy before 1950 in China
@@ -1339,9 +1340,16 @@ export default class App extends React.Component {
             rentier-colonialism and compete consumer) definitions of wage or
             profit commitment]
           </div>
+          <TwitterTweetEmbed tweetId="1431700889908228104" />
+          <a
+            href="https://saverparty.xyz"
+            style={{ backgroundColor: "navy", color: "rgb(197, 179, 88)" }}
+          >
+            Saver Party&nbsp;<span role="img">🐿</span>
+          </a>
         </div>
-        <TwitterTweetEmbed tweetId="1431700889908228104" />
       </div>
     );
   }
 }
+
