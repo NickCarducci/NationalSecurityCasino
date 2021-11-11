@@ -100,6 +100,21 @@ export default class App extends React.Component {
       >
         <div
           style={{
+            backgroundColor: "black",
+            color: "white"
+          }}
+        >
+          occupy wall st/gov is free market communism;&nbsp;
+          <a href="https://vaults.biz" style={{ color: "white" }}>
+            86 credit as income
+          </a>
+          , free rider mutable tax &&nbsp;
+          <a href="https://30under5.us" style={{ color: "white" }}>
+            implausible landlord use
+          </a>
+        </div>
+        <div
+          style={{
             width: "100%",
             backgroundColor: "rgb(180,200,255)"
           }}
@@ -168,6 +183,7 @@ export default class App extends React.Component {
             >
               epiology
             </a>
+            : excess deaths account for cohort size
           </div>
           500k (NJ)mail in
           <br />
