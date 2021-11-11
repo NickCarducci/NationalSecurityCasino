@@ -2,6 +2,8 @@ import React from "react";
 import GDP from "./GDP";
 import TwitterTweetEmbed from "./TwitterTweetEmbed";
 import { UAParser } from "ua-parser-js";
+import InstagramEmbed from "./InstagramEmbed";
+import { iGpostScript1 } from "./instagrampost1";
 //import Misses from "./misses";
 
 export const shortNumber = (scler, notRound) => {
@@ -98,6 +100,7 @@ export default class App extends React.Component {
           fontFamily: "'Quantico', sans-serif"
         }}
       >
+        <InstagramEmbed script={iGpostScript1} />
         <div
           style={{
             backgroundColor: "black",
