@@ -100,6 +100,21 @@ export default class App extends React.Component {
           fontFamily: "'Quantico', sans-serif"
         }}
       >
+        <a href="//www.slideshare.net/NicholasCarducci/thumbprint-phone">
+          https://www.slideshare.net/NicholasCarducci/slideshelf
+        </a>
+        <iframe
+          src="https://www.slideshare.net/slideshow/embed_code/key/uBm7lClHKhbYhz"
+          title="https://www.slideshare.net/NicholasCarducci/slideshelf"
+          width={"100%"}
+          height="300px"
+          style={{ border: "none" }}
+          allowFullScreen
+        ></iframe>
+        p2p dns router:&nbsp;
+        <a href="https://support.apple.com/en-us/HT202303">
+          apple/fb cloud keys end-to-end enbunction
+        </a>
         <InstagramEmbed script={iGpostScript1} />
         <div
           style={{
