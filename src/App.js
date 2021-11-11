@@ -1347,6 +1347,12 @@ export default class App extends React.Component {
           >
             Saver Party&nbsp;<span role="img">🐿</span>
           </a>
+          patents are rent-seeking, profits are net-loss of corporate market
+          communes, occupy wall st is free market communism 'gainst the free
+          rider mutable tax, trust-building, deficit laundering implausible
+          ladlord use collctive bargaining fraud friends & family
+          lein-discrimination and non-reciprocated non-crazy reasonable
+          doubts&nbsp;{">"}1/12
         </div>
       </div>
     );
