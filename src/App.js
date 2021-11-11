@@ -122,6 +122,9 @@ export default class App extends React.Component {
             backgroundColor: "rgb(180,200,255)"
           }}
         >
+          <span style={{ color: "red" }}>c1970 half-life</span>&nbsp;.5x
+          unemployed to population, 10x price/hours more hours for median home
+          <br />
           {/*this.state.width && <Misses width={this.state.width} />*/}
           <a
             href="https://lightte.ch"
@@ -132,6 +135,7 @@ export default class App extends React.Component {
           <a href="https://www.fbi.gov/file-repository/2015-ncic-missing-person-and-unidentified-person-statistics.pdf/view">
             {childrenAbducted} US citizen children abducted since covid
           </a>
+          : (not-fixed for cohort size yoy)
           <br />
           meanwhile login.gov and
           <br />
