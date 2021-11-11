@@ -364,8 +364,13 @@ export default class App extends React.Component {
           &nbsp;#ConsumerTwitter and have legal rights rallying cry can be "
           <a href="https://micro-theory.com">hung jury</a>"
           <TwitterTweetEmbed tweetId="1434938133246844930" />
-          gentrification
+          gentrification: wall st is top, free rider mutable tax, implausible
+          rentier use & gdp=debt/down reversal, not cancel forbidden by previous
+          demand nor bailout lending-counterfeiter-in-contract collusion with
+          borrower to loiter gdp/payments 11/1
           <TwitterTweetEmbed tweetId="1433865364602068999" />
+          "the guy, among other mental inhabilities, is stupid," says Rudy
+          Giuliani of Biden, without correlative brainscan.info
           <div
             style={{
               margin: "10px",
