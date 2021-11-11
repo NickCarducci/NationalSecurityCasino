@@ -107,7 +107,16 @@ export default class App extends React.Component {
             color: "white"
           }}
         >
-          occupy wall st/gov is free market communism;&nbsp;
+          debt-reversed by&nbsp;
+          <a
+            style={{
+              color: "rgb(197, 179, 88)"
+            }}
+            href="https://saverparty.xyz"
+          >
+            public-park-dollars 20% fed lands
+          </a>
+          &nbsp; occupy wall st/gov is free market communism;&nbsp;
           <a href="https://vaults.biz" style={{ color: "white" }}>
             86 credit as income
           </a>
