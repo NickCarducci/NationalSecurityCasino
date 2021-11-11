@@ -248,10 +248,13 @@ export default class App extends React.Component {
           <br />
           That's $821/day per person,&nbsp;
           <a href="https://wavv.art/forumCUiXE5xjbwE6WfLqf58K">
-            $100/day* for Afghanistan alone *Markey
+            $1/day* for Afghanistan alone *Markey
           </a>
           <br />
-          Can't be glass steagall & m4a #DontObamaMyBernie
+          Can't be glass steagall & m4a #DontObamaMyBernie feign premium for
+          monthly-deductible, as defining, "savings," rollover into
+          non-concurrentable non-compete is pushing it, investment banks keep to
+          equity, timelesspaydayroyalty scoped for industry-type for p2p only
           <br />
           <a href="https://froth.app/stats">100k/16m vaxxed UK 1800</a>
           <br />
