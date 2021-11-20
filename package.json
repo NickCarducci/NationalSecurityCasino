@@ -9,6 +9,7 @@
     "prop-types": "15.7.2",
     "react": "17.0.0",
     "react-dom": "17.0.0",
+    "react-instagram-post": "1.0.0",
     "react-scripts": "3.4.3",
     "react-svg-curve": "0.2.1",
     "scriptjs": "2.5.9",
