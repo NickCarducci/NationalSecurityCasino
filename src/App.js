@@ -2,7 +2,7 @@ import React from "react";
 import GDP from "./GDP";
 import TwitterTweetEmbed from "./TwitterTweetEmbed";
 import { UAParser } from "ua-parser-js";
-import InstagramEmbed from "./InstagramEmbed";
+import InstagramEmbed from "react-instagram-post"//"./InstagramEmbed";
 import { iGpostScript1 } from "./instagrampost1";
 //import Misses from "./misses";
 
