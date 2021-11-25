@@ -2,7 +2,7 @@ import React from "react";
 import GDP from "./GDP";
 import TwitterTweetEmbed from "./TwitterTweetEmbed";
 import { UAParser } from "ua-parser-js";
-import InstagramEmbed from "react-instagram-post"//"./InstagramEmbed";
+import InstagramEmbed from "react-instagram-post"; //"./InstagramEmbed";
 import { iGpostScript1 } from "./instagrampost1";
 //import Misses from "./misses";
 
@@ -100,6 +100,14 @@ export default class App extends React.Component {
           fontFamily: "'Quantico', sans-serif"
         }}
       >
+        Here I capture the accusations away from mentally-crazy or sick, but
+        “unhealthy,” understanding $300k/year/person new debt is created by
+        people with high cash flow and burn, as opposed to me, an
+        open-source-contributor&nbsp;&bull;&nbsp;40% debt spending and free
+        rider mutable tax for no less than monopsonyand the same &nbsp;
+        <a href="https://micro-theory.com">intermediate-goods</a>
+        <br />
+        <br />
         <a href="//www.slideshare.net/NicholasCarducci/thumbprint-phone">
           https://www.slideshare.net/NicholasCarducci/slideshelf
         </a>
@@ -1358,4 +1366,3 @@ export default class App extends React.Component {
     );
   }
 }
-
