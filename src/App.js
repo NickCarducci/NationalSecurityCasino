@@ -100,6 +100,10 @@ export default class App extends React.Component {
           fontFamily: "'Quantico', sans-serif"
         }}
       >
+        5x hours per employed and 2x employed per people makes 10x hours per
+        home since 1970
+        <br />
+        <br />
         Here I capture the accusations away from mentally-crazy or sick, but
         “unhealthy,” understanding $300k/year/person new debt is created by
         people with high cash flow and burn, as opposed to me, an
