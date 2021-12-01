@@ -115,7 +115,7 @@ export default class App extends React.Component {
     }
   };
   render() {
-    const { childrenAbducted, width } = this.state;
+    const { childrenAbducted } = this.state;
     const handleScollImgError = (e) => {
       if (e) {
         this.setState({ settleDropboxFree: true });
