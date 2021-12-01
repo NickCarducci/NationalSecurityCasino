@@ -129,6 +129,10 @@ export default class App extends React.Component {
           fontFamily: "'Quantico', sans-serif"
         }}
       >
+        Communists think we should take property, market-communists think they
+        can take whatever property they want
+        <br />
+        <br />
         Love, comfort, and tranquility; m1v1===m2v2=gdp
         <br />
         <br />
