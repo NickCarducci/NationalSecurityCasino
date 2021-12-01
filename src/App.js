@@ -133,7 +133,7 @@ export default class App extends React.Component {
         can take whatever property they want
         <br />
         <br />
-        Love, comfort, and tranquility; m1v1===m2v2=gdp
+        Love, comfort, and tranquility; m1v1===m2v2=gdp&nbsp;&nbsp;&nbsp;/yr
         <br />
         <br />
         <Cable
