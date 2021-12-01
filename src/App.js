@@ -1,6 +1,7 @@
 import React from "react";
 import GDP from "./GDP";
 import TwitterTweetEmbed from "./TwitterTweetEmbed";
+import Cable from "./Dropwire";
 import { UAParser } from "ua-parser-js";
 import InstagramEmbed from "./InstagramEmbed"; //"react-instagram-post";
 import { iGpostScript1 } from "./instagrampost1";
@@ -60,6 +61,9 @@ export default class App extends React.Component {
     const name = parser.getBrowser().name;
     console.log(name);
     this.state = { browser: name, width: null, ios: null, lastWidth: null };
+    for (let i = 0; i < 250; i++) {
+      this["scrollImg" + i] = React.createRef();
+    }
   }
   componentDidMount = () => {
     this.setState({
@@ -74,6 +78,7 @@ export default class App extends React.Component {
     clearTimeout(this.mounting);
     clearTimeout(this.resizeTimer);
     window.removeEventListener("resize", this.refresh);
+    window.removeEventListener("scroll", this.handleScroll);
   }
   refresh = (first) => {
     const width = this.state.ios ? window.screen.availWidth : window.innerWidth;
@@ -90,8 +95,32 @@ export default class App extends React.Component {
       }, 600);
     }
   };
+  handleScroll = (e) => {
+    if (!this.state.offScroll) {
+      const scrollTop = window.scrollY; //+ window.innerHeight;
+      this.setState(
+        {
+          scrolling: true,
+          scrollTop
+        },
+        () => {
+          clearTimeout(this.scrollTimeout);
+          this.scrollTimeout = setTimeout(() => {
+            this.setState({
+              scrolling: false
+            });
+          }, 900);
+        }
+      );
+    }
+  };
   render() {
-    const { childrenAbducted } = this.state;
+    const { childrenAbducted, width } = this.state;
+    const handleScollImgError = (e) => {
+      if (e) {
+        this.setState({ settleDropboxFree: true });
+      }
+    };
     return (
       <div
         style={{
@@ -100,6 +129,21 @@ export default class App extends React.Component {
           fontFamily: "'Quantico', sans-serif"
         }}
       >
+        <Cable
+          style={{ height: "440px" }}
+          onError={handleScollImgError}
+          src={
+            this.state.iosNoPhoto
+              ? ""
+              : "https://drive.google.com/file/d/1n-bU8DgdAouc6_C5Qss9qTkwJJ3xfAsY/preview"
+          }
+          float="left"
+          title="Jen Psaki (Yahoo Finance w/ chat) - You are laundering thru savings accounts but not paying it down"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 2]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
         5x hours per employed and 2x employed per people makes 10x hours per
         home since 1970
         <br />
@@ -112,6 +156,20 @@ export default class App extends React.Component {
         <a href="https://micro-theory.com">intermediate-goods</a>
         <br />
         <br />
+        <Cable
+          onError={handleScollImgError}
+          src={
+            this.state.noyoutube
+              ? ""
+              : "https://www.youtube.com/embed/nUNYL8V0GK4"
+          }
+          float="right"
+          title="Stephen Moore (77WABC Moore Money) - 3/13/2021 "
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 1]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
         <a href="//www.slideshare.net/NicholasCarducci/thumbprint-phone">
           https://www.slideshare.net/NicholasCarducci/slideshelf
         </a>
@@ -127,7 +185,13 @@ export default class App extends React.Component {
         <a href="https://support.apple.com/en-us/HT202303">
           apple/fb cloud keys end-to-end enbunction
         </a>
-        <InstagramEmbed script={iGpostScript1} />
+        <InstagramEmbed
+          script={iGpostScript1}
+          style={{
+            float: "left",
+            height: "min-content"
+          }}
+        />
         <div
           style={{
             backgroundColor: "black",
