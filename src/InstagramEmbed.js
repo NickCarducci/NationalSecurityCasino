@@ -35,7 +35,8 @@ export default class InstagramEmbed extends Component {
     //this.refs.embedContainer
     this.ig.current.innerHTML = this.props.script;
     this.setState({
-      isLoading: false
+      isLoading: false,
+      style: this.props.style
     });
     if (onLoad) {
       onLoad();
@@ -61,6 +62,6 @@ export default class InstagramEmbed extends Component {
   }
 
   render() {
-    return <div ref={this.ig} />;
+    return <div ref={this.ig} style={this.state.style} />;
   }
 }
