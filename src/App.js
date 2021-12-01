@@ -129,6 +129,28 @@ export default class App extends React.Component {
           fontFamily: "'Quantico', sans-serif"
         }}
       >
+        Socialists do not want to government gentrify, they are
+        market-communists for government, the republicans and libertarians are
+        for private corporations, bond-index-funds &
+        expiring-false-bid-insurance-premium-coverage-pools
+        <br />
+        <br />
+        “There can only be two sides in a chamber with an isle,”
+        <br />
+        “Black Christmas is part of what the Marxists want to do,” Just the News
+        <br />
+        What the fuck does that mean
+        <br />
+        “Killing Keystone XL, hurt americas’ interest,” isn’t the usage fee
+        laundered to government and corporate profits instead of target margin
+        consumer surrogate. “Constitutional pipeline, let’s have jobs here,
+        let’s have security here,”
+        <br />
+        <br />
+        Bonds and home prices is not in inflation nor gini inequality; 7.5%
+        bonds and money, 5% homes, 2% inflation and population
+        <br />
+        <br />
         Communists think we should take property, market-communists think they
         can take whatever property they want
         <br />
