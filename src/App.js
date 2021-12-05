@@ -129,6 +129,10 @@ export default class App extends React.Component {
           fontFamily: "'Quantico', sans-serif"
         }}
       >
+        <h2>
+          Economics teachers revel us into disparity -&nbsp;
+          <a href="https://micro-theory.com">micro-theory.com</a>
+        </h2>
         Socialists do not want to government gentrify, they are
         market-communists for government, the republicans and libertarians are
         for private corporations, bond-index-funds &
