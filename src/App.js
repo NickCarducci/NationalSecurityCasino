@@ -153,7 +153,8 @@ export default class App extends React.Component {
           <br />
           <span style={{ fontSize: "20px" }}>
             inflation and gini doesn’t propensity-fix, nor count homes,
-            courted-bonds or collateral-repo-and-down
+            courted-bonds or&nbsp;
+            <a href="https://carducci.us">collateral-repo-and-down</a>
           </span>
           <br />
           <span style={{ fontSize: "17px" }}>
