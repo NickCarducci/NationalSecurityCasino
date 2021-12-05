@@ -129,9 +129,37 @@ export default class App extends React.Component {
           fontFamily: "'Quantico', sans-serif"
         }}
       >
-        <h2>
-          Economics teachers revel us into disparity -&nbsp;
-          <a href="https://micro-theory.com">micro-theory.com</a>
+        <h2
+          style={{
+            width: "100%"
+          }}
+        >
+          <a
+            style={{
+              shapeOutside: "rect()",
+              float: "right",
+              width: "max-content",
+              padding: "0px 10px",
+              fontSize: "20px",
+              fontFamily: "'Pacifico', sans-serif",
+              color: "rgb(230,230,255)",
+              backgroundColor: "rgb(32, 22, 11)"
+            }}
+            href="https://micro-theory.com"
+          >
+            micro-theory.com
+          </a>
+          Economics teachers revel us into disparity.
+          <br />
+          <span style={{ fontSize: "20px" }}>
+            inflation and gini doesn’t propensity-fix, nor count homes,
+            courted-bonds or collateral-repo-and-down
+          </span>
+          <br />
+          <span style={{ fontSize: "17px" }}>
+            Price-deflation per hour is productivity, not gini, inflation, nor
+            jobs, prices or natural redistribution (trade per hour)
+          </span>
         </h2>
         Socialists do not want to government gentrify, they are
         market-communists for government, the republicans and libertarians are
