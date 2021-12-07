@@ -129,46 +129,51 @@ export default class App extends React.Component {
           fontFamily: "'Quantico', sans-serif"
         }}
       >
+        <a
+          style={{
+            shapeOutside: "rect()",
+            float: "right",
+            width: "max-content",
+            padding: "0px 10px",
+            fontSize: "20px",
+            fontFamily: "'Pacifico', sans-serif",
+            color: "rgb(230,230,255)",
+            backgroundColor: "rgb(32, 22, 11)"
+          }}
+          href="https://micro-theory.com"
+        >
+          micro-theory.com
+        </a>
+        <a
+          style={{
+            shapeOutside: "rect()",
+            float: "right",
+            width: "max-content",
+            padding: "0px 10px",
+            fontSize: "20px",
+            fontFamily: "'Pacifico', sans-serif",
+            color: "rgb(230,230,255)",
+            backgroundColor: "rgb(32, 22, 11)"
+          }}
+          href="https://truncatedsalestax.com"
+        >
+          truncatedsalestax.com
+        </a>
+        <span style={{ fontSize: "9px" }}>
+          “Tapering off bond buying of the outstanding bonds doesn’t raise
+          rates,” John Catsimitidis, "You at least have to get the froth out,"
+          like correct collateral to debt-inelasticity of bid-to-ask upon third
+          party beneficiary donee claimable. cash:debt*income thru hisotry is
+          only way out, not bailout/new deal nor cancel for gini ex bond
+          (7.5%/yr+) and home (5%/yr+), gdp/p before 1913 nearly constant lest
+          private property not inflation meant to be serfs but repo-cycle
+          kept-down-payments price-fixed by courts, 1/2 mortgages
+        </span>
         <h2
           style={{
             width: "100%"
           }}
         >
-          <a
-            style={{
-              shapeOutside: "rect()",
-              float: "right",
-              width: "max-content",
-              padding: "0px 10px",
-              fontSize: "20px",
-              fontFamily: "'Pacifico', sans-serif",
-              color: "rgb(230,230,255)",
-              backgroundColor: "rgb(32, 22, 11)"
-            }}
-            href="https://micro-theory.com"
-          >
-            micro-theory.com
-          </a>
-          <a
-            style={{
-              shapeOutside: "rect()",
-              float: "right",
-              width: "max-content",
-              padding: "0px 10px",
-              fontSize: "20px",
-              fontFamily: "'Pacifico', sans-serif",
-              color: "rgb(230,230,255)",
-              backgroundColor: "rgb(32, 22, 11)"
-            }}
-            href="https://truncatedsalestax.com"
-          >
-            truncatedsalestax.com
-          </a>
-          <span style={{ fontSize: "9px" }}>
-            “Tapering off bond buying of the outstanding bonds doesn’t raise
-            rates,” John Catsimitidis
-          </span>
-          <br />
           Economics teachers revel us into disparity.
           <br />
           <span style={{ fontSize: "20px" }}>
