@@ -177,6 +177,30 @@ export default class App extends React.Component {
           src={
             this.state.iosNoPhoto
               ? ""
+              : "https://drive.google.com/file/d/1009XvG4fePjw7hrKOpG8WsG40c_GNU6y/preview"
+          }
+          float="left"
+          title="Chris Salcedo (Newsmax) -  August Pfluger of texas racketeering for oil pipeline fees"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 4]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        “You don’t want to be beholden to foreigners for energy,” what do you
+        want
+        <br />
+        Security of private commerce is part of truncated sales tax sewage
+        police lawsuits, you don’t need to rent-seek and government gentrify
+        consumer surrogate operating costables, just target margin network fees
+        and bridge tolls and quality monopsony by jury for duress within minimal
+        viable product (varying industry multiple of 12)
+        <br />
+        <br />
+        <Cable
+          onError={handleScollImgError}
+          src={
+            this.state.iosNoPhoto
+              ? ""
               : "https://drive.google.com/file/d/1UluGvWpLsnrRNHLJLMq2YuHn3xCHZ843/preview"
           }
           float="right"
