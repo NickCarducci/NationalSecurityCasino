@@ -171,6 +171,23 @@ export default class App extends React.Component {
           private property not inflation meant to be serfs but repo-cycle
           kept-down-payments price-fixed by courts, 1/2 mortgages
         </span>
+        <br />
+        <Cable
+          onError={handleScollImgError}
+          src={
+            this.state.iosNoPhoto
+              ? ""
+              : "https://drive.google.com/file/d/1UluGvWpLsnrRNHLJLMq2YuHn3xCHZ843/preview"
+          }
+          float="right"
+          title="Chris Salcedo (Newsmax) - Carl Higbie on Democratic policies making less GDP, neither debt-less cops"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 3]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        “Every time you get Democrat policies you get lower wealth,”
+        non-depositary property is useless wealth
         <h2
           style={{
             width: "100%"
