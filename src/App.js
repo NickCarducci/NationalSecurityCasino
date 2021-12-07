@@ -149,6 +149,21 @@ export default class App extends React.Component {
           >
             micro-theory.com
           </a>
+          <a
+            style={{
+              shapeOutside: "rect()",
+              float: "right",
+              width: "max-content",
+              padding: "0px 10px",
+              fontSize: "20px",
+              fontFamily: "'Pacifico', sans-serif",
+              color: "rgb(230,230,255)",
+              backgroundColor: "rgb(32, 22, 11)"
+            }}
+            href="https://truncatedsalestax.com"
+          >
+            truncatedsalestax.com
+          </a>
           Economics teachers revel us into disparity.
           <br />
           <span style={{ fontSize: "20px" }}>
