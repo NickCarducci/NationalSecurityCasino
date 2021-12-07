@@ -164,6 +164,11 @@ export default class App extends React.Component {
           >
             truncatedsalestax.com
           </a>
+          <span style={{ fontSize: "9px" }}>
+            “Tapering off bond buying of the outstanding bonds doesn’t raise
+            rates,” John Catsimitidis
+          </span>
+          <br />
           Economics teachers revel us into disparity.
           <br />
           <span style={{ fontSize: "20px" }}>
