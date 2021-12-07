@@ -181,6 +181,37 @@ export default class App extends React.Component {
         landlord use) is excusable, is a product of racketeering enabled by a
         beyond article 4 state
         <br />
+        <br />
+        "They'll look at all the variables, not just rates," Mark Levin says
+        about lending and thid party beneficiary donee claimable brought forward
+        demand for the same intermediate material and labor estimates monopsony.
+        <br />
+        <br />
+        <Cable
+          onError={handleScollImgError}
+          src={
+            this.state.iosNoPhoto
+              ? ""
+              : "https://drive.google.com/file/d/1ZzE9i9INvfW3a-SGRdMzpTIRZYhPLMVb/preview"
+          }
+          float="right"
+          title="Spicer & co (Newsmax) - Mike Huckabee on needing a draft next planned attack, like a mob vig"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 7]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        You want me to fight for what? Your bonds and homes that don’t even
+        count in inflation, like we are meant to be serf? I don’t want to hear,
+        “we aren’t perfect, but we are the best there is.” Reverse
+        debt:cash*income thru history, cap rent at 5 units or 30 days (not
+        price) and ban expiring claims for false bid pool third party
+        beneficiary donee claimable of the surrenderers’ consumers and
+        employers. I would sooner shoot you than fight for your ideals, Mike
+        Huckabee, keeper of bonds and homes without inflation designation of
+        such like feifdom intent in broad daylight. WE SLAUGHTERED COLONIALISTS.
+        <br />
+        <br />
         <Cable
           onError={handleScollImgError}
           src={
