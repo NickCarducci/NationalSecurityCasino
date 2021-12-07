@@ -172,6 +172,55 @@ export default class App extends React.Component {
           kept-down-payments price-fixed by courts, 1/2 mortgages
         </span>
         <br />
+        <h2>
+          no consent between wall st pharma cop v wall st pharma cop plural
+          minority collusion; stay at home moms aren't my base
+        </h2>
+        Committing to mental institution instead of Trespass but while finance
+        (repo-cycle kept-down payments, expiring claims, invoices, implausible
+        landlord use) is excusable, is a product of racketeering enabled by a
+        beyond article 4 state
+        <br />
+        <Cable
+          onError={handleScollImgError}
+          src={
+            this.state.iosNoPhoto
+              ? ""
+              : "https://drive.google.com/file/d/1qaX3Php-D23jEEUDrUKqv4zvr5qRnIdS/preview"
+          }
+          float="left"
+          title="Spicer & co (Newsmax) - Marsha Blackburn on democracy"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 6]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        “The world consensus doesn’t think Biden can lead on democracy,” “Trump
+        front-ran blankets and food ready to eat, savers be damned.”
+        <br />
+        <br />
+        <Cable
+          onError={handleScollImgError}
+          src={
+            this.state.iosNoPhoto
+              ? ""
+              : "https://drive.google.com/file/d/16yo_NC3tA1NpLSlG3TxxeWmwRcbNb6OF/preview"
+          }
+          float="right"
+          title="Spicer & co (Newsmax) - Meredith MCGraw, National Security Correspondent, Politico on civil disobedience, democracy, consent and polling"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 5]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        “So the next time there is civil disobedience, our leaders know how to
+        respond appropriately,” Meredith McGraw National Security Correspondent,
+        Politico Credit is haram, what else are you supposed to do when cops are
+        malfeasant over third party beneficiary donee claimables Or naming a
+        pandemic based on less than expected 2015- 75+ 1.2m/yr excess deaths age
+        standardized by cohort gains, to trust-build ppp and certify an election
+        with survey bias and magnetic data “audits,”
+        <br />
         <Cable
           onError={handleScollImgError}
           src={
