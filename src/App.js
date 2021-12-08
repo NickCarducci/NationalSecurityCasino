@@ -185,6 +185,10 @@ export default class App extends React.Component {
           &nbsp;plural minority collusion; stay at home moms aren't my base
         </h2>
         <Cable
+          style={{
+            width: "100%",
+            maxWidth: "400px"
+          }}
           onError={handleScollImgError}
           src={
             this.state.noyoutube
@@ -194,7 +198,7 @@ export default class App extends React.Component {
           float="left"
           title="Dick Morris (77WABC) - Advisor to Clinton and Trump on greenhouse gases, WWII and Marxist anti-rentier, repo-cycle, and profit by estimates of labor and material, rather than demository so labor is exclusively demand."
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 8]}
+          fwd={this["scrollImg" + 9]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
