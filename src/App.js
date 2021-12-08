@@ -178,6 +178,49 @@ export default class App extends React.Component {
         "let's get some jobs here," by busy-work and (design and discovery)
         IP-equity dilution is still retarded
         <br />
+        <br />
+        <Cable
+          onError={handleScollImgError}
+          src={
+            this.state.iosNoPhoto
+              ? ""
+              : "https://drive.google.com/file/d/1Vv7DOGe4Et2rrjrShfKx6gS7j3YvSxEK/preview"
+          }
+          float="right"
+          title="Rob Scmitt Tonight (Newsmax) - Nat Sec. Adv Jake Sullivan on 2 Russian-colony sanctions"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 11]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        <h2>
+          <span style={{ fontSize: "10px" }}>
+            “Nice big present from the United States,” says Schmitt about Saver
+            equity, sounding very
+          </span>
+          &nbsp;national-market-communist. It’s only tech advanced comparative
+          advantagable self harm, I tell you
+        </h2>
+        <br />
+        <Cable
+          onError={handleScollImgError}
+          src={
+            this.state.iosNoPhoto
+              ? ""
+              : "https://drive.google.com/file/d/1Fb_gOstIhpX7CE6zdHMtO_9lXB2fwLFB/preview"
+          }
+          float="left"
+          title="Rob Scmitt Tonight (Newsmax) - Morgan Ortagus on 2 Russian-colony sanctions"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 10]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        "We will never know the origin of covid, so the big takeaway is how
+        hostile China is going to be against Taiwan." Nato is a military, a
+        political organization, there needs to be a funding to go after these
+        _."
+        <br />
         <TwitterTweetEmbed
           style={{ width: "300px", float: "right" }}
           tweetId="1421858300979732480"
