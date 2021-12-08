@@ -174,7 +174,8 @@ export default class App extends React.Component {
         <br />
         rick grenell thinks utility can be owned
         <br />
-        "let's get some jobs here," by busy-work is still retarded
+        "let's get some jobs here," by busy-work and (design and discovery)
+        IP-equity dilution is still retarded
         <br />
         <h2>
           no consent between&nbsp;
