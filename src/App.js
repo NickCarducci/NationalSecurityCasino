@@ -159,6 +159,14 @@ export default class App extends React.Component {
         >
           truncatedsalestax.com
         </a>
+        spic: “Socialists follow their own laws, even if they are breaking the
+        very laws they are putting forward,” Chris Salcedo
+        <br />
+        “Socialists can’t raise the debt ceiling, even if we need it for the
+        faith of our dollar-park-land without other income or utility intrinsic
+        value,”
+        <br />
+        <br />
         you are going tojail you fat grocer; how can you get people to take on
         debt? give them some of it now.
         <br />
