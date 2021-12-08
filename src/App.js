@@ -177,6 +177,17 @@ export default class App extends React.Component {
         "let's get some jobs here," by busy-work and (design and discovery)
         IP-equity dilution is still retarded
         <br />
+        <TwitterTweetEmbed
+          style={{ width: "300px", float: "right" }}
+          tweetId="1421858300979732480"
+        />
+        “Against medical advice&nbsp;
+        <a href="https://www.biblegateway.com/passage/?search=1%20John%202%3A22&version=KJV">
+          religious
+        </a>
+        &nbsp;or medical, here is your badge or here is[ your freedom],” Alan
+        jackson firefighter crafted
+        <br />
         <h2>
           no consent between&nbsp;
           <a href="https://teapharmacy.party">
