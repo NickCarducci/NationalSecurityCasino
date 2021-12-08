@@ -174,6 +174,8 @@ export default class App extends React.Component {
         <br />
         rick grenell thinks utility can be owned
         <br />
+        "let's get some jobs here," by busy-work is still retarded
+        <br />
         <h2>
           no consent between&nbsp;
           <a href="https://teapharmacy.party">
