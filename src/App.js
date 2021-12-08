@@ -164,28 +164,60 @@ export default class App extends React.Component {
         <br />
         $1/821 pulled out for social security, half disabled and continuing
         claims, 20x/person rental-income.
-        <Cable
-          onError={handleScollImgError}
-          src={
-            this.state.iosNoPhoto
-              ? ""
-              : "https://drive.google.com/file/d/18YO4TTjqmAKroh4uhnmOYKTIxrkGt_ps/preview"
-          }
-          float="right"
-          title="Chris Salcedo (Newsmax) - NY Hospitol fires 100 unvaxxed employees who claim religious exemption"
-          scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 16]}
-          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
-          scrollTop={this.state.scrollTop}
-        />
         <h2>
           Nice, libertarians
           <br />
+          White Marxists, more like Taupe
+          <br />
+          <Cable
+            style={{
+              width: "300px",
+              height: "200px"
+            }}
+            onError={handleScollImgError}
+            src={
+              this.state.iosNoPhoto
+                ? ""
+                : "https://drive.google.com/file/d/18YO4TTjqmAKroh4uhnmOYKTIxrkGt_ps/preview"
+            }
+            float="left"
+            title="Chris Salcedo (Newsmax) - NY Hospitol fires 100 unvaxxed employees who claim religious exemption"
+            scrolling={this.state.scrolling}
+            fwd={this["scrollImg" + 17]}
+            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+            scrollTop={this.state.scrollTop}
+          />
           finite producers is not sufficient for perfect equillibrium of
           demand-exclusivity-of-labor, or outlaid t-0 (time zero)
         </h2>
         "Virus don't want to kill you, they want to survive. In 1918, my
         grandfather died of starvation at 35,"
+        <br />
+        “Stingers anti aircraft and anti boat weaponry,” are we exclusive
+        providers?
+        <br />
+        “The IRC are going to ignore 5m killed with covid,” you tested for that,
+        doesn’t mean it was the cause…
+        <br />
+        <Cable
+          onError={handleScollImgError}
+          src={
+            this.state.iosNoPhoto
+              ? ""
+              : "https://drive.google.com/file/d/17vIOS1lC8FEteH8LEbFTPvKL3T5FaW4q/preview"
+          }
+          float="right"
+          title="Spicer & co (Newsmax) - Kimmick and Waltz on China intermediate supply-demand && bond work deficit"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 16]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        “We need to get China out of the DOD, it is&nbsp;
+        <a href="https://constitutioncenter.org/interactive-constitution/article/article-iii#article-section-3">
+          long
+        </a>
+        &nbsp;overdue,” Kimmick
         <br />
         <a
           style={{
