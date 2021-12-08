@@ -222,6 +222,10 @@ export default class App extends React.Component {
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
+        <h2>
+          save the supply chain: don't be racist&nbsp;
+          <span style={{ fontSize: "14px" }}>teapharmacy.party</span>
+        </h2>
         “We need to get China out of the DOD, it is&nbsp;
         <a href="https://constitutioncenter.org/interactive-constitution/article/article-iii#article-section-3">
           long
