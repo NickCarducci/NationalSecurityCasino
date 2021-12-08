@@ -190,7 +190,11 @@ export default class App extends React.Component {
           finite producers is not sufficient for perfect equillibrium of
           demand-exclusivity-of-labor, or outlaid t-0 (time zero)
         </h2>
-        "Virus don't want to kill you, they want to&nbsp;
+        "Virus don't want to&nbsp;
+        <a href="https://www.genome.gov/genetics-glossary/Virus#:~:text=Viruses%20must%20infect%20cells%20and,been%20found%20everywhere%20on%20Earth.">
+          kill
+        </a>
+        &nbsp;you, they want to&nbsp;
         <a href="https://youtu.be/Weqb9KrQ-TU?t=21">survive</a>. In 1918, my
         grandfather died of starvation at 35,"
         <br />
