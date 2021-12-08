@@ -212,7 +212,8 @@ export default class App extends React.Component {
           If at any time the fed is not funded, the full faith and credit is at
           stake. the military will enforce
           [third-party-beneficiary-donee-claimable repo-cycle kept-down-payment
-          intent deDUCES]." - John Gizzi
+          intent deDUCES]." - John Gizzi (Third party beneficiary force majeure
+          oohhhh it's about consent)
           <br />
           <span
             style={{
