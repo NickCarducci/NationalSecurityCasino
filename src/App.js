@@ -184,6 +184,17 @@ export default class App extends React.Component {
           finite producers is not sufficient for perfect equillibrium of
           demand-exclusivity-of-labor, or outlaid t-0 (time zero)
         </h2>
+        “1/4 fraud childcare credit,” Rand Paul
+        <br />
+        “Wishlist of big government socialism, they give free stuff, but it
+        costs in inflation, fed spends and money raises inflation, then Biden
+        says borrowing gets rid of inflation.
+        <br />
+        ...They tried to squelch our country, but capitalism survived, we need
+        to get these people out of our business and church lives. these bylaws
+        are based on whims."
+        <br />
+        <br />
         spic: “Socialists follow their own laws, even if they are breaking the
         very laws they are putting forward,” Chris Salcedo.
         <br />
