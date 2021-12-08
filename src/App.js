@@ -164,8 +164,26 @@ export default class App extends React.Component {
         <br />
         $1/821 pulled out for social security, half disabled and continuing
         claims, 20x/person rental-income.
-        <br />
-        <br />
+        <Cable
+          onError={handleScollImgError}
+          src={
+            this.state.iosNoPhoto
+              ? ""
+              : "https://drive.google.com/file/d/18YO4TTjqmAKroh4uhnmOYKTIxrkGt_ps/preview"
+          }
+          float="right"
+          title="Chris Salcedo (Newsmax) - NY Hospitol fires 100 unvaxxed employees who claim religious exemption"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 16]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        <h2>
+          Nice, libertarians
+          <br />
+          finite producers is not sufficient for perfect equillibrium of
+          demand-exclusivity-of-labor, or outlaid t-0 (time zero)
+        </h2>
         spic: “Socialists follow their own laws, even if they are breaking the
         very laws they are putting forward,” Chris Salcedo.
         <br />
