@@ -219,6 +219,28 @@ export default class App extends React.Component {
         beyond article 4 state
         <br />
         <br />
+        “48% Trump, 47% Biden, 8% undecided of wall st Pharma cop vs wall st
+        Pharma cop voters.
+        <br />
+        65% positive, 10% socialism GOP is good.
+        <br />
+        "Everyone gets the same power to the people share the land, Bernie
+        Sanders isn’t sharing any land in cottage, younger Americans usually
+        change,” if republicans are smart, they will export that. These are
+        radical people, and most are not.” Chicago is violent, but 37 shot 9
+        kills 12-41 in two days. Um. So. It would be better in the Chicago way
+        if they impeach Laurie lightfoot with a 7-th grader, a 7th grader can do
+        a better job. Are you teaching kids properly? We need to hold parents
+        accountable.’ You can’t even hold criminals accountable. This woman is
+        absurd! Cuomo wants everyone vaccinated, no ice cream, Sunday without a
+        vcxx passport. Eric Adams isn’t gonna do anything like this. Going out
+        like B. Tweed. DiBlasio was dictator, and didn’t do what he wanted, he
+        would hurt you.”
+        <br />
+        I’ll drown you if you do not appreciate third party beneficiary donee
+        claimable
+        <br />
+        <br />
         <Cable
           onError={handleScollImgError}
           src={
