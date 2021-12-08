@@ -178,6 +178,26 @@ export default class App extends React.Component {
           private property not inflation meant to be serfs but repo-cycle
           kept-down-payments price-fixed by courts, 1/2 mortgages
         </span>
+        <Cable
+          onError={handleScollImgError}
+          src={
+            this.state.iosNoPhoto
+              ? ""
+              : "https://drive.google.com/file/d/1GyfYlwufkHxtlaWiF-EPdB92TX0JgFmz/preview"
+          }
+          float="left"
+          title="American Agenda (Newsmax) - Eric Bolling foreign affairs"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 12]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        <br />
+        “If China sends us another virus that&nbsp;
+        <a href="https://humanharvest.info">kills</a>&nbsp;hundreds of
+        thousands, then we need to be tactical, but ground war is stupid in this
+        day and age,”
+        <br />
         <br />
         rick grenell thinks utility can be owned
         <br />
