@@ -190,7 +190,8 @@ export default class App extends React.Component {
           finite producers is not sufficient for perfect equillibrium of
           demand-exclusivity-of-labor, or outlaid t-0 (time zero)
         </h2>
-        "Virus don't want to kill you, they want to survive. In 1918, my
+        "Virus don't want to kill you, they want to&nbsp;
+        <a href="https://youtu.be/Weqb9KrQ-TU?t=21">survive</a>. In 1918, my
         grandfather died of starvation at 35,"
         <br />
         “Stingers anti aircraft and anti boat weaponry,” are we exclusive
@@ -198,7 +199,11 @@ export default class App extends React.Component {
         <br />
         “The IRC are going to ignore 5m killed with covid,” you tested for that,
         doesn’t mean it was the cause…
-        <br />
+        <h3>
+          <a href="https://www.scientificamerican.com/article/are-viruses-alive-2004/">
+            Tim Heidecker Blasts Joe Rogan
+          </a>
+        </h3>
         <Cable
           onError={handleScollImgError}
           src={
