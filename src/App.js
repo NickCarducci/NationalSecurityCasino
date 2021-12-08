@@ -183,6 +183,20 @@ export default class App extends React.Component {
           src={
             this.state.iosNoPhoto
               ? ""
+              : "https://drive.google.com/file/d/1cLLyItHh3EcQMup6habyRWqaGSLF9Y7t/preview"
+          }
+          float="right"
+          title="2015 mortality projections, US Census Bureau 1.2m/yr+ standardized excess deaths by cohort, gain (75+)"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 13]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        <Cable
+          onError={handleScollImgError}
+          src={
+            this.state.iosNoPhoto
+              ? ""
               : "https://drive.google.com/file/d/1GyfYlwufkHxtlaWiF-EPdB92TX0JgFmz/preview"
           }
           float="left"
