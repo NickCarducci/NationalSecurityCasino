@@ -490,7 +490,12 @@ export default class App extends React.Component {
         machine guns, Mexicans cannot retrieve all of this, and if the economy
         collapses, there is going to be violence. Here."
         <br />
-        <br />
+        <h2>
+          Necessary, sufficient, but not exclusive: “not, not that” Precedence
+          goes both ways
+          <br />
+          conviction, desistation or permit duress in mvp
+        </h2>
         "Chaos, no social services, no cable, no 'No Spin News,'” just because
         it is monopoly doesn’t mean you have to nationalize network fees.
         <br />
