@@ -178,6 +178,52 @@ export default class App extends React.Component {
           private property not inflation meant to be serfs but repo-cycle
           kept-down-payments price-fixed by courts, 1/2 mortgages
         </span>
+        <br />
+        <Cable
+          onError={handleScollImgError}
+          src={
+            this.state.iosNoPhoto
+              ? ""
+              : "https://drive.google.com/file/d/1K0Vyk7e26LevjFJugHH8bMhjPlzlQYEN/preview"
+          }
+          float="left"
+          title=""
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 15]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        <Cable
+          style={{ height: "100px" }}
+          onError={handleScollImgError}
+          src={
+            this.state.iosNoPhoto
+              ? ""
+              : "https://drive.google.com/file/d/17pE-RBm4UafsManNe7ryYGxfAXb_a0ub/preview"
+          }
+          float="right"
+          title=""
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 14]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        <h2>
+          If at any time the fed is not funded, the full faith and credit is at
+          stake. the military will enforce
+          [third-party-beneficiary-donee-claimable repo-cycle kept-down-payment
+          intent deDUCES]." - John Gizzi
+          <br />
+          <span
+            style={{
+              fontSize: "18px"
+            }}
+          >
+            “Cutting a deal over the debt ceiling,” even a tiny morsel of the
+            usual $4t/yr free rider mutable tax and 40% debt spending is pure
+            price inflation
+          </span>
+        </h2>
         <Cable
           onError={handleScollImgError}
           src={
