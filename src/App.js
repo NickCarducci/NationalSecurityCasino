@@ -172,12 +172,15 @@ export default class App extends React.Component {
           kept-down-payments price-fixed by courts, 1/2 mortgages
         </span>
         <br />
-        <h2>
-          no consent between wall st pharma cop v wall st pharma cop plural
-          minority collusion; stay at home moms aren't my base
-        </h2>
         rick grenell thinks utility can be owned
         <br />
+        <h2>
+          no consent between&nbsp;
+          <a href="https://teapharmacy.party">
+            wall st pharma cop v wall st pharma cop
+          </a>
+          &nbsp;plural minority collusion; stay at home moms aren't my base
+        </h2>
         Committing to mental institution instead of Trespass but while finance
         (repo-cycle kept-down payments, expiring claims, invoices, implausible
         landlord use) is excusable, is a product of racketeering enabled by a
@@ -207,27 +210,27 @@ export default class App extends React.Component {
         claimable or your head.
         <br />
         <br />
-        Debt of gratitude, actually it is real debt we have to pay
+        Debt of gratitude, actually it is real debt we have to pay.
         <br />
         That we never actually can, not for 44 years somehow paying off debt
-        with current income
+        with current income.
         <br />
         The amount of years it would take do do that, 1.1/yr being the velocity
-        of CurrencyComponentOfM1 (gdp without bonds)
+        of CurrencyComponentOfM1 (gdp without bonds).
         <br />
         Mark Levin supporting 501c3 for dissolution to the state. Socialists are
         more conservative, not the self described market communist ones in bed
-        with the nationalized bridge toll republicans
+        with the nationalized bridge toll republicans.
         <br />
         Republicans think debt is a waste unless you are a lender, an apparent
-        disregard for human life
+        disregard for human life.
         <br />
         “She was unarmed.” Do not give me money, took out a cash advance to
         short debt with the intention to instate the policy for third party
         beneficiary donee claimables cash:debt*income thru history. Lenders want
         to repo-cycle and keep-down-payments. They know it is impossible
         laundering of people with money, the loiterers’ consumers, employers and
-        chorers
+        chorers.
         <br />
         <br />
         "They'll look at all the variables, not just rates," Mark Levin says
