@@ -205,6 +205,29 @@ export default class App extends React.Component {
         claimable or your head.
         <br />
         <br />
+        Debt of gratitude, actually it is real debt we have to pay
+        <br />
+        That we never actually can, not for 44 years somehow paying off debt
+        with current income
+        <br />
+        The amount of years it would take do do that, 1.1/yr being the velocity
+        of CurrencyComponentOfM1 (gdp without bonds)
+        <br />
+        Mark Levin supporting 501c3 for dissolution to the state. Socialists are
+        more conservative, not the self described market communist ones in bed
+        with the nationalized bridge toll republicans
+        <br />
+        Republicans think debt is a waste unless you are a lender, an apparent
+        disregard for human life
+        <br />
+        “She was unarmed.” Do not give me money, took out a cash advance to
+        short debt with the intention to instate the policy for third party
+        beneficiary donee claimables cash:debt*income thru history. Lenders want
+        to repo-cycle and keep-down-payments. They know it is impossible
+        laundering of people with money, the loiterers’ consumers, employers and
+        chorers
+        <br />
+        <br />
         "They'll look at all the variables, not just rates," Mark Levin says
         about lending and thid party beneficiary donee claimable brought forward
         demand for the same intermediate material and labor estimates monopsony.
