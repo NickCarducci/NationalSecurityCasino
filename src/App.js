@@ -159,6 +159,10 @@ export default class App extends React.Component {
         >
           truncatedsalestax.com
         </a>
+        pulled out for social security, half disabled and continuing claims,
+        20x/person rental-income
+        <br />
+        <br />
         spic: “Socialists follow their own laws, even if they are breaking the
         very laws they are putting forward,” Chris Salcedo
         <br />
