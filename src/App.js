@@ -197,10 +197,10 @@ export default class App extends React.Component {
               ? ""
               : "https://drive.google.com/file/d/1PI0Apr-PjbE27K9uCUTrTk7E4DAMK_nQ/preview"
           }
-          float="left"
+          float="right"
           title="Spicer & co (Newsmax) - Lindsay M Keith on needing a draft next planned attack, like a mob vig"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 7]}
+          fwd={this["scrollImg" + 8]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -228,6 +228,28 @@ export default class App extends React.Component {
         Republicans think debt is a waste unless you are a lender, an apparent
         disregard for human life.
         <br />
+        <br />
+        "They'll look at all the variables, not just rates," Mark Levin says
+        about lending and third party beneficiary donee claimable brought
+        forward demand for the same intermediate material and labor estimates
+        monopsony.
+        <br />
+        <br />
+        <Cable
+          style={{ height: "240px" }}
+          onError={handleScollImgError}
+          src={
+            this.state.iosNoPhoto
+              ? ""
+              : "https://drive.google.com/file/d/1Er7CSDUJwlYYTuQvVkrzFwaO55i72jFq/preview"
+          }
+          float="left"
+          title="GBNews - Nigel Farage on Pearl Harbor, '80 years later'"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 7]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
         “She was unarmed.” Do not give me money, took out a cash advance to
         short debt with the intention to instate the policy for third party
         beneficiary donee claimables cash:debt*income thru history. Lenders want
@@ -236,9 +258,9 @@ export default class App extends React.Component {
         chorers.
         <br />
         <br />
-        "They'll look at all the variables, not just rates," Mark Levin says
-        about lending and thid party beneficiary donee claimable brought forward
-        demand for the same intermediate material and labor estimates monopsony.
+        “If Pearl Harbor didn’t happen, there wouldn’t be D day, Normandy, free
+        speech and rights today, for the Nazi wouldn’t have been defeated,” it
+        was about debt, or blonde hair/blue eye or free speech?
         <br />
         <br />
         <Cable
