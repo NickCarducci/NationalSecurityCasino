@@ -176,6 +176,8 @@ export default class App extends React.Component {
           no consent between wall st pharma cop v wall st pharma cop plural
           minority collusion; stay at home moms aren't my base
         </h2>
+        rick grenell thinks utility can be owned
+        <br />
         Committing to mental institution instead of Trespass but while finance
         (repo-cycle kept-down payments, expiring claims, invoices, implausible
         landlord use) is excusable, is a product of racketeering enabled by a
