@@ -182,6 +182,29 @@ export default class App extends React.Component {
         beyond article 4 state
         <br />
         <br />
+        <Cable
+          onError={handleScollImgError}
+          src={
+            this.state.iosNoPhoto
+              ? ""
+              : "https://drive.google.com/file/d/1PI0Apr-PjbE27K9uCUTrTk7E4DAMK_nQ/preview"
+          }
+          float="left"
+          title="Spicer & co (Newsmax) - Lindsay M Keith on needing a draft next planned attack, like a mob vig"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 7]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        “We owe them a debt of gratitude. Freedom isn’t free,” actually,
+        truncated sales tax has always been viable, so debt is also free rider
+        mutable gentrification monopsony gerontocracy and lender work deficit,
+        bitch. Learn how to delegate.
+        <br />
+        Cash:debt*income thru history upon third party beneficiary donee
+        claimable or your head.
+        <br />
+        <br />
         "They'll look at all the variables, not just rates," Mark Levin says
         about lending and thid party beneficiary donee claimable brought forward
         demand for the same intermediate material and labor estimates monopsony.
