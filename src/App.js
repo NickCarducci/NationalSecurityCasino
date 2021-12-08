@@ -184,6 +184,21 @@ export default class App extends React.Component {
           finite producers is not sufficient for perfect equillibrium of
           demand-exclusivity-of-labor, or outlaid t-0 (time zero)
         </h2>
+        <a
+          style={{
+            shapeOutside: "rect()",
+            float: "left",
+            width: "max-content",
+            padding: "0px 10px",
+            fontSize: "20px",
+            fontFamily: "'Pacifico', sans-serif",
+            color: "rgb(230,230,255)",
+            backgroundColor: "rgb(32, 22, 11)"
+          }}
+          href="https://humanharvest.info"
+        >
+          humanharvest.info
+        </a>
         “1/4 fraud childcare credit,” Rand Paul
         <br />
         “Wishlist of big government socialism, they give free stuff, but it
@@ -322,6 +337,21 @@ export default class App extends React.Component {
         IP-equity dilution is still retarded
         <br />
         <br />
+        <a
+          style={{
+            shapeOutside: "rect()",
+            float: "left",
+            width: "max-content",
+            padding: "0px 10px",
+            fontSize: "20px",
+            fontFamily: "'Pacifico', sans-serif",
+            color: "rgb(230,230,255)",
+            backgroundColor: "rgb(32, 22, 11)"
+          }}
+          href="https://2052.live"
+        >
+          2052.live
+        </a>
         <Cable
           onError={handleScollImgError}
           src={
