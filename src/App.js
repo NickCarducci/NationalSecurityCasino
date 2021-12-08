@@ -163,6 +163,12 @@ export default class App extends React.Component {
         debt? give them some of it now.
         <br />
         <span style={{ fontSize: "9px" }}>
+          <a href="https://fred.stlouisfed.org/graph/?g=JE8F">compound</a>
+          &nbsp;starting at&nbsp;
+          <a href="https://fred.stlouisfed.org/graph/?g=JEcT">zero</a>, begets
+          more investment required. repo-cycle corrects unless the fractional
+          reserve park deeds bails out libertarians.
+          <br />
           “Tapering off bond buying of the outstanding bonds doesn’t raise
           rates,” John Catsimitidis, "You at least have to get the froth out,"
           like correct collateral to debt-inelasticity of bid-to-ask upon third
@@ -217,8 +223,8 @@ export default class App extends React.Component {
           scrollTop={this.state.scrollTop}
         />
         "We will never know the origin of covid, so the big takeaway is how
-        hostile China is going to be against Taiwan." Nato is a military, a
-        political organization, there needs to be a funding to go after these
+        hostile China is going to be against Taiwan. NATO is a military, a
+        political organization; there needs to be a funding to go after these
         _."
         <br />
         <TwitterTweetEmbed
