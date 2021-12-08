@@ -159,7 +159,8 @@ export default class App extends React.Component {
         >
           truncatedsalestax.com
         </a>
-        you are going tojail you fat grocer
+        you are going tojail you fat grocer; how can you get people to take on
+        debt? give them some of it now.
         <br />
         <span style={{ fontSize: "9px" }}>
           “Tapering off bond buying of the outstanding bonds doesn’t raise
@@ -253,6 +254,17 @@ export default class App extends React.Component {
         <br />
         I’ll drown you if you do not appreciate third party beneficiary donee
         claimable.
+        <br />
+        <br />
+        “80m human beings killed in WWII, greatest generation, greatest value
+        system. I was raised in a greatest generation home. 80 years ago,
+        today,” slighting 2015- 75+ 1.2m/yr+ as excess deaths age standardized
+        cohort gains expected fraud pandemic. The&nbsp;
+        <a href="https://thumbprint.us/voting">election</a>&nbsp;was
+        stolen,&nbsp;
+        <a href="https://saverparty.xyz">saver money</a>&nbsp;was stolen, and
+        intermediate labor is stolen by estimates of expiring claims and r&d
+        monopsony.
         <br />
         <br />
         <Cable
