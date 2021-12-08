@@ -184,6 +184,20 @@ export default class App extends React.Component {
           </a>
           &nbsp;plural minority collusion; stay at home moms aren't my base
         </h2>
+        <Cable
+          onError={handleScollImgError}
+          src={
+            this.state.noyoutube
+              ? ""
+              : "https://www.youtube.com/embed/nKvUf7F4Xn4"
+          }
+          float="left"
+          title="Dick Morris (77WABC) - Advisor to Clinton and Trump on greenhouse gases, WWII and Marxist anti-rentier, repo-cycle, and profit by estimates of labor and material, rather than demository so labor is exclusively demand."
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 8]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
         Committing to mental institution instead of Trespass but while finance
         (repo-cycle kept-down payments, expiring claims, invoices, implausible
         landlord use) is excusable, is a product of racketeering enabled by a
