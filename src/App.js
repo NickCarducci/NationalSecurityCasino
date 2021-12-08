@@ -164,6 +164,17 @@ export default class App extends React.Component {
         <br />
         $1/821 pulled out for social security, half disabled and continuing
         claims, 20x/person rental-income.
+        <br />
+        <br />
+        <a href="https://github.com/NickCarducci/mastercard-backbank/tree/main/src">
+          credit
+        </a>
+        &nbsp;is theft/<a href="https://thumbprint.us/payments">haram</a>,
+        gdp/down 11/1 is not a job
+        <br />
+        <br />
+        “‘I found out how much it is going to cost,’ ‘then I found us the
+        perfect mortgage,’ ‘then I found Raydon.”
         <h2>
           Nice, libertarians
           <br />
