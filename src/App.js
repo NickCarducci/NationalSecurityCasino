@@ -201,7 +201,7 @@ export default class App extends React.Component {
           Looking at debt valued thru m2's withdrawalable value, accrued by
           laundered third party beneficiary donee claimable
         </h2>
-        $1/821/3000(
+        $1/3k/3000(
         <a href="https://vaults.biz">
           compound laundered and loitered goods, materials and labor estimates
           price-fixed by U.S. government
@@ -1045,7 +1045,7 @@ export default class App extends React.Component {
           foreign owned debt "investing" of taxable-free-rider-immutable instead
           of timelesspaydayroyalty by industry-type not general-income
           <br />
-          That's $821/day per person,&nbsp;
+          That's $3k/day per person,&nbsp;
           <a href="https://wavv.art/forumCUiXE5xjbwE6WfLqf58K">
             $1/day* for Afghanistan alone *Markey
           </a>
@@ -1254,7 +1254,7 @@ export default class App extends React.Component {
                 textAlign: "center"
               }}
             >
-              #Degrowth is suplanting #M2Laundering of $821/day per person that
+              #Degrowth is suplanting #M2Laundering of $3k/day per person that
               with would take 44 years of somehow paying current income on debt,
               with #MaxProfitRoyalty #FreeRiderMutables without
               #BipartisanMonopsony #GovernmentGentrification but
