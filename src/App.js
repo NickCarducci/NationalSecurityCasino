@@ -159,6 +159,11 @@ export default class App extends React.Component {
         >
           truncatedsalestax.com
         </a>
+        people don't want to work today because there isn't enough people, not
+        that people don't want to work, though why would you work against
+        $21k/day debt? that's retarded
+        <br />
+        <br />
         60% Free rider mutable tax 1/4 1/4 1/4 premium pentagon pensions 40%
         debt spending Third party beneficiary donee claimable is useless price
         inelasticity and r&d monopsony by private and public
@@ -174,7 +179,6 @@ export default class App extends React.Component {
         </a>
         )/day pulled out for social security, half disabled and continuing
         claims, 20x/person rental-income.
-        <br />
         <br />
         <Cable
           style={{
