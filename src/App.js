@@ -178,7 +178,10 @@ export default class App extends React.Component {
         Buying other countries’ dollar-parks as they print is collusion, just
         let Ukraine buy from "our" contractors.
         <br />
-        <h2>Looking at debt valued thru m2</h2>
+        <h2>
+          Looking at debt valued thru m2's withdrawalable value, accrued by
+          laundered third party beneficiary donee claimable
+        </h2>
         $1/821/3000(
         <a href="https://vaults.biz">
           compound laundered and loitered goods, materials and labor estimates
