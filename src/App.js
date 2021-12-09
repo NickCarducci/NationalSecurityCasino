@@ -166,6 +166,33 @@ export default class App extends React.Component {
         claims, 20x/person rental-income.
         <br />
         <br />
+        <Cable
+          style={{
+            width: "300px",
+            height: "200px"
+          }}
+          onError={handleScollImgError}
+          src={
+            this.state.iosNoPhoto
+              ? ""
+              : "https://drive.google.com/file/d/1asRoUeiEAmXwmb3mJaJ2by5IEM4DbN6p/preview"
+          }
+          float="right"
+          title="Eric Bolling (Newsmax) - 'Ukriane is not our perogative[, let Russia nationalize their supply chain as colony],"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 18]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        Enslavement or colonialization in foreign countries is our prerogative
+        for comparative advantage tech advancement and war crime, making article
+        4 relevant. Economic gains would be national security issue, if it helps
+        taxing for free rider mutable outside the market, hardly ever is unless
+        the end product is a durable good without maintenance
+        feeable/operation-costable, neither is plundering for such comparative
+        advantage tech advancement, but also nuclear dilemma.
+        <br />
+        <br />
         <a href="https://github.com/NickCarducci/mastercard-backbank/tree/main/src">
           credit
         </a>
