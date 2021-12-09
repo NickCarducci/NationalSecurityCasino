@@ -436,6 +436,10 @@ export default class App extends React.Component {
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
+        Bipartisan support is simple majority plural minority coalition, virus
+        is dead, needs cell to replicate, where first taxonomy? Is byproduct of
+        bacterial infection, prevalence byproduct, warning mechanism or cause.
+        <br />
         <br />
         “If China sends us another virus that&nbsp;
         <a href="https://humanharvest.info">kills</a>&nbsp;hundreds of
@@ -1166,12 +1170,18 @@ export default class App extends React.Component {
           <a href="https://laborequity.org">get drugs</a>
           &nbsp;#ConsumerTwitter and have legal rights rallying cry can be "
           <a href="https://micro-theory.com">hung jury</a>"
-          <TwitterTweetEmbed tweetId="1434938133246844930" />
+          <TwitterTweetEmbed
+            style={{ width: "300px", float: "right" }}
+            tweetId="1434938133246844930"
+          />
           gentrification: wall st is top, free rider mutable tax, implausible
           rentier use & gdp=debt/down reversal, not cancel forbidden by previous
           demand nor bailout lending-counterfeiter-in-contract collusion with
           borrower to loiter gdp/payments 11/1
-          <TwitterTweetEmbed tweetId="1433865364602068999" />
+          <TwitterTweetEmbed
+            style={{ width: "300px", float: "right" }}
+            tweetId="1433865364602068999"
+          />
           "the guy, among other mental inhabilities, is stupid," says Rudy
           Giuliani of Biden, without correlative brainscan.info
           <div
@@ -1199,8 +1209,14 @@ export default class App extends React.Component {
             industry-precedence-saveFace-motive), assume virions go in, mandate
             vaccines instead of understand bacteria causes virus-infected-cells
             to shit virions
-            <TwitterTweetEmbed tweetId="1432355213428596736" />
-            <TwitterTweetEmbed tweetId="1434925859023040518" />
+            <TwitterTweetEmbed
+              style={{ width: "300px", float: "right" }}
+              tweetId="1432355213428596736"
+            />
+            <TwitterTweetEmbed
+              style={{ width: "300px", float: "right" }}
+              tweetId="1434925859023040518"
+            />
             #ExcessDeaths are expected 16m life-expectancy before 1950 in China
             #GreatLeapForward
             <br />
@@ -1268,7 +1284,10 @@ export default class App extends React.Component {
           <br />
           "In order to get into America, we need to make sure you're not down
           with [Sharia-Law]." -Greg Kelly, Labor Day, 2021
-          <TwitterTweetEmbed tweetId="1433776732327264258" />
+          <TwitterTweetEmbed
+            style={{ width: "300px", float: "right" }}
+            tweetId="1433776732327264258"
+          />
           <div style={{ position: "relative", width: "100%" }}>
             <a href="https://www.oreilly.com/library/view/the-geek-atlas/9780596802257/ch111.xhtml">
               O'Reilly
@@ -2112,7 +2131,10 @@ export default class App extends React.Component {
             rentier-colonialism and compete consumer) definitions of wage or
             profit commitment]
           </div>
-          <TwitterTweetEmbed tweetId="1431700889908228104" />
+          <TwitterTweetEmbed
+            style={{ width: "300px", float: "right" }}
+            tweetId="1431700889908228104"
+          />
           <a
             href="https://saverparty.xyz"
             style={{ backgroundColor: "navy", color: "rgb(197, 179, 88)" }}
