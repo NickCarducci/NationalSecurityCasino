@@ -179,13 +179,13 @@ export default class App extends React.Component {
         let Ukraine buy from "our" contractors.
         <br />
         <h2>Looking at debt valued thru m2</h2>
-        $1/821/21917(
+        $1/821/3000(
         <a href="https://vaults.biz">
           compound laundered and loitered goods, materials and labor estimates
           price-fixed by U.S. government
         </a>
-        )/day pulled out for social security, half disabled and continuing
-        claims, 20x/person rental-income.
+        )/day (or $1k/300k/1.1m/year) pulled out for social security, half
+        disabled and continuing claims, 20x/person rental-income.
         <br />
         <Cable
           style={{
