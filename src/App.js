@@ -159,10 +159,20 @@ export default class App extends React.Component {
         >
           truncatedsalestax.com
         </a>
+        60% Free rider mutable tax 1/4 1/4 1/4 premium pentagon pensions 40%
+        debt spending Third party beneficiary donee claimable is useless price
+        inelasticity and r&d monopsony by private and public
+        <br />
+        <br />
         Buying other countries’ dollar-parks as they print is collusion, just
         let Ukraine buy from "our" contractors.
         <br />
-        $1/821 pulled out for social security, half disabled and continuing
+        $1/821/21917(
+        <a href="https://vaults.biz">
+          compound laundered and loitered goods, materials and labor estimates
+          price-fixed by U.S. government
+        </a>
+        )/day pulled out for social security, half disabled and continuing
         claims, 20x/person rental-income.
         <br />
         <br />
@@ -187,10 +197,11 @@ export default class App extends React.Component {
         Enslavement or colonialization in foreign countries is our prerogative
         for comparative advantage tech advancement and war crime, making article
         4 relevant. Economic gains would be national security issue, if it helps
-        taxing for free rider mutable outside the market, hardly ever is unless
-        the end product is a durable good without maintenance
-        feeable/operation-costable, neither is plundering for such comparative
-        advantage tech advancement, but also nuclear dilemma.
+        (price-deflation-per-hour, no expiring claims false bid pools,
+        implausible landlord use) taxing for free rider mutable outside the
+        market, hardly ever is unless the end product is a durable good without
+        maintenance feeable/operation-costable, neither is plundering for such
+        comparative advantage tech advancement, but also nuclear dilemma.
         <br />
         <br />
         <a href="https://github.com/NickCarducci/mastercard-backbank/tree/main/src">
