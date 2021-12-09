@@ -163,7 +163,7 @@ export default class App extends React.Component {
         <br />
         people don't want to work today because there isn't enough people, not
         that people don't want to work, though why would you work against
-        $21k/day debt? that's retarded
+        $3k/day debt? that's retarded
         <br />
         <br />
         60% Free rider mutable tax 1/4 1/4 1/4 premium pentagon pensions 40%
