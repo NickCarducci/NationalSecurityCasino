@@ -159,14 +159,34 @@ export default class App extends React.Component {
         >
           truncatedsalestax.com
         </a>
+        "'Do you agree with Menendez that President Biden should kind of wipe
+        the slate clean?'" nj 101.5 Deminski & Doyle
+        <br />
+        <br />
+        “Invest in kids,” let them have work, don’t monopsonize and trade secret
+        education
+        <br />
+        <br />
+        $1.1m/yr+, $3k/day+, $200k total debt per person. $300k/yr+, $821/day+,
+        $60k total m2 per person. $60k/yr+, $120/day+, $6k total checking
+        CurrencyComponentOfM1 per person
+        <br />
+        “Invest in kids,” let them have work, don’t monopsonize and trade secret
+        education
+        <br />
+        <br />
         “These progressive people want:”
         <br />
         people don't want to work today because there isn't enough people, not
         that people don't want to work, though why would you work against
         $3k/day debt? that's retarded
         <h2>ccc bbb ppp trust-building parent contractor existing-biz</h2>
-        60% Free rider mutable tax 1/4 1/4 1/4 premium pentagon pensions 40%
-        debt spending&nbsp;
+        60%&nbsp;
+        <span style={{ backgroundColor: "black", color: "white" }}>
+          Free rider mutable
+        </span>
+        &nbsp;from outside the market inflationary tax 1/4 1/4 1/4 premium
+        pentagon pensions 40% debt spending&nbsp;
         <a href="https://law.justia.com/cases/california/supreme-court/3d/11/394.html">
           Third party beneficiary donee claimable
         </a>
