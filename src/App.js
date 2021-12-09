@@ -167,8 +167,12 @@ export default class App extends React.Component {
         <br />
         <br />
         60% Free rider mutable tax 1/4 1/4 1/4 premium pentagon pensions 40%
-        debt spending Third party beneficiary donee claimable is useless price
-        inelasticity and r&d monopsony by private and public
+        debt spending&nbsp;
+        <a href="https://law.justia.com/cases/california/supreme-court/3d/11/394.html">
+          Third party beneficiary donee claimable
+        </a>
+        &nbsp;is useless price inelasticity and r&d monopsony by private and
+        public
         <br />
         <br />
         Buying other countries’ dollar-parks as they print is collusion, just
