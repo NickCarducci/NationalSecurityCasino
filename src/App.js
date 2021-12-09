@@ -159,6 +159,8 @@ export default class App extends React.Component {
         >
           truncatedsalestax.com
         </a>
+        “These progressive people want:”
+        <br />
         people don't want to work today because there isn't enough people, not
         that people don't want to work, though why would you work against
         $21k/day debt? that's retarded
