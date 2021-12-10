@@ -163,6 +163,29 @@ export default class App extends React.Component {
         the slate clean?'" nj 101.5 Deminski & Doyle
         <br />
         <br />
+        <Cable
+          onError={handleScollImgError}
+          src={
+            this.state.iosNoPhoto
+              ? ""
+              : "https://drive.google.com/file/d/1__IwzWhGwkvPTMxJPmKOsts5in89PQ9d/preview"
+          }
+          float="left"
+          title="Stinchfield (Newsmax) - Kristin Tate, 'Liberal Invasion of Red State America'"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 19]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        <a href="https://www.arc.gov/staff/federal-co-chair-gayle-conelly-manchin/">
+          Appalachian Regional Commission
+        </a>
+        &nbsp;rent seeking free rider mutable maintainable
+        feeable/operating-costable, Gov gentrification monopsony is mere price
+        inflation unless large enough collective bargain without estimating and
+        flaccid collective loss
+        <br />
+        <br />
         “Invest in kids,” let them have work, don’t monopsonize and trade secret
         education
         <br />
