@@ -159,6 +159,31 @@ export default class App extends React.Component {
         >
           truncatedsalestax.com
         </a>
+        after 2008, home-contractor household, I ventured to understand&nbsp;
+        <a href="https://youtu.be/W-Vv1vysGzE">market history and propoganda</a>
+        , writing to admissions my desire to look into Chinese film. First time
+        I realized economics JHU favors collective flaccid loss to per hour ease
+        of life, I screamed at the sky. It was a roller coaster of understanding
+        thinking dollars were made by G-d, realizing dissolution of the dollar
+        IS public-park-deeds. only third party beneficiary donee claimable by
+        invoice, expiring claims, implausible landlord use & repo cycle kept
+        down payments is playing AS G-d. I had realized a significant majority
+        of sheep had been herded by the false prophets, potentially now coming
+        for appeasment in 2020-2030.
+        <h2>every episode is rational, criminal or not.</h2>
+        “There wasn’t something right, no signs of drugs or alcohol, did have
+        episode in college, received treatment, come off drugs, and continue his
+        life,”
+        <h2>
+          11/12 cannot see unexhibitable opinion character witness as evidence.
+        </h2>
+        "Why is it that 'mental health crises' leads often time to death
+        sentence for afros," even George Floyd feeling claustrophobic causing
+        carfacing is exemplary of this, a rational reaction from drug induced
+        psychosis not far from reality, scope of vehicle scary for something
+        Jamie Dimon and Walgreens gets away with? I can't concentrate?
+        <br />
+        <br />
         “Consumers change buying habits and that changed demand side, changes
         industry to industry has allowed monopolies to price gouge, talk about
         inflation. ...Suppliers haven’t only kept costs the same and rise
