@@ -159,6 +159,14 @@ export default class App extends React.Component {
         >
           truncatedsalestax.com
         </a>
+        "Everyone is making more money since the pandemic started," that is
+        intermediate-labor.
+        <br />
+        Lenders don’t do anything except raise bid for monopsony, of same
+        intermediate material & labor for durable good, which is excluded from
+        inflation and gini.
+        <br />
+        <br />
         "labor shortage at hospitals," Elize Stephanic. more accurately working
         age shortage, old people need to get back to work, 20x/person rental
         income, half disability and continuing claims 65+? 2015- 75+ 1.2m/yr+,
