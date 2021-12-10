@@ -162,6 +162,12 @@ export default class App extends React.Component {
         Socialists don’t nationalize bridge tolls
         <br />
         <br />
+        Right-winger in Yahoo Finance complains about inflation and lower asset
+        prices, like it is transitory and linked. (The term Stephen Moore is
+        looking for is, "extinguishable," not the most common, shortest and
+        historical use of "transitory" as a "transitive-property")
+        <br />
+        <br />
         “My job as a parent is to prevent disease, illness and death, these
         vaccines is the best way to do that. Keeping kids out of schools is bad
         for 'mental health.' Schools are closed because of lack of vaccinations
