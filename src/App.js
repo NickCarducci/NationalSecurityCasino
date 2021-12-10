@@ -170,6 +170,34 @@ export default class App extends React.Component {
         Swear to me
         <br />
         <br />
+        <Cable
+          onError={handleScollImgError}
+          src={
+            this.state.iosNoPhoto
+              ? ""
+              : "https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2F108986904353225%2Fvideos%2F4404002109665977%2F&show_text=true&width=220&t=0"
+          }
+          float="right"
+          title="https://fb.watch/8vc_WNxnzq/"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 24]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        “Tell me more about price elasticity.” Bo Snerdley later says,
+        <br />
+        “She is just going to send the money so they can have abortions wherever
+        they find them.” Prices would drop if money outside the market didn’t
+        prevent it. Not a conservative, Marxist nor Pareto if you don’t believe
+        in that ask-to-bid principle, of useless non-labor
+        (flaccid-rentier-profiteer) borne-demand.
+        <br />
+        <br />
+        Your tax money 60% free rider mutable 1/4 1/4 1/4 premium pentagon
+        pension 40% debt spending 1/3 of $3k/day/p in total debt, that’s third
+        party beneficiary donee claimable, and I’m here to collect.
+        <br />
+        <br />
         Right-winger in Yahoo Finance complains about inflation and lower asset
         prices, like it is transitory and linked. (The term Stephen Moore is
         looking for is, "extinguishable," not the most common, shortest and
