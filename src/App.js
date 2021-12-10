@@ -245,6 +245,10 @@ export default class App extends React.Component {
         down payments is playing AS G-d. I had realized a significant majority
         of sheep had been herded by the false prophets, potentially now coming
         for appeasment/atonement in 2020-2030.
+        <br />
+        <br />
+        Statute of limitations as cause for acquittal is admittance of
+        exoneration on class precedence malfeasance.
         <h2>every episode is rational, criminal or not.</h2>
         “There wasn’t something right, no signs of drugs or alcohol, did have
         episode in college, received treatment, come off drugs, and continue his
