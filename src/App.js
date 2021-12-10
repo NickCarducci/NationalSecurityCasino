@@ -159,6 +159,16 @@ export default class App extends React.Component {
         >
           truncatedsalestax.com
         </a>
+        "see those employment numbers, the best in years," Jim cramer, if labor
+        is now busy-work, and it is, and is part of inflation, and it is. Kirk
+        wants family-formation at any cost. If you care about Walmart workers,
+        you would want employment to go down in wasteful areas of collective
+        flaccid loss of banked CarShield mechanic hours expiring claims and
+        court price fixed third party beneficiary donee claimable options on
+        estimates, invoices and debt for monopsony and no-greater-intermediate
+        goods material and labor
+        <br />
+        <br />
         In 2013 I had a choice: fail out or do the youtube random kissing girl
         challenge to take leave, as I imagined taking leave during academic
         probation would allow the school to decide, without protection of health
