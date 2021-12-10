@@ -191,6 +191,28 @@ export default class App extends React.Component {
         prevent it. Not a conservative, Marxist nor Pareto if you don’t believe
         in that ask-to-bid principle, of useless non-labor
         (flaccid-rentier-profiteer) borne-demand.
+        <h2>
+          <span
+            style={{
+              fontSize: "9px"
+            }}
+          >
+            1-level-board max-profit-royalty stops third party beneficiary donee
+            claimable, "toilet"
+          </span>
+          <br />
+          repo cycle kept down payments, "you can fail and succeed again!"
+        </h2>
+        life is Constitutionally protection and right, in preamble, spoken in
+        broad terms, lo inherent in being human as standing of constitution, of
+        course.
+        <br />
+        <br />
+        livlihood, lest mandate testing if done for covid if that wasn't
+        basis-vs-excess-rate-fraud, can trump life Constitutionally protected
+        protection and right, in preamble, spoken in broad terms. Criminal when
+        finance (invoices, expiring claims, implausible landlord use, repo cycle
+        kept down payments) is out, until then duress is cause for acquittal.
         <br />
         <br />
         Your tax money 60% free rider mutable 1/4 1/4 1/4 premium pentagon
