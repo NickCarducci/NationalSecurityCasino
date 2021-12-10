@@ -178,6 +178,18 @@ export default class App extends React.Component {
         labor-competing and -boosting supply. The disparity is so large between
         supply and demand now, however, insofarthat dead-weight entrenched
         suppliers can wait, yet demand can no longer negotiate.
+        <h2>
+          “[Withholding oil on free-rider-mutable, collectively-flaccid,
+          federally-cornered lands] to make&nbsp;
+          <a href="https://magnate.company">electric</a>&nbsp;more appealing.
+          ...Inflating currency makes inflation.”
+        </h2>
+        Inflation overwhelms wages, “in the long term,” by profits from lender
+        work deficit, and wages move in the first place because guys like Grover
+        Nordquist doesn’t account for intermediate-labor, homes nor bonds in
+        inflation nor gini, unless in class solution precedence malfeasance
+        court against the better angels in third party beneficiary donee
+        claimable cash:debt*income thru history.
         <br />
         <br />
         <Cable
