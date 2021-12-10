@@ -166,7 +166,8 @@ export default class App extends React.Component {
         flaccid loss of banked CarShield mechanic hours expiring claims and
         court price fixed third party beneficiary donee claimable options on
         estimates, invoices and debt for monopsony and no-greater-intermediate
-        goods material and labor
+        goods material and labor, OR GOES TO PAY LENDER LANDLORD INSURER WORK
+        DEFICIT, which it does!
         <br />
         <br />
         In 2013 I had a choice: fail out or do the youtube random kissing girl
