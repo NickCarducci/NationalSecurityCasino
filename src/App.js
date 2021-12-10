@@ -160,8 +160,9 @@ export default class App extends React.Component {
           truncatedsalestax.com
         </a>
         "labor shortage at hospitals," Elize Stephanic. more accurately working
-        age shortage, old people need to get back to work, 20x/person rental income, 
-          half disability and continuing claims 65+? 2015- 75+ 1.2m/yr+, get over it!
+        age shortage, old people need to get back to work, 20x/person rental
+        income, half disability and continuing claims 65+? 2015- 75+ 1.2m/yr+,
+        get over it!
         <br />
         <br />
         "see those employment numbers, the best in years," Jim cramer, if labor
@@ -203,6 +204,28 @@ export default class App extends React.Component {
         <br />
         "'Do you agree with Menendez that President Biden should kind of wipe
         the slate clean?'" nj 101.5 Deminski & Doyle
+        <br />
+        <br />
+        <Cable
+          onError={handleScollImgError}
+          src={
+            this.state.iosNoPhoto
+              ? ""
+              : "https://drive.google.com/file/d/11qPBdPnNLC4Skzzm6n36cbzOOdNhd2pW/preview"
+          }
+          float="right"
+          title="Cortez & Pelegrino (Newsmax) - Elize Stefanik"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 19]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        “The proof is in the polling,” while she references only ideological
+        duress candidates and ignores the majority of voters behind eligible and
+        detesting,
+        <br />
+        “Republicans will support energy production,” by rent seeking pipelines
+        instead of G-D FORBID margin-targeting "networks:" market of markets.
         <br />
         <br />
         <Cable
