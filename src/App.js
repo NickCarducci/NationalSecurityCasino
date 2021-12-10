@@ -159,6 +159,25 @@ export default class App extends React.Component {
         >
           truncatedsalestax.com
         </a>
+        “My job as a parent is to prevent disease, illness and death, these
+        vaccines is the best way to do that. Keeping kids out of schools is bad
+        for mental health. Schools are closed because of lack of vaccinations
+        and lack of teachers,”
+        <br />
+        Dr. Rainey, paralytic polio matches multiple sclerosis and smallpox was
+        lessened by 1775- sewage/nutrition improvements, and cartoon vivo nor
+        electron microscope snapshot with bacteria or mitosis of already
+        infected spread isn't proof otherwise.
+        <h2>
+          you aren't counting all cases, just one artifact-byproduct of many by
+          the same cause, bacterial-infection. If it, "requires cell to
+          replicate," its taxonomy is only a cell. Are you saying it is an
+          evolutionary trait? To do the math with it being dead would be to say
+          it is exclusively byproduct-prevalence and warning-mechanism of
+          bacterial-infection, antibodies to stop blood clotting but not
+          infection of prevalence without transmission. prevalence does not
+          transmission-cause make.
+        </h2>
         after 2008, home-contractor household, I ventured to understand&nbsp;
         <a href="https://youtu.be/W-Vv1vysGzE">market history and propoganda</a>
         , writing to admissions my desire to look into Chinese film. First time
