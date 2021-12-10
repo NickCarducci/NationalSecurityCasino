@@ -170,14 +170,17 @@ export default class App extends React.Component {
         electron microscope snapshot with bacteria or mitosis of already
         infected spread isn't proof otherwise.
         <h2>
-          you aren't counting all cases, just one artifact-byproduct of many by
-          the same cause, bacterial-infection. If it, "requires cell to
-          replicate," its taxonomy is only a cell. Are you saying it is an
-          evolutionary trait? To do the math with it being dead would be to say
-          it is exclusively byproduct-prevalence and warning-mechanism of
-          bacterial-infection, antibodies to stop blood clotting but not
-          infection of prevalence without transmission. prevalence does not
-          transmission-cause make.
+          you aren't counting&nbsp;
+          <a href="https://www.fda.gov/media/144245/download#page=42">
+            all cases
+          </a>
+          , just one artifact-byproduct of many by the same cause,
+          bacterial-infection. If it, "requires cell to replicate," its taxonomy
+          is only a cell. Are you saying it is an evolutionary trait? To do the
+          math with it being dead would be to say it is exclusively
+          byproduct-prevalence and warning-mechanism of bacterial-infection,
+          antibodies to stop blood clotting but not infection of prevalence
+          without transmission. prevalence does not transmission-cause make.
         </h2>
         after 2008, home-contractor household, I ventured to understand&nbsp;
         <a href="https://youtu.be/W-Vv1vysGzE">market history and propoganda</a>
@@ -2056,7 +2059,8 @@ export default class App extends React.Component {
           </span>
           , now 2%
           <br />
-          paying off private-debt with public credit
+          paying off private-debt with public credit; trasury share not with
+          standing outstanding in price to equity share
           <br />
           <img
             style={{
