@@ -237,6 +237,56 @@ export default class App extends React.Component {
         "Everyone is making more money since the pandemic started," that is
         intermediate-labor.
         <br />
+        <h2>Saver Party will retire you,' I'm turning gdp upside-down!</h2>
+        per hour watching eachothers' kids is...
+        <br />
+        <br />
+        ppp ccc bbb trust building existing-biz parent contractors
+        <br />
+        <br />
+        GDP prices*hours is upside down productivity
+        <br />
+        <br />
+        "Elon Musk is, 'thinking of,' leaving his jobs and becoming an
+        influencer, the world's richest man tweeted," rich based on last trade
+        valuation, that which aren't court backed prices, and in debt by bonds
+        that are, by third party beneficiary donee claimable malfeasance, nor
+        are assets counted in inflation nor gini, like we're never meant to own
+        a home nor IP outright. By the way, intermediate-labor is neither, to
+        the same meaning of intentional force majeure & servitude and laundering
+        third party beneficiary donee claimable, kept down payments upon
+        repo-cycle.
+        <h2>
+          <span style={{ fontSize: "9px" }}>
+            why not count private debt, hypocrites? $3k/day/p new debt public
+            and private, repo cycle kept down payments borrowers loitering third
+            party beneficiary donee claimable. Only way out cash:debt*income
+            thru history.
+          </span>
+          <br />
+          we are replacing debt with max-profit-royalty of 1-level-boards
+          <br />
+          <span style={{ fontSize: "9px" }}>
+            No corporate collective flaccid loss, nationalized bridge tolls,
+            unmarginalized targets of price and quality of networks for the very
+            microeconomic self-regulation reasoning of perfect-equillibrium
+            necessarily exhibiting infinite produces to that outlays are
+            immediate to demand that is exclusively labor or escrow to
+            collective bargain asap before, flaccid loss.
+          </span>
+        </h2>
+        40% debt spend isn't tax payer money. $120/day/p new cash (park deeds
+        share split), free rider mutable tax is also pure inflation,
+        rent-seekable-gentrification and intermediate material & labor
+        monopsony, $3k/day/p public and private new debt, $821/day/p M@...
+        expiring claims false bid pools is also theft (third party beneficiary
+        donee claimable)
+        <br />
+        <br />
+        Why, are social security and wall st in cahoots the reason for two-party
+        diachotamy?
+        <br />
+        <br />
         Lenders don’t do anything except raise bid for monopsony, of same
         intermediate material & labor for durable good, which is excluded from
         inflation and gini.
@@ -248,15 +298,103 @@ export default class App extends React.Component {
         get over it!
         <br />
         <br />
-        "see those employment numbers, the best in years," Jim cramer, if labor
-        is now busy-work, and it is, and is part of inflation, and it is. Kirk
-        wants family-formation at any cost. If you care about Walmart workers,
-        you would want employment to go down in wasteful areas of collective
-        flaccid loss of banked CarShield mechanic hours expiring claims and
-        court price fixed third party beneficiary donee claimable options on
-        estimates, invoices and debt for monopsony and no-greater-intermediate
-        goods material and labor, OR GOES TO PAY LENDER LANDLORD INSURER WORK
-        DEFICIT, which it does!
+        GDP/p before 1913 was nearly constant, save
+        <br />
+        Gini nor inflation counts intermediate-labor, options on estimates
+        "consumer law," expiring claims invoices kept down payment repo and
+        impalusible landlord use, bonds (7.5%/yr+) nor home prices (5%/yr+)
+        <br />
+        <br />
+        <h2>Libertarians love their corporate collective flaccid loss</h2>
+        "...#1 duty evidently is to maintain stock market," ask price, because
+        3d-retail anon uuid discrepancy like shooting fish in a barrel with
+        pattern day trading rules.
+        <br />
+        <br />
+        Repo cycle kept down payments still third party beneficiary donee
+        claimable even without fractional reserve doesn't stop fractional
+        reserve in contract&nbsp;
+        <span role="img" aria-label="bottom-left squirrel white-circle">
+          ️↙🐿⚪️
+        </span>
+        <br />
+        <br />
+        So let's cap rent by 5 unit or 30 days not price, to get elderly
+        20x/person per millennial off
+        rental-income/the-landlord-work-deficit-dole
+        <br />
+        <br />
+        <TwitterTweetEmbed
+          style={{ width: "300px", float: "right" }}
+          tweetId="1411470492834439171"
+        />
+        Treasury shares not with standing outstanding in price to equity, except
+        in court. Assets aren't price fixed but the bonds & assets as collateral
+        loitering by borrowers public & private $3k/day/p
+        <br />
+        <br />
+        "...See those employment numbers? The best in years," Jim cramer, if
+        labor is now busy-work, and it is, and is part of inflation, and it is.
+        Kirk wants family-formation at any cost. If you care about Walmart
+        workers, you would want employment to go down in wasteful areas of
+        collective flaccid loss of banked CarShield mechanic hours expiring
+        claims and court price fixed third party beneficiary donee claimable
+        options on estimates, invoices and debt for monopsony and
+        no-greater-intermediate goods material and labor, OR GOES TO PAY LENDER
+        LANDLORD INSURER WORK DEFICIT, which it does! "...We have all seen the
+        help wanted signs, they are using cash, not credit, in a 1920 style!"
+        <h2>
+          "dnc politicians are rnc voters"
+          <br />
+          <span style={{ fontSize: "9px" }}>
+            Racism: the cause of the labor shortage, after working age shortage
+            from boomer boom 1.2m/yr+ 2015- 75+ (not accounted for in "excess"
+            year-to-year rates of event-base-cause)
+          </span>
+          <br />
+          <Cable
+            onError={handleScollImgError}
+            src={
+              this.state.iosNoPhoto
+                ? ""
+                : "https://drive.google.com/file/d/18AE-JxXtVeZ20BFz-G4GnfOtZY1L34bU/preview"
+            }
+            float="left"
+            title="American Agenda (Newsmax) - Stephen Moore labor market and inflation, ignoring the private and public invoices, expiring claims, implausible landlord use & repo-cycle-kept-down-payment influence in the work deficit as third party beneficiary donee claimables"
+            scrolling={this.state.scrolling}
+            fwd={this["scrollImg" + 20]}
+            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+            scrollTop={this.state.scrollTop}
+          />
+          corporate and free rider mutable tax collective flaccid loss
+        </h2>
+        "...nurses, those jobs are out there,&nbsp;
+        <a href="https://fred.stlouisfed.org/graph/?g=H5XB">labor market</a>
+        &nbsp;is strong in that regard," says Stephen Moore, but it is not
+        strong as per hour productivity (price-deflation of assets, inflation
+        and intermediate-labor).
+        <br />
+        <br />
+        “They have been buying all kinds of debt they shouldn’t have been
+        buying,”
+        <br />
+        <br />
+        "...when letting inflation go like this, reigning it back in can be
+        really painful."
+        <br />
+        <br />
+        "Only way to stop it is to raise interest rates by 20%," well you can
+        reverse the repo-cycle kept-down-payments by cash:debt*income thru
+        history then truncated sales tax free rider immutable sewage police
+        lawsuits and multiple of 11/12 various industry jury designation,
+        minimal viable product duress permit, conviction or desistation, with
+        exhibitable facts without character witness as exhibitable evidence, nor
+        isolated jurors with no prior opinion, wood-headed.
+        <br />
+        <br />
+        We can ween off net loss profit per incarceration bonds with truncagted
+        sales tax free rider immutable sewage police lawsuits geohash/mo paytech
+        to accounting software and Congress, not itemized.
         <br />
         <br />
         In 2013 I had a choice: fail out or do the youtube random kissing girl
