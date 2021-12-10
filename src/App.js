@@ -159,6 +159,11 @@ export default class App extends React.Component {
         >
           truncatedsalestax.com
         </a>
+        Artifact is, not exclusive, but necessary and sufficient
+        prevalence/indication by incidence, in some cases, in a vacuum with all
+        other necesary incredients for a matching outcome.
+        {/**reflective would be match of another plane (photography) */}
+        <br />
         "Everyone is making more money since the pandemic started," that is
         intermediate-labor.
         <br />
