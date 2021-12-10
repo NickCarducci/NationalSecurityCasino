@@ -305,6 +305,21 @@ export default class App extends React.Component {
         impalusible landlord use, bonds (7.5%/yr+) nor home prices (5%/yr+)
         <br />
         <br />
+        <Cable
+          style={{ width: "100%", height: "400px", maxHeight: "50vw" }}
+          onError={handleScollImgError}
+          src={
+            this.state.iosNoPhoto
+              ? ""
+              : "https://drive.google.com/file/d/1mO4TCLFhGd22hvcNulLFDoXbTeAXfgRS/preview"
+          }
+          float="right"
+          title="Ron Paul Liberty Report - inflation, mandates and public debt"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 21]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
         <h2>Libertarians love their corporate collective flaccid loss</h2>
         "...#1 duty evidently is to maintain stock market," ask price, because
         3d-retail anon uuid discrepancy like shooting fish in a barrel with
