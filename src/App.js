@@ -170,6 +170,10 @@ export default class App extends React.Component {
         Swear to me
         <br />
         <br />
+        “The home loan benefits I got from the Army National Guard helped me buy
+        my first house.”
+        <br />
+        <br />
         <Cable
           onError={handleScollImgError}
           src={
