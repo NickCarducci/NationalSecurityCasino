@@ -239,6 +239,11 @@ export default class App extends React.Component {
         are unable to pay, with low interest rates, is so that consumer side nor
         producer side notice. Now apparent with the highest inflation rate in 40
         years, and it was created by Biden and his administration.”
+        <br />
+        <br />
+        "Marx predicted a period of despotism." That is the foreclosure induced
+        by the counterfeiter promised from the loitering launderer’s consumers
+        and employers
         <h2>
           <span
             style={{
@@ -261,6 +266,12 @@ export default class App extends React.Component {
         protection and right, in preamble, spoken in broad terms. Criminal when
         finance (invoices, expiring claims, implausible landlord use, repo cycle
         kept down payments) is out, until then duress is cause for acquittal.
+        <br />
+        <br />
+        Why would you even allow contracts insofarthat if they fail, they keep
+        down payments third party beneficiary donee claimable
+        loitered-collateral laundered from customers and employers for that
+        self-immutable, yet mitigatable, failure?
         <br />
         <br />
         Your tax money 60% free rider mutable 1/4 1/4 1/4 premium pentagon
