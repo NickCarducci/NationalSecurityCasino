@@ -159,6 +159,9 @@ export default class App extends React.Component {
         >
           truncatedsalestax.com
         </a>
+        Socialists don’t nationalize bridge tolls
+        <br />
+        <br />
         “My job as a parent is to prevent disease, illness and death, these
         vaccines is the best way to do that. Keeping kids out of schools is bad
         for 'mental health.' Schools are closed because of lack of vaccinations
@@ -322,7 +325,7 @@ export default class App extends React.Component {
         />
         <h2>Libertarians love their corporate collective flaccid loss</h2>
         "...#1 duty evidently is to maintain stock market," ask price, because
-        3d-retail anon uuid discrepancy like shooting fish in a barrel with
+        13d-retail anon uuid discrepancy like shooting fish in a barrel with
         pattern day trading rules.
         <br />
         <br />
