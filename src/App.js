@@ -306,6 +306,11 @@ export default class App extends React.Component {
         <br />
         “Republicans will support energy production,” by rent seeking pipelines
         instead of G-D FORBID margin-targeting "networks:" market of markets.
+        <h2>
+          Bonds not counted in gini nor inflation but is asset price fixed, and
+          homes.
+        </h2>
+        There is money on both political-sides,”
         <br />
         <br />
         <Cable
