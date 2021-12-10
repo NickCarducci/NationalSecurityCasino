@@ -161,8 +161,9 @@ export default class App extends React.Component {
         </a>
         “My job as a parent is to prevent disease, illness and death, these
         vaccines is the best way to do that. Keeping kids out of schools is bad
-        for mental health. Schools are closed because of lack of vaccinations
+        for 'mental health.' Schools are closed because of lack of vaccinations
         and lack of teachers,”
+        <br />
         <br />
         Dr. Rainey, paralytic polio matches multiple sclerosis and smallpox was
         lessened by 1775- sewage/nutrition improvements, and cartoon vivo nor
