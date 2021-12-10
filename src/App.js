@@ -214,6 +214,31 @@ export default class App extends React.Component {
         prevent it. Not a conservative, Marxist nor Pareto if you don’t believe
         in that ask-to-bid principle, of useless non-labor
         (flaccid-rentier-profiteer) borne-demand.
+        <br />
+        <br />
+        Mark Levin and Rich Valdez: "Inflation is when money is worth less -
+        whenever the ask takes more dollars to buy the same thing, from the the
+        currency of the depository, and the share-split as stasis, coming off
+        the gold standard, then silver with Nixon. Inflation by
+        intermediate-labor, home or bonded-asset and bonds in 'principle,'
+        albeit garnered by compounding fractional reserve/third party
+        beneficiary donee claimable in contract, required the full faith and
+        credit of the U.S. up to the beholdence to those owed the debt, nothing
+        to do with printing money.”
+        <h2>
+          But $3k/day/person is 2/3 private and velocity of m2 minus gdp divided
+          by m2 minus CurrencyComponentOfM1 is 1.1/year, that is checking.
+        </h2>
+        “There is never enough money to pay for theory, and Marxism is an
+        unachievable, lousy idea. Not reality, stealing from Hagel, Rousseau,
+        material-based, in a form of genocide and the latest American-form.
+        Inflation doesn’t come from matter of routine, but by not following the
+        laws of economics, that are like those of physics. If you don’t, things
+        fall. If you think about it, it is pretty simple. You can be a janitor
+        or slip and fall lawyer and understand that creating massive debt you
+        are unable to pay, with low interest rates, is so that consumer side nor
+        producer side notice. Now apparent with the highest inflation rate in 40
+        years, and it was created by Biden and his administration.”
         <h2>
           <span
             style={{
