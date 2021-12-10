@@ -159,6 +159,11 @@ export default class App extends React.Component {
         >
           truncatedsalestax.com
         </a>
+        "labor shortage at hospitals," Elize Stephanic. more accurately working
+        age shortage, old people need to get back to work, 20x/person rental income, 
+          half disability and continuing claims 65+? 2015- 75+ 1.2m/yr+, get over it!
+        <br />
+        <br />
         "see those employment numbers, the best in years," Jim cramer, if labor
         is now busy-work, and it is, and is part of inflation, and it is. Kirk
         wants family-formation at any cost. If you care about Walmart workers,
