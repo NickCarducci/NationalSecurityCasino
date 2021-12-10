@@ -159,6 +159,32 @@ export default class App extends React.Component {
         >
           truncatedsalestax.com
         </a>
+        In 2013 I had a choice: fail out or do the youtube random kissing girl
+        challenge to take leave, as I imagined taking leave during academic
+        probation would allow the school to decide, without protection of health
+        precedence. I abused the mental health system for more time on tests and
+        now disability, amazingly. I was applying for the hole in my leg but
+        since my mom has collateralized loans they want to price-fix and make
+        her payee. This is way beyond article 4 and only abetts finance
+        (invoices, expiring claims, implausible landlord use, repo-cycle
+        kept-down-payments). I disagree that gdp is productive, but now the
+        author of that which I disagree sums my insurance assessment as
+        affirmatively a net-loss, that which most recently was used to claim I
+        have grandiose thoughts. The diagnostician does have
+        industry-precedence-interest in such a claim, however, being paid by
+        non-rollover insurance herself.
+        <br />
+        <br />
+        "Democrats own this mess," Mitch McConnell, GOP spent more and Trump
+        more than that. Drain the swamp my ass. debt is more private, you
+        hypocrite
+        <br />
+        <br />
+        Schumer and Levin are pro-insurance, but the jury finds third party
+        beneficiary donee claimable is ground to stop expiring claims false bid
+        pools laundered and loitered
+        <br />
+        <br />
         "'Do you agree with Menendez that President Biden should kind of wipe
         the slate clean?'" nj 101.5 Deminski & Doyle
         <br />
