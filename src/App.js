@@ -250,6 +250,13 @@ export default class App extends React.Component {
         per hour watching eachothers' kids is...
         <br />
         <br />
+        “Her economic viability is at stake, a way to keep her as a dependent,”
+        or does the source of self-harm dependence make them dependent? Without
+        finance (invoices, expiring claims, implausible landlord use, repo cycle
+        kept down payments), there is no need to take care for more than
+        yourself
+        <br />
+        <br />
         ppp ccc bbb trust building existing-biz parent contractors
         <br />
         <br />
