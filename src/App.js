@@ -188,7 +188,7 @@ export default class App extends React.Component {
         invoice, expiring claims, implausible landlord use & repo cycle kept
         down payments is playing AS G-d. I had realized a significant majority
         of sheep had been herded by the false prophets, potentially now coming
-        for atonement in 2020-2030.
+        for appeasment/atonement in 2020-2030.
         <h2>every episode is rational, criminal or not.</h2>
         “There wasn’t something right, no signs of drugs or alcohol, did have
         episode in college, received treatment, come off drugs, and continue his
