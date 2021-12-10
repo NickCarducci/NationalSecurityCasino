@@ -166,6 +166,49 @@ export default class App extends React.Component {
         prices, like it is transitory and linked. (The term Stephen Moore is
         looking for is, "extinguishable," not the most common, shortest and
         historical use of "transitory" as a "transitive-property")
+        <h2>
+          <span style={{ fontSize: "9px" }}>market-communism on the right</span>
+          <br />
+          savings-account work deficit: not derived from labor
+        </h2>
+        <Cable
+          onError={handleScollImgError}
+          src={
+            this.state.iosNoPhoto
+              ? ""
+              : "https://drive.google.com/file/d/1242ebt5ukDVeCIt6c0GVC4BzhPqddSiF/preview"
+          }
+          float="left"
+          title="American Agenda (Newsmax) - J. Borroughs (forget his name) on the benefits of intermediate-labor inflation"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 23]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        “People are growing their savings accounts off of this, but the GREATEST
+        issue is the government encroachment,”
+        <h2>
+          If a congressperson has holdings in relevant bbb ppp ccc contractors
+          existing-biz parents, they must abstain, espectially if they didn't
+          get a even a plural majority of eligible+desisting, and a simple
+          majority if turnout. Emulated by default, "no," lest holdings-abstain
+          (no-count)
+        </h2>
+        <Cable
+          onError={handleScollImgError}
+          src={
+            this.state.iosNoPhoto
+              ? ""
+              : "https://drive.google.com/file/d/1VRm43GWAtuLAQ19uAXDFX1nkz1Vf7yuD/preview"
+          }
+          float="right"
+          title="American Agenda (Newsmax) - Joe Tobacco on public holdings"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 22]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        “The largest holding per Senator is Pfizer,” 13d-retail anon uuid now!
         <br />
         <br />
         “My job as a parent is to prevent disease, illness and death, these
