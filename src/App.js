@@ -283,6 +283,10 @@ export default class App extends React.Component {
         prices, like it is transitory and linked. (The term Stephen Moore is
         looking for is, "extinguishable," not the most common, shortest and
         historical use of "transitory" as a "transitive-property")
+        <br />
+        <br />
+        "You invested in a bunch of assets and now your money is not worth
+        crap," complains Mark Levin.
         <h2>
           <span style={{ fontSize: "9px" }}>market-communism on the right</span>
           <br />
