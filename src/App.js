@@ -538,8 +538,16 @@ export default class App extends React.Component {
         isolated jurors with no prior opinion, wood-headed.
         <br />
         <br />
-        “Woke ideology,” is assumption or having to mention it, give the issue
-        credence.
+        “They should have stopped buying bonds like 6 months ago,” Larry Kudlow,
+        Former NEC Director, “I would like it if they raise .5%.” for compound
+        interest, of course, "market [prices] would like that. Markets are doing
+        very well because profits, inflation is good for that in the short run,
+        but not when wages catch up with serfdom costs.” So profits by debt is a
+        good thing? Is broadly useless price-inelasticity bid-to-ask.
+        <br />
+        <br />
+        “Woke ideology,” is assumption, or having to mention it and give the
+        issue credence.
         <br />
         “The guy who lit the $1.2m appraised (but free before paid if grew
         naturally, except oxygen loss) setting of fire, needs to be evaluated.”
