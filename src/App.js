@@ -162,6 +162,14 @@ export default class App extends React.Component {
         Socialists don’t nationalize bridge tolls
         <br />
         <br />
+        "Not left nor right: Institutionalist, believe in this place, swore to
+        no man.”
+        <br />
+        Brian williams
+        <br />
+        Swear to me
+        <br />
+        <br />
         Right-winger in Yahoo Finance complains about inflation and lower asset
         prices, like it is transitory and linked. (The term Stephen Moore is
         looking for is, "extinguishable," not the most common, shortest and
