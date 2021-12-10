@@ -182,7 +182,8 @@ export default class App extends React.Component {
           “[Withholding oil on free-rider-mutable, collectively-flaccid,
           federally-cornered lands] to make&nbsp;
           <a href="https://magnate.company">electric</a>&nbsp;more appealing.
-          ...Inflating currency makes inflation.”
+          ...Inflating currency makes inflation.” Rental-income isn't income?
+          Bonds aren't assets? Homes aren't meant to be owned outright?
         </h2>
         Inflation overwhelms wages, “in the long term,” by profits from lender
         work deficit, and wages move in the first place because guys like Grover
