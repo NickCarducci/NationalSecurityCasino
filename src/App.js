@@ -159,6 +159,28 @@ export default class App extends React.Component {
         >
           truncatedsalestax.com
         </a>
+        “Consumers change buying habits and that changed demand side, changes
+        industry to industry has allowed monopolies to price gouge, talk about
+        inflation. ...Suppliers haven’t only kept costs the same and rise
+        prices. …Long term we need an economy more competitive, and that means
+        enforcing the antitrust laws. …Dems are spending a lot of time trying to
+        get this huge bill together, first get it done, then talk about and make
+        impact on American people, childcare turn on as quickly as possible, so
+        parents struggling to pay for childcare, when we deliver, then we can
+        talk about it.”
+        <br />
+        <br />
+        “This short period of time where there is a real crunch for workers. We
+        need workers opportunity to unionize, against crushing of opportunity to
+        collective bargaining. …Without extension, people are going to be
+        squeezed, not ready to begin making payments for student loan. That is
+        money that goes through the economy and through the stores. President
+        can cancel student loan debt. all you need to do is take out a pen and
+        pencil, and get it done. We are talking about how to make people’s lives
+        better, mommas who need childcare, fight climate change, and get
+        prescription drugs.”
+        <br />
+        <br />
         Artifact is, not exclusive, but necessary and sufficient
         prevalence/indication by incidence, in some cases, in a vacuum with all
         other necesary incredients for a matching outcome.
