@@ -506,6 +506,16 @@ export default class App extends React.Component {
         isolated jurors with no prior opinion, wood-headed.
         <br />
         <br />
+        “Woke ideology,” is assumption or having to mention it, give the issue
+        credence.
+        <br />
+        “The guy who lit the $1.2m appraised (but free before paid if grew
+        naturally, except oxygen loss) setting of fire, needs to be evaluated.”
+        <br />
+        Character witness evidence, just use the facts of the case, don’t bring
+        in some Freudian nut
+        <br />
+        <br />
         We can ween off net loss profit per incarceration bonds with truncagted
         sales tax free rider immutable sewage police lawsuits geohash/mo paytech
         to accounting software and Congress, not itemized.
