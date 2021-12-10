@@ -174,6 +174,12 @@ export default class App extends React.Component {
         my first house.”
         <br />
         <br />
+        Ask-to-bid happens when supplier has demand propensity, based on
+        labor-competing and -boosting supply. The disparity is so large between
+        supply and demand now, however, insofarthat dead-weight entrenched
+        suppliers can wait, yet demand can no longer negotiate.
+        <br />
+        <br />
         <Cable
           onError={handleScollImgError}
           src={
