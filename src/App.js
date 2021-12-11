@@ -288,13 +288,11 @@ export default class App extends React.Component {
         down payments third party beneficiary donee claimable
         loitered-collateral laundered from customers and employers for that
         self-immutable, yet mitigatable, failure?
-        <br />
-        <br />
-        Your tax money 60% free rider mutable 1/4 1/4 1/4 premium pentagon
-        pension 40% debt spending 1/3 of $3k/day/p in total debt, that’s third
-        party beneficiary donee claimable, and I’m here to collect.
-        <br />
-        <br />
+        <h2>
+          Your tax money 60% free rider mutable 1/4 1/4 1/4 premium pentagon
+          pension 40% debt spending 1/3 of $3k/day/p in total debt, that’s third
+          party beneficiary donee claimable, and I’m here to collect.
+        </h2>
         Right-winger in Yahoo Finance complains about inflation and lower asset
         prices, like it is transitory and linked. (The term Stephen Moore is
         looking for is, "extinguishable," not the most common, shortest and
@@ -303,34 +301,45 @@ export default class App extends React.Component {
         <br />
         "You invested in a bunch of assets and now your money is not worth
         crap," complains Mark Levin.
+        <br />
+        <br />
+        "...we are going to have less r&d if this bill passes." Well, wouldn't
+        labor pick up the r&d intermediate material and labor monopsony slack?
+        <br />
+        <br />
+        "Isn't that gov controlled socialism? That's what it sounds like to me."
+        <br />
+        "That is exactly what it is. Right now we are vibrant, and government
+        comes in out of fear because we are making money on it."
+        <br />
+        "Woke socialism under Biden." fda dir thomas philipson.
         <h2>
           <span style={{ fontSize: "9px" }}>market-communism on the right</span>
           <br />
           savings-account work deficit: not derived from labor
         </h2>
-        Price controls make better health more expensive, only if there is IP
-        monopsony
-        <br />
-        And if it cuts into costs. Margin controls work. Bipartisans wish to
+        "Price controls make better health more expensive," only if there is IP
+        monopsony (intermediate material and labor) and if the target-margin
+        cuts into costs, otherwise, margin controls work. Bipartisans wish to
         nationalize monopolies anyway, for debt service, rent-seeking
-        government-gentrification.
+        government-gentrification. Libertarians don't care about monopsony.
+        Savers do.
         <br />
-        R&D loss is for only the existing business. You aren’t counting the
-        transitive property of that intermediate R&D for new business from
-        labor, with otherwise no time to invent.
-        <br />
-        <a href="https://teapharmacy.com">Clinical trials</a>&nbsp;is the
-        largest r&d expenditure
-        <br />
-        <br />
-        profitability not withheld for flaccid collective loss, is income
+        Margin-targeting R&D loss is for only the existing business. You aren’t
+        counting the transitive property of that intermediate R&D for new
+        business from labor, with, otherwise, no time to invent.
+        <br />"<a href="https://teapharmacy.com">Clinical trials</a>&nbsp;is the
+        largest r&d expenditure."
         <br />
         <br />
-        expiring claims false bid pools are useless price-inelasticity
+        Poofitability not withheld for flaccid collective loss, is income
+        <br />
+        <br />
+        Expiring claims false bid pools are useless price-inelasticity
         bid-to-ask
         <br />
         <br />
-        takes a while to think of this, 10x more than writing it.
+        Takes a while to think of this, 10x more than writing it.
         <br />
         <br />
         <Cable
