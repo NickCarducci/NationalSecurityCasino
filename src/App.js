@@ -165,6 +165,11 @@ export default class App extends React.Component {
         third party beneficiary donee claimable.
         <br />
         <br />
+        amortize principal, I don't care about your delusional monthly,
+        "savings." gdp is mostly homes, when amortized and dissolved, not public
+        parks.
+        <br />
+        <br />
         Kenny Polcari saying ending finance will slow down housing measured by
         11/1 price without debt, as a home-contractor, makes me want to bury him
         in cement.
