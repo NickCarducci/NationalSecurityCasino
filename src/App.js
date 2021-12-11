@@ -932,6 +932,14 @@ export default class App extends React.Component {
         “They are in stash houses, they are being mistreated,”
         <br />
         <br />
+        “America first, crt, border, woke government which we believe this bill
+        is,” but comparative advantage tech advantage loss…
+        <br />
+        “Safe from crime, drugs, radical ideologies like crt, Soros DA.”
+        <br />
+        C for renewing American, russ voght
+        <br />
+        <br />
         ...They tried to squelch our country, but capitalism survived, we need
         to get these people out of our business and church lives. these bylaws
         are based on whims."
