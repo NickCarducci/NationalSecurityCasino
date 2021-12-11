@@ -339,6 +339,32 @@ export default class App extends React.Component {
         historical use of "transitory" as a "transitive-property")
         <br />
         <br />
+        Free enterprise system is not third party beneficiary donee claimable,
+        repo cycle kept down payments isn’t plausible deniability nor business.
+        <br />
+        Why would you want to put yourself in danger, that doesn’t mean you are
+        soft. 1937 social security was forced, I would probably be skeptical of
+        WWII.
+        <br />
+        “All these free programs, no one has to work, no one is going to work
+        again.”
+        <br />
+        You want to make more money instead of amortize principle. Trump
+        cancelling means bailout with saver money, stop calling it tax payer
+        money with 40% debt spending and velocity of m2 minus gdp divided by m2
+        minus currencyComponentOfM1 at 1.1 times a year. Can’t even say it would
+        take 44 years to pay off public and private debt, with current income
+        paying it down. Meanwhile you on the right & top-left keep down payments
+        upon collateral repossession or court-price-fix estimates as you do with
+        third party beneficiary donee claimable.
+        <br />
+        <br />
+        $3k/day/p is not free, gov is 1/3 of the burden on what your collective
+        corporate flaccid loss buys in intermediate r&d material and labor
+        monopsony. My household home contractor company just lost to nj consumer
+        protection law as option to buy on estimate. We can’t
+        <br />
+        <br />
         "You invested in a bunch of assets and now your money is not worth
         crap," complains Mark Levin.
         <br />
