@@ -170,6 +170,17 @@ export default class App extends React.Component {
         in cement.
         <br />
         <br />
+        "FCF what it allows companies to do, cap ex, investing for the future
+        <br />
+        600x in finance, 1x book of assets without third party beneficiary donee
+        claimable income…&nbsp;
+        <a href="https://fred.stlouisfed.org/graph/?g=JLa3">
+          bankers will be serfs
+        </a>
+        &nbsp;after cash:debt*income thru history… damn we would have to
+        discriminate literally."
+        <br />
+        <br />
         libertarians don't care about debt unless it is put on them, they in
         fact like it if their producers put it in their costs. they think
         economic funcamentals is watching eachothers' kids to double hours
