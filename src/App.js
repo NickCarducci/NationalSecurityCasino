@@ -183,11 +183,14 @@ export default class App extends React.Component {
         <a href="https://www.politifact.com/factchecks/2020/jun/15/facebook-posts/claim-n95-masks-cant-stop-covid-19-particles-due-s/">
           all
         </a>
-        .” Honesty doesn’t need context
+        .” Honesty doesn’t need context.
         <br />
         <br />
-        a virtuous war would be fought by volunteers, I imagine man to man
-        combat is not behind a computer screen
+        Amortize principal we are living into different world the lenders and
+        the proletariate, impending and imminent for the future of war.
+        <br />
+        A virtuous war would be fought by volunteers, I imagine man to man
+        combat is not behind a computer screen.
         <br />
         <br />
         We do know that&nbsp;<a href="https://carducci.us/videos">Hitler</a>
@@ -209,7 +212,7 @@ export default class App extends React.Component {
         <br />*/}
         We are working a lot more than when you were a kid. 6m/40m vs 6m/20m
         unemployed, if rental income is counted then there is a millennial work
-        deficit, but there is lender landlord and insurer work deficit
+        deficit, but there is lender landlord and insurer work deficit.
         <br />
         20x/person 55+/millennials
         <h2>
