@@ -229,6 +229,16 @@ export default class App extends React.Component {
         rent-seeking and laborless-demand.
         <br />
         <br />*/}
+        "These people can take care of themselves, struggling to get by, because
+        they smoke marijuana, albeit $3k/day/p new debt public 2/3 private, and
+        6m/40m unemployed now, 6m/20m 1970, 20x/millennial rental-income, most
+        of disability and half continuing claims, 5 years to double hours per
+        home, that is 10x hours per home since 1970 and half that rate at
+        10years is home prices, 20year is bonds and money, 40 is goods material
+        but labour hours and price of intermediate labor I don’t know, but that
+        is 5x hours per worker*2x workers per person" Rep Pete King.
+        <br />
+        <br />
         We are working a lot more than when you were a kid. 6m/40m vs 6m/20m
         unemployed, if rental income is counted then there is a millennial work
         deficit, but there is lender landlord and insurer work deficit.
@@ -288,7 +298,10 @@ export default class App extends React.Component {
         medical doctor,” so you are going to allow alcohol without marijuana
         medical use? For anxiety? Everyone can benefit from amphetamines in the
         water too, concentration would&nbsp;
-        <a href="https://teapharmacy.party">SKYROCKET</a>.
+        <a href="https://teapharmacy.party/drugs">SKYROCKET</a>. "Supervision of
+        medical professionals who use marijuana to not have anxiety,” is
+        self-reported, character-“witness” not evidence of a crime or prevalence
+        test. Hanging around the residential neighborhoods and pharmacies
         <h2>
           Socialists don’t nationalize bridge tolls.
           <br />
