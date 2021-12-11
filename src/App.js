@@ -187,6 +187,17 @@ export default class App extends React.Component {
         my first house.”
         <br />
         <br />
+        “Inflation soared more than a decade, stock market loved it. records.
+        Maybe we need to rethink this, instead of 7%, maybe 20%.” Former
+        National Security Director on stock prices, enumerated market-share by
+        IP of design and discovery too broad, hardly in perfect equilibrium of
+        infinite producers and Pareto described: the reasoning for microeconomic
+        self-regulation of markets of price and duress, by per hour.
+        <br />
+        If we can get a curable good expenditure, that would be bullish for
+        market concentration by price/equality
+        <br />
+        <br />
         Ask-to-bid happens when supplier has demand propensity, based on
         labor-competing and -boosting supply. The disparity is so large between
         supply and demand now, however, insofarthat dead-weight entrenched
