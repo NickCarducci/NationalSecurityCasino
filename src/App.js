@@ -171,6 +171,11 @@ export default class App extends React.Component {
         worked instead of that as basis under price-deflation thru supply chain.
         <br />
         <br />
+        wanting to leave risk to lender but allowing them to keep down payments
+        laundered by the loitering borrower, instead of awaiting compound
+        interest in a business account, is not a business.
+        <br />
+        <br />
         "Not left nor right: Institutionalist, believe in this place, swore to
         no man.”
         <br />
