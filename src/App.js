@@ -364,6 +364,10 @@ export default class App extends React.Component {
         monopsony. My household home contractor company just lost to nj consumer
         protection law as option to buy on estimate. We can’t
         <h2>certify my cock bob payne</h2>
+        Ry: "being a certified-fiduciary means we lose certification of being a
+        fiduciary if we lose you money."
+        <br />
+        <br />
         "You invested in a bunch of assets and now your money is not worth
         crap," complains Mark Levin.
         <br />
