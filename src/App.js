@@ -159,10 +159,10 @@ export default class App extends React.Component {
         >
           truncatedsalestax.com
         </a>
-        Socialists don’t nationalize bridge tolls
+        Socialists don’t nationalize bridge tolls.
         <br />I hate banks because they are collective flaccid loss when
         fractional reserve in share split or contract loitered and laundered
-        third party beneficiary donee claimable
+        third party beneficiary donee claimable.
         <br />
         <br />
         libertarians don't care about debt unless it is put on them, they in
@@ -175,6 +175,10 @@ export default class App extends React.Component {
         laundered by the loitering borrower, instead of awaiting compound
         interest in a business account, is not plausible-deniability (a
         business), "in the cards."
+        <br />
+        <br />
+        “You had 10% gdp in the first quarter, you can have 17% gdp!” I knew
+        this already.
         <br />
         <br />
         "Not left nor right: Institutionalist, believe in this place, swore to
