@@ -308,6 +308,31 @@ export default class App extends React.Component {
           <br />
           savings-account work deficit: not derived from labor
         </h2>
+        Price controls make better health more expensive, only if there is IP
+        monopsony
+        <br />
+        And if it cuts into costs. Margin controls work. Bipartisans wish to
+        nationalize monopolies anyway, for debt service, rent-seeking
+        government-gentrification.
+        <br />
+        R&D loss is for only the existing business. You aren’t counting the
+        transitive property of that intermediate R&D for new business from
+        labor, with otherwise no time to invent.
+        <br />
+        <a href="https://teapharmacy.com">Clinical trials</a>&nbsp;is the
+        largest r&d expenditure
+        <br />
+        <br />
+        profitability not withheld for flaccid collective loss, is income
+        <br />
+        <br />
+        expiring claims false bid pools are useless price-inelasticity
+        bid-to-ask
+        <br />
+        <br />
+        takes a while to think of this, 10x more than writing it.
+        <br />
+        <br />
         <Cable
           onError={handleScollImgError}
           src={
