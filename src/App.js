@@ -269,6 +269,20 @@ export default class App extends React.Component {
         (flaccid-rentier-profiteer) borne-demand.
         <br />
         <br />
+        Most disability is 65+ and also half continuing claims 2.8m go to them.
+        We are working a lot more than when you were a kid. 6m/40m vs 6m/20m
+        unemployed, 5x hours per worker and 2x workers per person, which amounts
+        to 10x hours to home wince 1970 and doubling of hours per home,
+        population growth I will give only 20% of the factor, since before 1913,
+        it was nearly constant, save amortized principle malfeasance, collective
+        flaccid loss, expiring claim false bid pools, or monopsony with free
+        rider mutable tax outside sewage police lawsuit multiple of 12 industry
+        various jury duress for minimal viable product as in microeconomics, the
+        basis for self-regulation, by Pareto, says infinite producers is perfect
+        equilibrium, unfettered by taxation, reappropriating of labor equity,
+        rent-seeking and laborless-demand.
+        <br />
+        <br />
         Mark Levin and Rich Valdez: "Inflation is when money is worth less -
         whenever the ask takes more dollars to buy the same thing, from the the
         currency of the depository, and the share-split as stasis, coming off
