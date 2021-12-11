@@ -159,6 +159,33 @@ export default class App extends React.Component {
         >
           truncatedsalestax.com
         </a>
+        “Supply chain getting better, number 1 in energy, 1 in crime, the
+        border, our standing rhetorically, internationally,” Jeff Van Drew,
+        spending for more gdp isn’t productive but waste.
+        <br />
+        <br />
+        <Cable
+          onError={handleScollImgError}
+          src={
+            this.state.iosNoPhoto
+              ? ""
+              : "https://drive.google.com/file/d/1v_YRN1OrNsZubTRhnDpctphgtI3gvOsb/preview"
+          }
+          float="right"
+          title="Saturday Agenda (Newsmax) - Rep Jeff Van Drew"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 27]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        “You’re not gonna need a&nbsp;<a href="https://moldmask.co">mask</a>,
+        that wasn’t true at&nbsp;
+        <a href="https://www.politifact.com/factchecks/2020/jun/15/facebook-posts/claim-n95-masks-cant-stop-covid-19-particles-due-s/">
+          all
+        </a>
+        .” Honesty doesn’t need context
+        <br />
+        <br />
         a virtuous war would be fought by volunteers, I imagine man to man
         combat is not behind a computer screen
         <br />
@@ -185,8 +212,26 @@ export default class App extends React.Component {
         deficit, but there is lender landlord and insurer work deficit
         <br />
         20x/person 55+/millennials
-        <br />
-        <br />
+        <h2>
+          if you want to be spoiled and withdrawal $3k/day/p new burdens
+          laundered and loitered for court-price-fixed collateral, then why
+          don't we help you and put you on the front lines.
+        </h2>
+        <Cable
+          style={{ height: "300px" }}
+          onError={handleScollImgError}
+          src={
+            this.state.nofred
+              ? ""
+              : "https://drive.google.com/file/d/13YVw2Us8e-O_e5ehDZ6GefAjfQMvSDRX/preview"
+          }
+          float="left"
+          title=""
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 26]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
         Some stay-at-home-mom living on compound interest, on Stephen Moore's
         Moore Money (77WABC), her call taken over mine, "We do know that Hitler
         spent a lot and promised to drain the swamp like Trump and Social
