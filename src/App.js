@@ -168,8 +168,7 @@ export default class App extends React.Component {
         Brian williams
         <br />
         Swear to me
-        <br />
-        <br />
+        <h2>pro&bull;fit==pro&bull;rate</h2>
         “The home loan benefits I got from the Army National Guard helped me buy
         my first house.”
         <br />
@@ -465,7 +464,7 @@ export default class App extends React.Component {
         40% debt spend isn't tax payer money. $120/day/p new cash (park deeds
         share split), free rider mutable tax is also pure inflation,
         rent-seekable-gentrification and intermediate material & labor
-        monopsony, $3k/day/p public and private new debt, $821/day/p M@...
+        monopsony, $3k/day/p public and private new debt, $821/day/p M2...
         expiring claims false bid pools is also theft (third party beneficiary
         donee claimable)
         <br />
