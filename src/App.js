@@ -243,7 +243,7 @@ export default class App extends React.Component {
         <br />
         "Marx predicted a period of despotism." That is the foreclosure induced
         by the counterfeiter promised from the loitering launderer’s consumers
-        and employers
+        and employers.
         <h2>
           <span
             style={{
@@ -266,6 +266,9 @@ export default class App extends React.Component {
         protection and right, in preamble, spoken in broad terms. Criminal when
         finance (invoices, expiring claims, implausible landlord use, repo cycle
         kept down payments) is out, until then duress is cause for acquittal.
+        Lo, jury duty currently removes you when you're concerned with method
+        and level of remediation at anyone else's costs, or hesitance to jail
+        anyone at all.
         <br />
         <br />
         Why would you even allow contracts insofarthat if they fail, they keep
