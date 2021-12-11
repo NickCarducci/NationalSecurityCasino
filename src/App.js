@@ -159,10 +159,60 @@ export default class App extends React.Component {
         >
           truncatedsalestax.com
         </a>
-        Socialists don’t nationalize bridge tolls.
-        <br />I hate banks because they are collective flaccid loss when
-        fractional reserve in share split or contract loitered and laundered
-        third party beneficiary donee claimable.
+        a virtuous war would be fought by volunteers, I imagine man to man
+        combat is not behind a computer screen
+        <br />
+        <br />
+        We do know that&nbsp;<a href="https://carducci.us/videos">Hitler</a>
+        &nbsp;spent a lot and promised to drain the swamp like Trump.
+        <br />
+        <br />
+        {/*We are working a lot more than when you were a kid. 6m/40m vs 6m/20m
+        unemployed , 5x hours per worker and 2x workers per person, which
+        amounts to 10x hours to home wince 1970 and doubling of hours per home,
+        population growth I will give only 20% of the factor, since before 1913,
+        it was nearly constant, save amortized principle malfeasance, collective
+        flaccid loss, expiring claim false bid pools, or monopsony with free
+        rider mutable tax outside sewage police lawsuit multiple of 12 industry
+        various jury duress for minimal viable product as in microeconomics, the
+        basis for self-regulation, by Pareto, says infinite producers is perfect
+        equilibrium, unfettered by taxation, reappropriating of labor equity,
+        rent-seeking and laborless-demand.
+        <br />
+        <br />*/}
+        We are working a lot more than when you were a kid. 6m/40m vs 6m/20m
+        unemployed, if rental income is counted then there is a millennial work
+        deficit, but there is lender landlord and insurer work deficit
+        <br />
+        20x/person 55+/millennials
+        <br />
+        <br />
+        Some stay-at-home-mom living on compound interest, on Stephen Moore's
+        Moore Money (77WABC), her call taken over mine, "We do know that Hitler
+        spent a lot and promised to drain the swamp like Trump and Social
+        security was forced by threat and duress upon us in 1937, I think I
+        would be more of a conspiracy theorist. Census and I projected this
+        pandemic mortality, prevalence does not cause, make.", "These kids are
+        spoiled, want to smoke as an out because employers aren't 'allowed,' nor
+        is it a protected civil right, to hire them? Put them on the front line;
+        they want to abuse their body, we will help them." Listen you old-cunt,
+        It is not "soft" to not put yourself in danger but get high. My body is
+        better and your son couldn't get voluntary customers so had to get a
+        government job&nbsp;
+        <span role="img" aria-label="side-splitting-laughter">
+          🤣
+        </span>
+        <h2>
+          Socialists don’t nationalize bridge tolls.
+          <br />
+          <span style={{ fontSize: "9px" }}>
+            for rent-seeking government gentrification and debt service and
+            principal withdrawal
+          </span>
+        </h2>
+        I hate banks because they are collective flaccid loss when fractional
+        reserve in share split or contract loitered and laundered third party
+        beneficiary donee claimable.
         <br />
         <br />
         amortize principal, I don't care about your delusional monthly,
