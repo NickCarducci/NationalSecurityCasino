@@ -187,8 +187,26 @@ export default class App extends React.Component {
         .” Honesty doesn’t need context.
         <br />
         <br />
-        Amortize principal we are living into different world the lenders and
-        the proletariate, impending and imminent for the future of war.
+        “No matter how bad it gets, thinking positive is, ‘going towards
+        greatness,’ even if it goes thru transition. We are stick-to-it people.
+        What about for sale signs, let em come let em go, fresh blood.”
+        <br />
+        <br />
+        “…guy who lit the tree is back there,” to which Curtis responds, “That
+        is no bail, Democrats did that.” There was no evidence, not even a
+        lighter, per incarceration net loss bond profit racket charlie angel
+        wannabe. IF YOU CANNOT HOLD WITH EVIDENCE YOU HAVE NO CASE, get back to
+        me when you have something REAL.
+        <br />
+        <br />
+        “Why is NYC the greatest city in the world? What it is, not what you
+        hope it will be?” What you and I see as reality is not the same.
+        <br />
+        <br />
+        Amortize principal without debt-inelasticity bid-to-ask nor atonement
+        for third party beneficiary donee counterfeit purloined. we are living
+        into different world the lenders and the proletariate, impending and
+        imminent for the future of war.
         <br />
         A virtuous war would be fought by volunteers, I imagine man to man
         combat is not behind a computer screen.
