@@ -165,6 +165,12 @@ export default class App extends React.Component {
         third party beneficiary donee claimable
         <br />
         <br />
+        libertarians don't care about debt unless it is put on them, they in
+        fact like it if their producers put it in their costs. they think
+        economic funcamentals is watching eachothers' kids to double hours
+        worked instead of that as basis under price-deflation thru supply chain.
+        <br />
+        <br />
         "Not left nor right: Institutionalist, believe in this place, swore to
         no man.”
         <br />
@@ -903,6 +909,23 @@ export default class App extends React.Component {
         “Wishlist of big government socialism, they give free stuff, but it
         costs in inflation, fed spends and money raises inflation, then Biden
         says borrowing gets rid of inflation.
+        <br />
+        <Cable
+          onError={handleScollImgError}
+          src={
+            this.state.iosNoPhoto
+              ? ""
+              : "https://drive.google.com/file/d/1zDBEPkWEsS7raUnGxsznWYVHoP62suFR/preview"
+          }
+          float="left"
+          title="Save the Nation (Newsmax) - 'Texas leads the charge to secure the southern border'"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 25]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        “They are in stash houses, they are being mistreated,”
+        <br />
         <br />
         ...They tried to squelch our country, but capitalism survived, we need
         to get these people out of our business and church lives. these bylaws
