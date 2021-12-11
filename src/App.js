@@ -124,6 +124,7 @@ export default class App extends React.Component {
     return (
       <div
         style={{
+          overflow: "hidden",
           width: "100%",
           textAlign: "center",
           fontFamily: "'Quantico', sans-serif"
