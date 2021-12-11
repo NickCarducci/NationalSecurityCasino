@@ -626,9 +626,10 @@ export default class App extends React.Component {
         <br />
         <br />
         You can't force me to work for a bank that is third party beneficiary
-        donee claimable, I am an injured bartender. PAY ME MY MONEY. most
-        disability are elderly and half continuing claims (2.8m/170m employed,
-        160m without claims).
+        donee claimable, I am an injured bartender, you also cannot assume I'll
+        be hired doing other work, evidently so after thousands of remote job
+        applications. PAY ME MY MONEY. most disability are elderly and half
+        continuing claims (2.8m/170m employed, 160m without claims).
         <br />
         <br />
         “Woke ideology,” is assumption, or having to mention it and give the
