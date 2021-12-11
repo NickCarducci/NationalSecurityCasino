@@ -611,6 +611,10 @@ export default class App extends React.Component {
           forever. Supply and Demand is supposed to be exclusively labor, not
           outlays withheld for collective corporate flaccid loss.
         </h2>
+        workfare: from $3k/day/p from private banking fractional reserve
+        lending, then force people to work?
+        <br />
+        <br />
         Republicans (Ron Johnson and Larry Kudlow): " People are encouraged not
         to work, there needs to be work requirements for foodstamps, nutrition,
         and farm stuff.
