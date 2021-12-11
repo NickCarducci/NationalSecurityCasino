@@ -178,7 +178,9 @@ export default class App extends React.Component {
         <br />
         <br />
         “You had 10% gdp in the first quarter, you can have 17% gdp!” I knew
-        this already.
+        this already. "Kill the bill!" Do you know where you are right now? I'll
+        be sue they deliver you to alcatraz with 1 white russian drink and a
+        speedball.
         <br />
         <br />
         "Not left nor right: Institutionalist, believe in this place, swore to
