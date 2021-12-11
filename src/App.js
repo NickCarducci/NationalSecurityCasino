@@ -160,6 +160,9 @@ export default class App extends React.Component {
           truncatedsalestax.com
         </a>
         Socialists don’t nationalize bridge tolls
+        <br />I hate banks because they are collective flaccid loss when
+        fractional reserve in share split or contract loitered and laundered
+        third party beneficiary donee claimable
         <br />
         <br />
         "Not left nor right: Institutionalist, believe in this place, swore to
@@ -599,6 +602,29 @@ export default class App extends React.Component {
         very well because profits, inflation is good for that in the short run,
         but not when wages catch up with serfdom costs.” So profits by debt is a
         good thing? Is broadly useless price-inelasticity bid-to-ask.
+        <br />
+        <br />
+        <h2>
+          labor shortage is cohort size shortage, wage inflation follows
+          inflation, but the former should be counted as an intermediate good in
+          inflation, labor is not meant to work alone or work for Republicans
+          forever. Supply and Demand is supposed to be exclusively labor, not
+          outlays withheld for collective corporate flaccid loss.
+        </h2>
+        Republicans (Ron Johnson and Larry Kudlow): " People are encouraged not
+        to work, there needs to be work requirements for foodstamps, nutrition,
+        and farm stuff.
+        <a href="https://fred.stlouisfed.org/graph/?g=H5XB">
+          We are paying people not to work
+        </a>
+        , which means we are paying people not to grow the economy, we want to
+        help people who cannot help themselves."
+        <br />
+        <br />
+        You can't force me to work for a bank that is third party beneficiary
+        donee claimable, I am an injured bartender. PAY ME MY MONEY. most
+        disability are elderly and half continuing claims (2.8m/170m employed,
+        160m without claims).
         <br />
         <br />
         “Woke ideology,” is assumption, or having to mention it and give the
