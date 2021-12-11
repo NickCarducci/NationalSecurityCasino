@@ -270,6 +270,26 @@ export default class App extends React.Component {
           🤣
         </span>
         <h2>
+          <a href="https://vaults.biz">Marijana</a>&nbsp;is a gateway currency
+          <br />
+          <span style={{ fontSize: "9px" }}>
+            (bank depositary, concurrentable, like perfectly-durable and
+            maintainless public park share, hardly income by natural free rider
+            mutable operating-costable and rent-seekable in withheld, expiring
+            claim false bid pools, appraised-null-settled-bid outlays,
+            implausible landlors use, or repo cycle kept down payments, all on
+            laundering third party beneficiary donee claimable grounds); without
+            wall st pharma cops script monopsony
+          </span>
+        </h2>
+        "Marijuana is gateway heart disease,” instead of random sampling
+        prevalence, use event/population as to not have to emulate random “I
+        have no problem with medical marijuana, as long as it is moderated by a
+        medical doctor,” so you are going to allow alcohol without marijuana
+        medical use? For anxiety? Everyone can benefit from amphetamines in the
+        water too, concentration would&nbsp;
+        <a href="https://teapharmacy.party">SKYROCKET</a>.
+        <h2>
           Socialists don’t nationalize bridge tolls.
           <br />
           <span style={{ fontSize: "9px" }}>
