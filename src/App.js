@@ -173,7 +173,8 @@ export default class App extends React.Component {
         <br />
         wanting to leave risk to lender but allowing them to keep down payments
         laundered by the loitering borrower, instead of awaiting compound
-        interest in a business account, is not a business.
+        interest in a business account, is not plausible-deniability (a
+        business).
         <br />
         <br />
         "Not left nor right: Institutionalist, believe in this place, swore to
