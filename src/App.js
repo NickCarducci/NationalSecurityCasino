@@ -392,6 +392,23 @@ export default class App extends React.Component {
         would you not end debt instead.
         <br />
         <br />
+        “Yes, you can overdose on prescription drugs, but 'by-in-large' it is
+        safer.” If FDA didn’t enable&nbp;
+        <a href="https://teapharmacy.party">closed-source-licensure</a>, the
+        animals would be saved and ingredients would be listed.
+        <br />
+        <br />
+        "Biden called trump rracist," TRUMP IS RACIST, his racism is the
+        secondary cause of the labor shortage, behind cohort size and financial
+        dead weight (laborless-demand, lender/landlord/insurer work deficit by
+        invoice, expiring claims, implausible landlord use, repo cycle kept down
+        payments, all breaking third party beneficiary donee claimable grounds
+        to loiter and launder on the same goods for a higher and monopsony rate,
+        co-signing their employers and customers compounding interest impossibly
+        derived from the seller nor the third parties unless every debtor is
+        right, never is. just simply 1-level-board max royalty contracts)
+        <br />
+        <br />
         “Biden told media to show good economic figures, so they started
         reporting on certain gas stations,” Maria Ryan
         <br />
