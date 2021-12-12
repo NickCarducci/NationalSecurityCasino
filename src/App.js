@@ -61,6 +61,7 @@ export default class App extends React.Component {
     const name = parser.getBrowser().name;
     console.log(name);
     this.state = { browser: name, width: null, ios: null, lastWidth: null };
+    this.gdp = React.createRef();
     for (let i = 0; i < 250; i++) {
       this["scrollImg" + i] = React.createRef();
     }
@@ -112,6 +113,14 @@ export default class App extends React.Component {
           }, 900);
         }
       );
+    }
+  };
+  componentDidUpdate = (prevProps) => {
+    if (this.props.pathname !== prevProps.pathname) {
+      if (this.props.pathname === "/") {
+      } else if (this.props.pathname === "/gdp") {
+        window.scroll(0, this.gdp.current.offsetTop);
+      }
     }
   };
   render() {
@@ -393,6 +402,27 @@ export default class App extends React.Component {
         "If we can get a durable good expenditure, that would be&nbsp;
         <span style={{ textDecoration: "line-through" }}>bullish for</span>
         &nbsp; market concentration by price/equality,"
+        <br />
+        <br />
+        <Cable
+          onError={handleScollImgError}
+          src={
+            this.state.iosNoPhoto
+              ? ""
+              : "https://drive.google.com/file/d/1Sr30F_jMs3mwrkq2iNyGBrmaLbEWXcFW/preview"
+          }
+          float="right"
+          title={`Save the Nation (Newsmax) - Brandon Arnold, "Inflations' impact on you"`}
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 24]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        “Tax increases that will lose 100k jobs, and slow our economic growth.”
+        taxes from outside the market make more jobs for less
+        price-deflation-productivity. gdp/p amidst 3% p/yr+ before federal
+        reserve was&nbsp;
+        <a href="https://nationalsecuritycasino.com/gdp">nearly constant</a>
         <h2>
           market-communist, court-backed price-fixed, third party beneficiary
           Rudy
@@ -2242,6 +2272,7 @@ export default class App extends React.Component {
           [thumbprint.us/privacy,&nbsp;
           <a href="https://saverparty.xyz">saverparty.xyz</a>] Article3
           Tranquility Involuntary-Servitude Third-Party-Beneficiary
+          <hr ref={this.gdp} />
           <GDP width={this.state.width} />
           when you launder, it doesn't matter what you&nbsp;
           <a href="https://www.dailystar.co.uk/news/weird-news/nasa-space-news-iss-fake-16818740">
