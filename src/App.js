@@ -160,20 +160,9 @@ export default class App extends React.Component {
         >
           truncatedsalestax.com
         </a>
-        market history and propoganda: The Great Leap Forward expected 15m 35
-        age lifetime deaths.
-        <br />
-        $3k/day/p new debt private 2/3 public
-        <br />
-        <br />
-        They Match the dollars to what people spend per year! $6k/year/p ==
-        $6k/p total, velocity of m2 (bonds+cash, not debt, of differing
-        principle shown to bank "investors," beyond 1-level-board max profit
-        royalty debt-free banking and partnership stewardship Consumer
-        Relationship Management without scope creep suceptibility (timeclock
-        unlock by material and labor sprint payment), that which I have felt as
-        a home-contractor household and a contractor for scopes of requirements
-        with the statement,
+        $821/day/p principle shown to bank "investors," beyond 1-level-board max
+        profit royalty, $3k/day/p shown to consumers:
+        repo-cycle-kept-down-payment-on-option-and-expiry-by-estimate-court-backed-appraisal-laundered-by-loiterer-of-collateral-from-third-party-beneficiary-donees.
         <br />
         <br />
         “Supply chain getting better, number 1 in energy, 1 in crime, the
