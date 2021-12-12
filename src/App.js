@@ -392,10 +392,17 @@ export default class App extends React.Component {
         would you not end debt instead.
         <br />
         <br />
+        “Last thing is education of children, that’s why public schools don’t
+        work. Is a job-protection system.”
+        <br />
+        <br />
         “Yes, you can overdose on prescription drugs, but 'by-in-large' it is
         safer.” If FDA didn’t enable&nbp;
         <a href="https://teapharmacy.party">closed-source-licensure</a>, the
         animals would be saved and ingredients would be listed.
+        <br />
+        <br />
+        "If you pay everyone the same, ...[mumbles]"
         <br />
         <br />
         "Biden called trump rracist," TRUMP IS RACIST, his racism is the
