@@ -175,6 +175,13 @@ export default class App extends React.Component {
         >
           truncatedsalestax.com
         </a>
+        “To get decent housing with credit, it requires social acceptability
+        score,” Dick Morris oblivious to&nbsp;
+        <a href="https://www.investopedia.com/ask/answers/031815/why-are-there-no-profits-perfectly-competitive-market.asp">
+          economics
+        </a>
+        <br />
+        <br />
         can't claim borrowers anticipated force majeure and say you didn't.
         "Well, you'll never own your cable tv, but you will in what you borrow."
         How when $3k/day/p new debt and $120/day/p new checking
