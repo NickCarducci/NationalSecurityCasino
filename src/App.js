@@ -1280,8 +1280,31 @@ export default class App extends React.Component {
         <br />
         “‘I found out how much it is going to cost,’ ‘then I found us the
         perfect mortgage,’ ‘then I found Raydon.”
+        <br />
+        <br />
+        <h2>can't even get a pot to piss in!</h2>
+        <Cable
+          style={{
+            width: "300px",
+            height: "200px"
+          }}
+          onError={handleScollImgError}
+          src={
+            this.state.nofred
+              ? ""
+              : "https://drive.google.com/file/d/1Lz5mthHFl2_qR8TVP3JdtVzAQe3P6LGp/preview"
+          }
+          float="right"
+          title="GBNews - 'My Son Hunter' and 'the good parts of crack'"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 29]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        “If Twitter can stop an article, they can stop your movie.”
         <h2>
-          Nice, libertarians
+          <a href="https://humanharvest.info/jury-science">Nice</a>,
+          libertarians
           <br />
           White Marxists, more like Taupe
           <br />
