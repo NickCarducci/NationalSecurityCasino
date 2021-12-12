@@ -1,17 +1,29 @@
 {
-  "name": "NationalSecurityCasino",
+  "name": "national-security-casino",
   "version": "1.0.0",
   "description": "nationalsecuritycasino.com non-voters are voters",
-  "keywords": ["react", "starter"],
+  "keywords": [
+    "national security",
+    "racketeering",
+    "truncated sales tax",
+    "flat flat tax",
+    "free rider immutables",
+    "sewage police lawsuits",
+    "article 4",
+    "jury-permits"
+  ],
   "main": "src/index.js",
   "dependencies": {
     "exenv": "1.2.2",
     "prop-types": "15.7.2",
     "react": "17.0.0",
     "react-dom": "17.0.0",
+    "react-instagram-embed": "3.0.0",
     "react-instagram-post": "1.0.0",
+    "react-router-dom": "5.3.0",
     "react-scripts": "3.4.3",
     "react-svg-curve": "0.2.1",
+    "react-transition-group": "4.4.2",
     "scriptjs": "2.5.9",
     "ua-parser-js": "0.7.28"
   },
