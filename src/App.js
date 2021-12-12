@@ -175,6 +175,10 @@ export default class App extends React.Component {
         >
           truncatedsalestax.com
         </a>
+        Donors can only make free rider immutable, “possible,” granting the
+        propensity of per hour price deflation of Supply and Demand
+        <br />
+        <br />
         “To get decent housing with credit, it requires social acceptability
         score,” Dick Morris oblivious to&nbsp;
         <a href="https://www.investopedia.com/ask/answers/031815/why-are-there-no-profits-perfectly-competitive-market.asp">
@@ -273,7 +277,8 @@ export default class App extends React.Component {
         <br />
         <br />
         We do know that&nbsp;<a href="https://carducci.us/videos">Hitler</a>
-        &nbsp;spent a lot and promised to drain the swamp like Trump.
+        &nbsp;spent a lot and promised to drain{/**hobocode */} the swamp like
+        Trump.
         <br />
         <br />
         {/*We are working a lot more than when you were a kid. 6m/40m vs 6m/20m
@@ -520,7 +525,7 @@ export default class App extends React.Component {
         "If you pay everyone the same, ...[mumbles]."
         <br />
         <br />
-        "Biden called trump rracist," TRUMP IS RACIST, his racism is the
+        "Biden called trump racist," TRUMP IS RACIST, his racism is the
         secondary cause of the labor shortage, behind cohort size and financial
         dead weight (laborless-demand, lender/landlord/insurer work deficit by
         invoice, expiring claims, implausible landlord use, repo cycle kept down
