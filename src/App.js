@@ -1301,7 +1301,14 @@ export default class App extends React.Component {
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
-        “If Twitter can stop an article, they can stop your movie.”
+        “If Twitter can stop an article, they can stop your movie." To which
+        Lawrence resplies, “Oh, they really are out to get me, but I strive on,"
+        "Well you don’t claim infallibility like your critics to.”
+        <br />
+        <br />
+        omg what a right pussy, grovelling to molloch, the trade secret king,
+        claiming "plausible deniability" of knowledge as the right and top left
+        often do.
         <h2>
           <a href="https://humanharvest.info/jury-science">Nice</a>,
           libertarians
