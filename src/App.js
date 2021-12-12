@@ -62,6 +62,7 @@ export default class App extends React.Component {
     console.log(name);
     this.state = { browser: name, width: null, ios: null, lastWidth: null };
     this.gdp = React.createRef();
+    this.levin = React.createRef();
     for (let i = 0; i < 250; i++) {
       this["scrollImg" + i] = React.createRef();
     }
@@ -120,6 +121,11 @@ export default class App extends React.Component {
       if (this.props.pathname === "/") {
       } else if (this.props.pathname === "/gdp") {
         window.scroll(0, this.gdp.current.offsetTop);
+      } else if (
+        this.props.pathname === "/levin" ||
+        this.props.pathname === "/levin-blunder"
+      ) {
+        window.scroll(0, this.levin.current.offsetTop);
       }
     }
   };
@@ -173,7 +179,12 @@ export default class App extends React.Component {
         "Well, you'll never own your cable tv, but you will in what you borrow."
         How when $3k/day/p new debt and $120/day/p new checking
         currencyComponentOfM1? Target margin consumer surrogate, do not
-        nationalize you bipartisan prick
+        nationalize you bipartisan prick. “...what happens when the money they
+        put into the market is&nbsp;
+        <a href="https://nationalsecuritycasino.com/levin-blunder">
+          getting screwed up
+        </a>
+        .”
         <br />
         <br />
         "The Gold IRA doesn’t fall apart when the dollar falls apart.” Over my
@@ -695,6 +706,7 @@ export default class App extends React.Component {
         fiduciary if we lose you money."
         <br />
         <br />
+        <hr ref={this.levin} />
         "You invested in a bunch of assets and now your money is not worth
         crap," complains Mark Levin.
         <br />
@@ -3207,4 +3219,3 @@ export default class App extends React.Component {
     );
   }
 }
-
