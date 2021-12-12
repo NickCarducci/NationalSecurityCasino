@@ -373,8 +373,27 @@ export default class App extends React.Component {
         infinite producers and Pareto described: the reasoning for microeconomic
         self-regulation of markets of price and duress, by per hour.
         <br />
-        If we can get a curable good expenditure, that would be bullish for
-        market concentration by price/equality
+        "If we can get a durable good expenditure, that would be&nbsp;
+        <span style={{ textDecoration: "line-through" }}>bullish for</span>
+        &nbsp; market concentration by price/equality,"
+        <h2>
+          market-communist, court-backed price-fixed, third party beneficiary
+          Rudy
+        </h2>
+        “The only choice is to adapt for a 1/3 that we are losing, in towards
+        the way the poor cannot build as strong as rich people,” Rudy Giuliani.
+        WE?!? There is utility in price-discrepancy, even for
+        tornado-bound-homes. Don't call anyone but yourself communist. Even if
+        free rider mutable "adaption" is retarded, we are losing $3k/day/p to
+        debt and you are concerned with tornadoes!? Probably want to 'adapt'
+        with expiring claims false bid pools and more useless price-inelasticity
+        bid-to-ask for same material. You will not be gaining more durable
+        rooves, just higher bid prices for those. Why except gross corruption
+        would you not end debt instead.
+        <br />
+        <br />
+        “Biden told media to show good economic figures, so they started
+        reporting on certain gas stations,” Maria Ryan
         <br />
         <br />
         Ask-to-bid happens when supplier has demand propensity, based on
