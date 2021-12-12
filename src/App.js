@@ -277,14 +277,13 @@ export default class App extends React.Component {
         have the most rental income and the most debt.
         <br />
         <Cable
-          style={{ height: "300px" }}
           onError={handleScollImgError}
           src={
             this.state.iosNoPhoto
               ? ""
               : "https://drive.google.com/file/d/1CTgOh2SgiBImZ-hTHerOj8Vat9vM34cm/preview"
           }
-          float="left"
+          float="right"
           title="Save the Nation (Newsmax) - Star Parker on care.org and freedom-based-education, as opposed to the destruction of the family-dependency unit, like fucking plantations"
           scrolling={this.state.scrolling}
           fwd={this["scrollImg" + 27]}
@@ -424,6 +423,15 @@ export default class App extends React.Component {
         IP of design and discovery too broad, hardly in perfect equilibrium of
         infinite producers and Pareto described: the reasoning for microeconomic
         self-regulation of markets of price and duress, by per hour.
+        <br />
+        <br />
+        Dick Morris: “Functional equivalent of a declaration of war, ended up
+        failing because it didn’t have enough assets appraised by third party
+        beneficiary repo kept down payments, if you have money but cannot use it
+        in the swift system, you don’t have any money. French&nbsp;
+        <a href="https://nationalsecuritycasino.com/gdp">gdp/p</a>&nbsp;is the
+        greatest.”
+        <br />
         <br />
         "If we can get a durable good expenditure, that would be&nbsp;
         <span style={{ textDecoration: "line-through" }}>bullish for</span>
