@@ -201,7 +201,7 @@ export default class App extends React.Component {
           float="right"
           title="Saturday Agenda (Newsmax) - Rep Jeff Van Drew"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 27]}
+          fwd={this["scrollImg" + 28]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -269,7 +269,33 @@ export default class App extends React.Component {
         unemployed, if rental income is counted then there is a millennial work
         deficit, but there is lender landlord and insurer work deficit.
         <br />
-        20x/person 55+/millennials
+        20x/person 55+/millennials; half continuing claims and most disability,
+        because they&nbsp;
+        <span role="img" aria-label="cancel tan-old-man">
+          🚫👨🏽‍🦳
+        </span>
+        have the most rental income and the most debt.
+        <br />
+        <Cable
+          style={{ height: "300px" }}
+          onError={handleScollImgError}
+          src={
+            this.state.iosNoPhoto
+              ? ""
+              : "https://drive.google.com/file/d/1CTgOh2SgiBImZ-hTHerOj8Vat9vM34cm/preview"
+          }
+          float="left"
+          title="Save the Nation (Newsmax) - Star Parker on care.org and freedom-based-education, as opposed to the destruction of the family-dependency unit, like fucking plantations"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 27]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        "Socialism or communism: do you want government to choose for what you
+        to do, nanny state. Urban Renewal and Education Care.org, personal
+        responsibility, keep government out of the charity business. Freedom not
+        family-destruction education.” “Everything gov touched breaks,
+        education, healthcare, retirement systems.”
         <h2>
           if you want to be spoiled and withdrawal $3k/day/p new burdens
           laundered and loitered for court-price-fixed collateral, then why
