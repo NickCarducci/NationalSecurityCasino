@@ -464,6 +464,31 @@ export default class App extends React.Component {
         self-regulation of markets of price and duress, by per hour.
         <br />
         <br />
+        <h2>
+          in no instance is nationalism nor credit spending is productive,
+          moniopsony of intermediate labor and material on estimates, laundered
+          without third party beneficiary knowledge nor permittance
+        </h2>
+        <iframe
+          style={{
+            shapeOutside: "rect()",
+            float: "left",
+            width: "300px",
+            border: 0
+          }}
+          src="https://www.youtube.com/embed/OqgUxnqc3AM"
+          title="YouTube video player"
+        />
+        “6.8% 8.9% cpi inflation trend is not very good. I think this means we
+        do not need the spending programs with $4.9t spending with $3t debt
+        spending.” That is what spending is every year 1/4 1/4 1/4 10% debt
+        servicing free rider mutable premium pentagon pension any way. They
+        should have ended QE, and mortgage bonds, and if you do that, you have a
+        chance of ending inflation in a year, or a year and a half. I don’t want
+        1960’s they have been too loose for too long. I think woke climate
+        change people will give Powell a hard time.”
+        <br />
+        <br />
         Dick Morris: “Functional equivalent of a declaration of war, ended up
         failing because it didn’t have enough assets appraised by third party
         beneficiary repo kept down payments, if you have money but cannot use it
