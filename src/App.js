@@ -169,6 +169,22 @@ export default class App extends React.Component {
         >
           truncatedsalestax.com
         </a>
+        can't claim borrowers anticipated force majeure and say you didn't.
+        "Well, you'll never own your cable tv, but you will in what you borrow."
+        How when $3k/day/p new debt and $120/day/p new checking
+        currencyComponentOfM1? Target margin consumer surrogate, do not
+        nationalize you bipartisan prick
+        <br />
+        <br />
+        "The Gold IRA doesn’t fall apart when the dollar falls apart.” Over my
+        dead body, Dick. You are middle top and I am middle bottom. Or
+        bottom-left if you acknowledge Libertarian.
+        <br />
+        “Small business have been knocked out, worked hard 7-days a week.”
+        <br />
+        “Hold China responsible for the damage the virus has done.”
+        <br />
+        <br />
         $821/day/p principal shown to bank "investors," beyond 1-level-board max
         profit royalty, $3k/day/p shown to consumers:
         repo-cycle-kept-down-payment-on-option-general-expiry-by-estimate-court-backed-appraisal-laundered-by-loiterer-of-collateral-from-third-party-beneficiary-donees.
@@ -3191,3 +3207,4 @@ export default class App extends React.Component {
     );
   }
 }
+
