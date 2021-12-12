@@ -160,6 +160,22 @@ export default class App extends React.Component {
         >
           truncatedsalestax.com
         </a>
+        market history and propoganda: The Great Leap Forward expected 15m 35
+        age lifetime deaths.
+        <br />
+        $3k/day/p new debt private 2/3 public
+        <br />
+        <br />
+        They Match the dollars to what people spend per year! $6k/year/p ==
+        $6k/p total, velocity of m2 (bonds+cash, not debt, of differing
+        principle shown to bank "investors," beyond 1-level-board max profit
+        royalty debt-free banking and partnership stewardship Consumer
+        Relationship Management without scope creep suceptibility (timeclock
+        unlock by material and labor sprint payment), that which I have felt as
+        a home-contractor household and a contractor for scopes of requirements
+        with the statement,
+        <br />
+        <br />
         “Supply chain getting better, number 1 in energy, 1 in crime, the
         border, our standing rhetorically, internationally,” Jeff Van Drew,
         spending for more gdp isn’t productive but waste.
@@ -402,7 +418,7 @@ export default class App extends React.Component {
         animals would be saved and ingredients would be listed.
         <br />
         <br />
-        "If you pay everyone the same, ...[mumbles]"
+        "If you pay everyone the same, ...[mumbles]."
         <br />
         <br />
         "Biden called trump rracist," TRUMP IS RACIST, his racism is the
@@ -413,11 +429,24 @@ export default class App extends React.Component {
         to loiter and launder on the same goods for a higher and monopsony rate,
         co-signing their employers and customers compounding interest impossibly
         derived from the seller nor the third parties unless every debtor is
-        right, never is. just simply 1-level-board max royalty contracts)
+        right, never is. just simply 1-level-board max royalty contracts).
+        <br />
+        <br />
+        “Many people like the union because they don’t have to work very hard
+        and still get paid,” Maria Ryan.
+        <br />
+        <br />
+        “The teachers’ movement is a marxist movement. The first move is to
+        destroy the education system.” The admin of union is to destroy
+        education to ban finance?
         <br />
         <br />
         “Biden told media to show good economic figures, so they started
-        reporting on certain gas stations,” Maria Ryan
+        reporting on certain gas stations,” Maria Ryan. "We are the USA, we
+        should have the best education system in america."
+        <h2>free rider mutable trade secrets. let them work</h2>
+        "We need system to teach social things, like run a checkbook, cook,
+        clean, take care of themselves, science and math."
         <br />
         <br />
         Ask-to-bid happens when supplier has demand propensity, based on
