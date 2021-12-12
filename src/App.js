@@ -236,10 +236,10 @@ export default class App extends React.Component {
               ? ""
               : "https://drive.google.com/file/d/1v_YRN1OrNsZubTRhnDpctphgtI3gvOsb/preview"
           }
-          float="right"
+          float="left"
           title="Saturday Agenda (Newsmax) - Rep Jeff Van Drew"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 28]}
+          fwd={this["scrollImg" + 29]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -325,7 +325,7 @@ export default class App extends React.Component {
           float="right"
           title="Save the Nation (Newsmax) - Star Parker on care.org and freedom-based-education, as opposed to the destruction of the family-dependency unit, like fucking plantations"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 27]}
+          fwd={this["scrollImg" + 28]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -350,7 +350,7 @@ export default class App extends React.Component {
           float="left"
           title=""
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 26]}
+          fwd={this["scrollImg" + 27]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -487,7 +487,7 @@ export default class App extends React.Component {
           float="right"
           title={`Save the Nation (Newsmax) - Brandon Arnold, "Inflations' impact on you"`}
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 24]}
+          fwd={this["scrollImg" + 26]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -582,7 +582,7 @@ export default class App extends React.Component {
           float="right"
           title="https://fb.watch/8vc_WNxnzq/"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 24]}
+          fwd={this["scrollImg" + 25]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -772,7 +772,7 @@ export default class App extends React.Component {
           float="left"
           title="American Agenda (Newsmax) - J. Borroughs (forget his name) on the benefits of intermediate-labor inflation"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 23]}
+          fwd={this["scrollImg" + 24]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -795,7 +795,7 @@ export default class App extends React.Component {
           float="right"
           title="American Agenda (Newsmax) - Joe Tobacco on public holdings"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 22]}
+          fwd={this["scrollImg" + 23]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -836,6 +836,24 @@ export default class App extends React.Component {
         down payments is playing AS G-d. I had realized a significant majority
         of sheep had been herded by the false prophets, potentially now coming
         for appeasment/atonement in 2020-2030.
+        <br />
+        <br />
+        <Cable
+          onError={handleScollImgError}
+          src={
+            this.state.iosNoPhoto
+              ? ""
+              : "https://drive.google.com/file/d/1p4Z-TTH_FgSrZucTUuhFXcRZ7w60--MD/preview"
+          }
+          float="right"
+          title="GBNews - Thomas Jefferson statue"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 22]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        “Oxford belongs to its residents’” actually it belongs to the dollar
+        owners
         <br />
         <br />
         Statute of limitations as cause for acquittal is admittance of
