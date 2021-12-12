@@ -165,6 +165,18 @@ export default class App extends React.Component {
         repo-cycle-kept-down-payment-on-option-general-expiry-by-estimate-court-backed-appraisal-laundered-by-loiterer-of-collateral-from-third-party-beneficiary-donees.
         <br />
         <br />
+        40x debt/checking, 25x new debt/new cash, 11x gdp/down, or velocity of
+        m2 minus gdp divided by m2 minus CurrencyComponentOfM1 times
+        CurrencyComponentOfM1
+        <br />
+        <br />
+        The prosecutor vs the public defender should have no bounds to racketeer
+        without state victimization, just dealing in truncated sales tax, p2p
+        tort without financial false bid pools duress and jailing. "Do not
+        follow the law, break the law." every law you follow can break other
+        laws, and slip & fall trial attorneys grovel and engorge themselves
+        <br />
+        <br />
         “Supply chain getting better, number 1 in energy, 1 in crime, the
         border, our standing rhetorically, internationally,” Jeff Van Drew,
         spending for more gdp isn’t productive but waste.
