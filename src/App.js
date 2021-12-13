@@ -340,6 +340,24 @@ export default class App extends React.Component {
           don't we help you and put you on the front lines.
         </h2>
         <Cable
+          onError={handleScollImgError}
+          src={
+            this.state.nofred
+              ? ""
+              : "https://drive.google.com/file/d/1G-2ymMN8QKTD5KwlHU94apmZH-On50yx/preview"
+          }
+          float="right"
+          title=""
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 31]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        “No behavioral threat analysis was done,” on character
+        <br />
+        Bachmann, “Cry for help, want attention.”
+        <br />
+        <Cable
           style={{ height: "300px" }}
           onError={handleScollImgError}
           src={
@@ -370,7 +388,7 @@ export default class App extends React.Component {
           🤣
         </span>
         <h2>
-          <a href="https://vaults.biz">Marijana</a>&nbsp;is a gateway currency
+          <a href="https://vaults.biz">Marijuana</a>&nbsp;is a gateway currency
           <br />
           <span style={{ fontSize: "9px" }}>
             (bank depositary, concurrentable, like perfectly-durable and
@@ -391,7 +409,9 @@ export default class App extends React.Component {
         <a href="https://teapharmacy.party/drugs">SKYROCKET</a>. "Supervision of
         medical professionals who use marijuana to not have anxiety,” is
         self-reported, character-“witness” not evidence of a crime or prevalence
-        test. Hanging around the residential neighborhoods and pharmacies
+        test. Hanging around the residential neighborhoods and pharmacies. jail
+        or no evidence: come back when something real, not
+        closed-source-licensure. no bail
         <h2>
           Socialists don’t nationalize bridge tolls.
           <br />
@@ -548,6 +568,28 @@ export default class App extends React.Component {
         <br />
         <br />
         "If you pay everyone the same, ...[mumbles]."
+        <br />
+        <br />
+        <Cable
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
+              : "https://drive.google.com/file/d/1XQpvhJvh2xpajuaBaiDZs1bUwkxsdlMn/preview"
+          }
+          float="left"
+          title="John Bachmann (Newsmax) - Brandon Judd National Border Patrol Council, 'Desantis fights to protect FL from Biden's border crisis'"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 30]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        “We don’t need manpower nor technology, we need policy to control the
+        border, secure, and go after criminal business. Without proper policy,
+        this is going to continue. We know what needs to be done to solve the
+        problem and we know what to do to do that, close border policies.” I
+        don’t see any crime in immigration.
         <br />
         <br />
         "Biden called trump racist," TRUMP IS RACIST, his racism is the
