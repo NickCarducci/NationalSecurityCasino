@@ -175,6 +175,10 @@ export default class App extends React.Component {
         >
           truncatedsalestax.com
         </a>
+        “If you aren’t in a place you aren’t able to vote, you aren’t going to
+        get the money, get the federal money.” NY Republicans
+        <br />
+        <br />
         Donors can only make free rider immutable, “possible,” granting the
         propensity of per hour price deflation of Supply and Demand
         <br />
