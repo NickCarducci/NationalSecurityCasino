@@ -202,7 +202,8 @@ export default class App extends React.Component {
         <br />
         <br />
         “Biden is trying to get this elephant social spending through.” Eric
-        Bolling
+        Bolling. Jayapaul, "CBO numbers are fictional." Waht do you expect with
+        estimated material, intermediate-labor and a wide-eyed Amtrak guy?
         <br />
         <br />
         “Underwater on polling,” likely means relative. to me that is most
@@ -345,6 +346,17 @@ export default class App extends React.Component {
         We do know that&nbsp;<a href="https://carducci.us/videos">Hitler</a>
         &nbsp;spent a lot and promised to drain{/**hobocode */} the swamp like
         Trump.
+        <br />
+        <br />
+        MIC production of arms section of the country, “itching for a fight,”
+        The way as it is presented in Russian or U.S. media can get people
+        saying, ‘O.K. let’s go.’ ...Most of us could ever possibly recall Putin
+        says, 'when a fight is inevitable, strike first.'" Vladimir Posner with
+        Frank Morano (77WABC)
+        <br />
+        What to gain involving Ukraine in NATO rather than Russia?
+        <br />
+        Let’s have a worldwide treaty, pro bono
         <br />
         <br />
         {/*We are working a lot more than when you were a kid. 6m/40m vs 6m/20m
