@@ -543,7 +543,15 @@ export default class App extends React.Component {
         <a href="https://nationalsecuritycasino.com/gdp">nearly constant</a>
         <h2>
           market-communist, court-backed price-fixed, third party beneficiary
-          Rudy
+          Rudy “Same conclusion I have, doesn’t have all his marbles, because
+          <br />
+          <span style={{ fontSize: "9px" }}>
+            just listening to him, getting Afghanistan refugees killed. ...165m
+            people think he has dimensia. ...Putin owns him. ...sharp intellect,
+            killer, may be a killer, head of KGB. ...Then get a kid who turns
+            out to be sa drug addict head of a big big bank, never showed up,
+            MSBC whatever the name of the bank, just lobbied for the bank."
+          </span>
         </h2>
         “The only choice is to adapt for a 1/3 that we are losing, in towards
         the way the poor cannot build as strong as rich people,” Rudy Giuliani.
