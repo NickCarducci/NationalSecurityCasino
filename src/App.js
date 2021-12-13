@@ -175,8 +175,43 @@ export default class App extends React.Component {
         >
           truncatedsalestax.com
         </a>
+        <Cable
+          style={{
+            height: "280px"
+          }}
+          onError={handleScollImgError}
+          src={
+            this.state.iosNoPhoto
+              ? ""
+              : "https://drive.google.com/file/d/13UsXvY6y0efRnzdMQp-mnIPE_4TaH-XK/preview"
+          }
+          float="left"
+          title="Eric Bolling (The Balance,Newsmax) - CBO with Psaki-Graham analysis deflection"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 30]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        “Biden is trying to get this elephant social spending through.” Eric
+        Bolling
+        <br />
+        <br />
+        “Underwater on polling,” likely means relative. to me that is most
+        appropriately described as net.
+        <br />
+        “‘CBO bill scored that is not being debated.’ “Non-partisan CBO, $1t
+        whatever, $3t dollars,” I heard that is the deficit amount, $4.9t total,
+        like free rider mutable tax is free? $4t/yr 2010-3/2020 normal 40% debt
+        spending 60% 1/4 1/4 1/4 premium pentagon pension 10% debt service &
+        finally immigrants flown in on state enclaves to liberal retreats.
+        <br />
+        <br />
         “If you aren’t in a place you aren’t able to vote, you aren’t going to
         get the money, get the federal money.” NY Republicans
+        <br />
+        <br />
+        Can't win without non-voter unless ignore default, "no" lest
+        holdings-triggered-abstain.
         <br />
         <br />
         Donors can only make free rider immutable, “possible,” granting the
