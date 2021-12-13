@@ -193,7 +193,7 @@ export default class App extends React.Component {
           style={{ width: "100%", height: "400px", maxHeight: "50vw" }}
           onError={handleScollImgError}
           src={
-            this.state.iosNoPhoto
+            this.state.nofred
               ? ""
               : "https://drive.google.com/file/d/1IIQt0kE6c5EgDnJOfJkImP4zrPst2E8v/preview"
           }
