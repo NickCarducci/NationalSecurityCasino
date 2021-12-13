@@ -175,6 +175,34 @@ export default class App extends React.Component {
         >
           truncatedsalestax.com
         </a>
+        I was failed not because I didn't have the right answers, but because I
+        didn't attend once I learned they counted gdp==prices*hours as
+        productive
+        <br />
+        <br />
+        "Make sure resources spend on education gets to the classroom." Michael
+        Goodwin why front-run for useless price inelasticity of bid-to-ask?
+        <br />
+        <br />
+        <Cable
+          onError={handleScollImgError}
+          src={
+            this.state.iosNoPhoto
+              ? ""
+              : "https://drive.google.com/file/d/1IIQt0kE6c5EgDnJOfJkImP4zrPst2E8v/preview"
+          }
+          float="right"
+          title="Chris Salcedo (Newsmax) - playing dumb on financialized medicine"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 32]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        "$300k for full covid program," from public private expiring claim non
+        rollover false bid pools, I get locked up in nj RiverviewMedCtr for 13
+        days, $26k. “$3.5k for ventilation.”
+        <br />
+        <br />
         <Cable
           style={{
             height: "300px"
