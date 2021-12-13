@@ -425,8 +425,8 @@ export default class App extends React.Component {
           </span>
         </h2>
         I hate banks because they are collective flaccid loss when fractional
-        reserve in share split or contract loitered and laundered third party
-        beneficiary donee claimable.
+        reserve (by estimate or expiry) in share split or contract loitered and
+        laundered third party beneficiary donee claimable.
         <br />
         <br />
         amortize principal, I don't care about your delusional monthly,
