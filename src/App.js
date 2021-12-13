@@ -560,6 +560,10 @@ export default class App extends React.Component {
             destroy your enemy before they get to strong and too big, isnt that
             a lesson from history?
           </span>
+          <br />
+          "It is one thing for Dr. Fauci to say, 'covid is not&nsp;
+          <a href="https://humanharvest.info/polio">going away</a>,'' but
+          another for business leaders to."
         </h2>
         “The only choice is to adapt for a 1/3 that we are losing, in towards
         the way the poor cannot build as strong as rich people,” Rudy Giuliani.
@@ -3362,4 +3366,3 @@ export default class App extends React.Component {
     );
   }
 }
-
