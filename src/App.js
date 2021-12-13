@@ -437,7 +437,7 @@ export default class App extends React.Component {
           float="right"
           title="Save the Nation (Newsmax) - Star Parker on care.org and freedom-based-education, as opposed to the destruction of the family-dependency unit, like fucking plantations"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 28]}
+          fwd={this["scrollImg" + 29]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -480,7 +480,7 @@ export default class App extends React.Component {
           float="left"
           title=""
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 27]}
+          fwd={this["scrollImg" + 28]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -512,6 +512,30 @@ export default class App extends React.Component {
             wall st pharma cops script monopsony
           </span>
         </h2>
+        “Businesses that fail to comply risk being shut down,” certainly need
+        multiple of 11/12 industry various jury-science for duress weighing
+        minimal viable product to be in realm of tranquil and voluntary trade.
+        <br />
+        <br />
+        <Cable
+          style={{ height: "440px" }}
+          onError={handleScollImgError}
+          src={
+            this.state.nofred
+              ? ""
+              : "https://drive.google.com/file/d/1n082DwyfPBGpXo5yGhpw1ZvzpAbyf121/preview"
+          }
+          float="right"
+          title=""
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 27]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        State victimization is not free rider immutable but trust building for
+        debt service lender work deficit, absolutely retarded.
+        <br />
+        <br />
         "Marijuana is gateway heart disease,” instead of random sampling
         prevalence, use event/population as to not have to emulate random “I
         have no problem with medical marijuana, as long as it is moderated by a
@@ -713,7 +737,7 @@ export default class App extends React.Component {
           float="left"
           title="John Bachmann (Newsmax) - Brandon Judd National Border Patrol Council, 'Desantis fights to protect FL from Biden's border crisis'"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 30]}
+          fwd={this["scrollImg" + 33]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
