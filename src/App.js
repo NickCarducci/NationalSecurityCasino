@@ -177,7 +177,7 @@ export default class App extends React.Component {
         </a>
         <Cable
           style={{
-            height: "280px"
+            height: "300px"
           }}
           onError={handleScollImgError}
           src={
@@ -188,7 +188,7 @@ export default class App extends React.Component {
           float="left"
           title="Eric Bolling (The Balance,Newsmax) - CBO with Psaki-Graham analysis deflection"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 30]}
+          fwd={this["scrollImg" + 31]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -212,6 +212,24 @@ export default class App extends React.Component {
         <br />
         Can't win without non-voter unless ignore default, "no" lest
         holdings-triggered-abstain.
+        <br />
+        <br />
+        <Cable
+          onError={handleScollImgError}
+          src={
+            this.state.iosNoPhoto
+              ? ""
+              : "https://drive.google.com/file/d/1UvvjhC5XQdznl7dIMW0vIqjgEvO0bN8d/preview"
+          }
+          float="right"
+          title="Eric Bolling (The Balance,Newsmax) - Mark Halperin"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 30]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        “Underwater on polling,” likely means relative. Senate incumbents don’t
+        lose very often. Elected every 2 years and 6 years.
         <br />
         <br />
         Donors can only make free rider immutable, “possible,” granting the
