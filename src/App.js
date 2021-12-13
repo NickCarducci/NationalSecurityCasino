@@ -192,6 +192,15 @@ export default class App extends React.Component {
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
+        Rental income v work income, cohort size average rating per year vs
+        doubling a proportion diminishing capacity.
+        <br />
+        Each person less propensity to turnout for busy-work, natural working
+        age and hours are smaller than this, where technical advancement has
+        shown to be GOING BACKWARDS. Not surprising after you find GDP targets
+        the opposite of price-deflation per hour productivity.
+        <br />
+        <br />
         “Biden is trying to get this elephant social spending through.” Eric
         Bolling
         <br />
@@ -612,15 +621,15 @@ export default class App extends React.Component {
             to use troops, I am not against never using troops, but you leave it
             open, et him think about it a little. I don't know if that is your
             decision because you are the dumbest in your lawschool class, or you
-            are surrounded by lefties, Russia and China. His pal Xi with no
+            are surrounded by lefties, Russia and China. ...His pal Xi with no
             treaty obligation to do stop designs on Taiwan. Not a bad idea to
             destroy your enemy before they get to strong and too big, isnt that
             a lesson from history?
           </span>
           <br />
           "It is one thing for Dr. Fauci to say, 'covid is not&nsp;
-          <a href="https://humanharvest.info/polio">going away</a>,'' but
-          another for business leaders to."
+          <a href="https://humanharvest.info/polio">going away</a>,' but another
+          for business leaders to."
         </h2>
         “The only choice is to adapt for a 1/3 that we are losing, in towards
         the way the poor cannot build as strong as rich people,” Rudy Giuliani.
