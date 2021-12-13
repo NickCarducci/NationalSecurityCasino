@@ -550,7 +550,15 @@ export default class App extends React.Component {
             people think he has dimensia. ...Putin owns him. ...sharp intellect,
             killer, may be a killer, head of KGB. ...Then get a kid who turns
             out to be sa drug addict head of a big big bank, never showed up,
-            MSBC whatever the name of the bank, just lobbied for the bank."
+            MSBC whatever the name of the bank, just lobbied for the bank.
+            ...Guy who is known to be sort of a pussy. ...We are not ever going
+            to use troops, I am not against never using troops, but you leave it
+            open, et him think about it a little. I don't know if that is your
+            decision because you are the dumbest in your lawschool class, or you
+            are surrounded by lefties, Russia and China. His pal Xi with no
+            treaty obligation to do stop designs on Taiwan. Not a bad idea to
+            destroy your enemy before they get to strong and too big, isnt that
+            a lesson from history?
           </span>
         </h2>
         “The only choice is to adapt for a 1/3 that we are losing, in towards
@@ -3354,3 +3362,4 @@ export default class App extends React.Component {
     );
   }
 }
+
