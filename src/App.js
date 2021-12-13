@@ -177,9 +177,14 @@ export default class App extends React.Component {
         </a>
         I was failed not because I didn't have the right answers, but because I
         didn't attend once I learned they counted gdp==prices*hours as
-        productive
-        <br />
-        <br />
+        productive. I became a policial science major with an economics minor
+        not because I wanted to pursue policy changes thru my micro-economic
+        lens, but because.
+        <h2>
+          Macroeconomics is bullshit, insurance is net loss force majeure
+          implausible deniability, laundering and loitering collateral,
+          estimated or expiring scopes of material & labor.
+        </h2>
         "Make sure resources spend on education gets to the classroom." Michael
         Goodwin why front-run for useless price inelasticity of bid-to-ask?
         <br />
