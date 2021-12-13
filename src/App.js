@@ -1481,6 +1481,18 @@ export default class App extends React.Component {
         claiming "plausible deniability" of knowledge as the right and top left
         often do.
         <h2>
+          Amanda Devine:&nbsp;
+          <span style={{ textDecoration: "underline" }}>
+            Laptop(s) from Hell
+          </span>
+        </h2>
+        “Grips of powerful addiction, wouldn’t wish that upon your worst enemy.
+        Wouldn't show up to nor pay for meetings, alimony nor bills on time,
+        that which ost of us have to go thru, but he loved to go on benders. He
+        spoke of a, 'drug trial,' ...ordered Dom Perigone on his tab, kept
+        having to go to Apple store to buy new supplies, not a surprise he,
+        ‘lost,’ 3 laptops.” Damn, why don't you just marry him
+        <h2>
           <a href="https://humanharvest.info/jury-science">Nice</a>,
           libertarians
           <br />
