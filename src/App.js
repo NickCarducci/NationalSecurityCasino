@@ -181,8 +181,13 @@ export default class App extends React.Component {
         >
           truncatedsalestax.com
         </a>
-        I was failed not because I didn't have the right answers, but because I
-        didn't attend once I learned they counted gdp==prices*hours as
+        “International bank robbery. I can make one! I don’t know if they have
+        them in america.”
+        <br />
+        Third party beneficiary donees here to collect
+        <br />
+        <br />I was failed not because I didn't have the right answers, but
+        because I didn't attend once I learned they counted gdp==prices*hours as
         productive. I became a policial science major with an economics minor
         not because I wanted to pursue policy changes thru my micro-economic
         lens, but because.
