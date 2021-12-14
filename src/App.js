@@ -60,7 +60,13 @@ export default class App extends React.Component {
     var parser = new UAParser();
     const name = parser.getBrowser().name;
     console.log(name);
-    this.state = { browser: name, width: null, ios: null, lastWidth: null };
+    this.state = {
+      browser: name,
+      ios: name.includes("Safari"),
+      iosnoPhoto: name.includes("Safari"),
+      width: null,
+      lastWidth: null
+    };
     this.gdp = React.createRef();
     this.levin = React.createRef();
     for (let i = 0; i < 250; i++) {
