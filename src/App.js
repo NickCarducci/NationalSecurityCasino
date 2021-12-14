@@ -181,6 +181,32 @@ export default class App extends React.Component {
         >
           truncatedsalestax.com
         </a>
+        whistleblower-/open-source-plants remain on one beat, stay-at-home moms
+        and educators are on the bonded dole
+        <br />
+        <br />
+        <Cable
+          onError={handleScollImgError}
+          src={
+            this.state.nofred
+              ? ""
+              : "https://drive.google.com/file/d/1kDdViDnAN70aHXezn3vtLlytBYkLRrpY/preview"
+          }
+          float="right"
+          title="Spicer & co (Newsmax) - OH Skinner former Arizona Solicitor General"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 33]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        collateralized debts, the gov services; uncollateralized, they bailout
+        <br />
+        <br />
+        Public donations back to people 90% spending back on free rider mutable
+        tax and 60% debt spending, 1/4 1/4 1/4 premium pentagon pensions 10%
+        debt service
+        <br />
+        <br />
         “Tax credit became $28m $421m industry,” Deminski & Doyle.
         <br />
         Could be busy-work (per hour price inflation)!
