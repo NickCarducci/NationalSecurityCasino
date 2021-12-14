@@ -42,11 +42,11 @@ export default class TwitterTweetEmbed extends Component {
     }
     if (!this.tw.current) {
       console.error(
-        "Failure to load window.twttr in TwitterTweetEmbed, aborting load."
+        "Failure to load this.tw in TwitterTweetEmbed, aborting load."
       );
       return;
     }
-    if (!this.isMountCanceled && this.props.tweetId) {
+    if (!this.isMountCanceled && this.props.tweetId && this.tw.current) {
       window.twttr.widgets
         .createTweet(this.props.tweetId, this.tw.current, this.props.options)
         .then((element) => {
