@@ -181,6 +181,10 @@ export default class App extends React.Component {
         >
           truncatedsalestax.com
         </a>
+        “Tax credit became $28m $421m industry,” Deminski & Doyle.
+        <br />
+        Could be busy-work (per hour price inflation)!
+        <br />
         New $12k/year/p debt $3k/year/p bond $64/year/p, “poor woman was
         probably in a state of shock. Too profitable, there is reason for it,
         but…” would you allow repo-cycle kept down payments loitered and
