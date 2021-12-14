@@ -186,6 +186,15 @@ export default class App extends React.Component {
         <br />
         Third party beneficiary donees here to collect
         <br />
+        <br />
+        “Public defender of the worst kind, who just wants to let everyone out
+        of jail.”
+        <br />
+        80% of jailed are net loss bond profit but competing with your closed
+        source licensure, slip & fall attorney racket countervailing law, and
+        wall st pharma cops. $12k/year/p $3k/year/p m2 bond $64/year/p force
+        majeure implausible deniability
+        <br />
         <br />I was failed not because I didn't have the right answers, but
         because I didn't attend once I learned they counted gdp==prices*hours as
         productive. I became a policial science major with an economics minor
