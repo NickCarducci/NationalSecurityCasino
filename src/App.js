@@ -63,7 +63,7 @@ export default class App extends React.Component {
     this.state = {
       browser: name,
       ios: name.includes("Safari"),
-      iosnoPhoto: name.includes("Safari"),
+      iosNoPhoto: name.includes("Safari"),
       width: null,
       lastWidth: null
     };
