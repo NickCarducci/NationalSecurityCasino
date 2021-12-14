@@ -204,7 +204,7 @@ export default class App extends React.Component {
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
-        "$300k for full covid program," from public private expiring claim non
+        "$3k for full covid program," from public private expiring claim non
         rollover false bid pools, I get locked up in nj RiverviewMedCtr for 13
         days, $26k. “$3.5k for ventilation.”
         <br />
@@ -289,7 +289,7 @@ export default class App extends React.Component {
         <br />
         can't claim borrowers anticipated force majeure and say you didn't.
         "Well, you'll never own your cable tv, but you will in what you borrow."
-        How when $3k/day/p new debt and $120/day/p new checking
+        How when $32/day/p new debt and $.18/day/p new checking
         currencyComponentOfM1? Target margin consumer surrogate, do not
         nationalize you bipartisan prick. “...what happens when the money they
         put into the market is&nbsp;
@@ -308,8 +308,8 @@ export default class App extends React.Component {
         “Hold China responsible for the damage the virus has done.”
         <br />
         <br />
-        $821/day/p principal shown to bank "investors," beyond 1-level-board max
-        profit royalty, $3k/day/p shown to consumers:
+        $8/day/p principal shown to bank "investors," beyond 1-level-board max
+        profit royalty, $32/day/p shown to consumers:
         repo-cycle-kept-down-payment-on-option-general-expiry-by-estimate-court-backed-appraisal-laundered-by-loiterer-of-collateral-from-third-party-beneficiary-donees.
         <br />
         <br />
@@ -407,7 +407,7 @@ export default class App extends React.Component {
         <br />
         <br />*/}
         "These people can take care of themselves, struggling to get by, because
-        they smoke marijuana, albeit $3k/day/p new debt public 2/3 private, and
+        they smoke marijuana, albeit $32/day/p new debt public 2/3 private, and
         6m/40m unemployed now, 6m/20m 1970, 20x/millennial rental-income, most
         of disability and half continuing claims, 5 years to double hours per
         home, that is 10x hours per home since 1970 and half that rate at
@@ -447,7 +447,7 @@ export default class App extends React.Component {
         family-destruction education.” “Everything gov touched breaks,
         education, healthcare, retirement systems.”
         <h2>
-          if you want to be spoiled and withdrawal $3k/day/p new burdens
+          if you want to be spoiled and withdrawal $32/day/p new burdens
           laundered and loitered for court-price-fixed collateral, then why
           don't we help you and put you on the front lines.
         </h2>
@@ -705,7 +705,7 @@ export default class App extends React.Component {
         the way the poor cannot build as strong as rich people,” Rudy Giuliani.
         WE?!? There is utility in price-discrepancy, even for
         tornado-bound-homes. Don't call anyone but yourself communist. Even if
-        free rider mutable "adaption" is retarded, we are losing $3k/day/p to
+        free rider mutable "adaption" is retarded, we are losing $32/day/p to
         debt and you are concerned with tornadoes!? Probably want to 'adapt'
         with expiring claims false bid pools and more useless price-inelasticity
         bid-to-ask for same material. You will not be gaining more durable
@@ -842,7 +842,7 @@ export default class App extends React.Component {
         credit of the U.S. up to the beholdence to those owed the debt, nothing
         to do with printing money.”
         <h2>
-          But $3k/day/person is 2/3 private and velocity of m2 minus gdp divided
+          But $32/day/person is 2/3 private and velocity of m2 minus gdp divided
           by m2 minus CurrencyComponentOfM1 is 1.1/year, that is checking.
         </h2>
         Fiduciary Ryan Payne: "Bond buying by the Fed," is NOT ONLY third party
@@ -903,7 +903,7 @@ export default class App extends React.Component {
         self-immutable, yet mitigatable, failure?
         <h2>
           Your tax money 60% free rider mutable 1/4 1/4 1/4 premium pentagon
-          pension 40% debt spending 1/3 of $3k/day/p in total debt, that’s third
+          pension 40% debt spending 1/3 of $32/day/p in total debt, that’s third
           party beneficiary donee claimable, and I’m here to collect.
         </h2>
         Right-winger in Yahoo Finance complains about inflation and lower asset
@@ -932,7 +932,7 @@ export default class App extends React.Component {
         third party beneficiary donee claimable.
         <br />
         <br />
-        $3k/day/p is not free, gov is 1/3 of the burden on what your collective
+        $32/day/p is not free, gov is 1/3 of the burden on what your collective
         corporate flaccid loss buys in intermediate r&d material and labor
         monopsony. My household home contractor company just lost to nj consumer
         protection law as option to buy on estimate. We can’t
@@ -1153,7 +1153,7 @@ export default class App extends React.Component {
         repo-cycle.
         <h2>
           <span style={{ fontSize: "9px" }}>
-            why not count private debt, hypocrites? $3k/day/p new debt public
+            why not count private debt, hypocrites? $32/day/p new debt public
             and private, repo cycle kept down payments borrowers loitering third
             party beneficiary donee claimable. Only way out cash:debt*income
             thru history.
@@ -1170,10 +1170,10 @@ export default class App extends React.Component {
             collective bargain asap before, flaccid loss.
           </span>
         </h2>
-        40% debt spend isn't tax payer money. $120/day/p new cash (park deeds
+        40% debt spend isn't tax payer money. $.18/day/p new cash (park deeds
         share split), free rider mutable tax is also pure inflation,
         rent-seekable-gentrification and intermediate material & labor
-        monopsony, $3k/day/p public and private new debt, $821/day/p M2...
+        monopsony, $32/day/p public and private new debt, $8/day/p M2...
         expiring claims false bid pools is also theft (third party beneficiary
         donee claimable)
         <br />
@@ -1240,7 +1240,7 @@ export default class App extends React.Component {
         />
         Treasury shares not with standing outstanding in price to equity, except
         in court. Assets aren't price fixed but the bonds & assets as collateral
-        loitering by borrowers public & private $3k/day/p
+        loitering by borrowers public & private $32/day/p
         <br />
         <br />
         "...See those employment numbers? The best in years," Jim cramer, if
@@ -1317,7 +1317,7 @@ export default class App extends React.Component {
           forever. Supply and Demand is supposed to be exclusively labor, not
           outlays withheld for collective corporate flaccid loss.
         </h2>
-        workfare: from $3k/day/p from private banking fractional reserve
+        workfare: from $32/day/p from private banking fractional reserve
         lending, then force people to work?
         <br />
         <br />
@@ -1437,9 +1437,15 @@ export default class App extends React.Component {
         education
         <br />
         <br />
-        $1.1m/yr+, $3k/day+, $200k total debt per person. $300k/yr+, $821/day+,
-        $60k total m2 per person. $60k/yr+, $120/day+, $6k total checking
-        CurrencyComponentOfM1 per person
+        $12k/year/p debt, $3k/year/p bond m2, $64/year/p checking
+        currencyComponentOfM1
+        <br />
+        $32/day/p debt, $8/day/p bonds, $.18/day/p checking
+        CurrencyComponentOfM1;
+        <br />
+        $6k/yr/p and $6k/p total; $12k/yr+, $32/day+, $200k total debt per
+        person. $3k/yr+, $8/day+, $60k total m2 per person. $64/yr+, $.18/day+,
+        $6k total checking CurrencyComponentOfM1 per person
         <br />
         “Invest in kids,” let them have work, don’t monopsonize and trade secret
         education
@@ -1449,7 +1455,7 @@ export default class App extends React.Component {
         <br />
         people don't want to work today because there isn't enough people, not
         that people don't want to work, though why would you work against
-        $3k/day debt? that's retarded
+        $32/day debt? that's retarded
         <h2>ccc bbb ppp trust-building parent contractor existing-biz</h2>
         60%&nbsp;
         <span style={{ backgroundColor: "black", color: "white" }}>
@@ -1471,13 +1477,13 @@ export default class App extends React.Component {
           Looking at debt valued thru m2's withdrawalable value, accrued by
           laundered third party beneficiary donee claimable
         </h2>
-        $1/3k/3000(
+        $1/32/3000(
         <a href="https://vaults.biz">
           compound laundered and loitered goods, materials and labor estimates
           price-fixed by U.S. government
         </a>
-        )/day (or $1k/300k/1.1m/year) pulled out for social security, half
-        disabled and continuing claims, 20x/person rental-income.
+        )/day (or $1k/3k/12k/year) pulled out for social security, half disabled
+        and continuing claims, 20x/person rental-income.
         <br />
         <Cable
           style={{
@@ -2209,8 +2215,8 @@ export default class App extends React.Component {
         <br />
         <br />
         Here I capture the accusations away from mentally-crazy or sick, but
-        “unhealthy,” understanding $300k/year/person new debt is created by
-        people with high cash flow and burn, as opposed to me, an
+        “unhealthy,” understanding $3k/year/person new debt is created by people
+        with high cash flow and burn, as opposed to me, an
         open-source-contributor&nbsp;&bull;&nbsp;40% debt spending and free
         rider mutable tax for no less than monopsonyand the same &nbsp;
         <a href="https://micro-theory.com">intermediate-goods</a>
@@ -2382,7 +2388,7 @@ export default class App extends React.Component {
           foreign owned debt "investing" of taxable-free-rider-immutable instead
           of timelesspaydayroyalty by industry-type not general-income
           <br />
-          That's $3k/day per person,&nbsp;
+          That's $32/day per person,&nbsp;
           <a href="https://wavv.art/forumCUiXE5xjbwE6WfLqf58K">
             $1/day* for Afghanistan alone *Markey
           </a>
@@ -2591,7 +2597,7 @@ export default class App extends React.Component {
                 textAlign: "center"
               }}
             >
-              #Degrowth is suplanting #M2Laundering of $3k/day per person that
+              #Degrowth is suplanting #M2Laundering of $32/day per person that
               with would take 44 years of somehow paying current income on debt,
               with #MaxProfitRoyalty #FreeRiderMutables without
               #BipartisanMonopsony #GovernmentGentrification but
