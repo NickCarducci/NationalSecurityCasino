@@ -184,12 +184,57 @@ export default class App extends React.Component {
         >
           truncatedsalestax.com
         </a>
+        Work deficit when you target inflation without wages, assets, homes, nor
+        bonds, just labor.
+        <br />
+        Brian Kilmeade: “What gives you jobs, is profit,” no that is just
+        withheld outlays.
+        <br />
+        <br />
         whistleblower-/open-source-plants remain on one beat, stay-at-home moms
         and educators are on the bonded dole
         <br />
         <br />
         Free rider mutable expiring claims. Economists favor hours as
         productive, microeconomists who fail at finance become politicians.
+        <br />
+        <br />
+        I have an answer for Alex Berenson
+        <br />
+        disparity between "non-political"
+        <br />
+        testing in Israel because they have an
+        <br />
+        all-inclusive regime for the non-exclusive byproduct debris of
+        bacterial-infection that is virions,
+        <br />
+        because prevalence does not cause, make, but non-exclusive or
+        all-inclusive byproduct and warning mechanism, as well.
+        <br />
+        Do you honestly believe it is an evolutionary trait or do you think the
+        first taxonomy wise, just works haha or just appeared.
+        <br />
+        I'm an expert in statistics, market history and propogana.
+        <br />
+        <br />
+        It’s simple, if you don’t have the evidence you have to acquit. If it
+        registered by the officer anyway. You can have a retroactive review.
+        <br />
+        Non-voter anti rent seeker can split both parties, so truncated sales
+        tax 2025 against Menendez after amortizing principal of debt serviced
+        collateralized debt and bailed out uncollateralized debt.
+        <br />
+        Majority simply in guber, let alone plurally majority everywhere,
+        especially if including ideologically duressed right and top left. Third
+        party beneficiary donee is claimable and force majeure implausible
+        deniability of impossibility $12k/year/p debt $3k/year/p bond $64/year/p
+        new. They are showing borrowers and bond “investors” 4x principal. Feels
+        like money laundering what the co-signer-consumer, of the loitering
+        borrower, pays for expiring and estimates material & labor. Krugman
+        agrees, finance is a net loss, and he is a macroeconomist, they have
+        prices and hours upside down if tech advancement price-deflation in a
+        time-series regression analysis by policy is achievable. We are going
+        backwards, 10x hours per home since 1970
         <br />
         <br />
         Listen to statisticians nor saveface scientists who cannot imagine null
