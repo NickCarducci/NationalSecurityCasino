@@ -868,7 +868,9 @@ export default class App extends React.Component {
         <br />
         <br />
         "Republicans voice of reason and decency on this committee," Amanda
-        Devine
+        Devine. "Not tested, not vaccinated, not even tested, and foreigners
+        have better rights and now New Yorkers are allowing them to vote! 6m
+        'illegal'"
         <br />
         <br />
         “Many people like the union because they don’t have to work very hard
