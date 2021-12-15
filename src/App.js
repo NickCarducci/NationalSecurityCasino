@@ -191,14 +191,6 @@ export default class App extends React.Component {
         building, bbb nationalize broadband fee contractor trust building
         <br />
         <br />
-        “Humility and strength that I think is needed, ...Take the temperature
-        down, have everyone not important take a step back so my pussy can take
-        control." JORDAN PETERSON WAS RIGHT. Anti gun unit that kick down doors
-        takes the guns out of the hands of the people that shouldn’t have them
-        look at her options to keep people safe, residents of New York to keep
-        people safe, and they are telling me they do not feel safe.
-        <br />
-        <br />
         “32-47 month recession after a quarter rate hike, they want a 50000 Dow
         Jones so everyone feels good. Inflation is a tax on the poor. You are in
         deep doodie." no recognition of underlying structural problems, all
@@ -220,11 +212,12 @@ export default class App extends React.Component {
         <a href="https://nationalsecuritycasino.com/repeat-offenders">
           missing children
         </a>
-        . Anti gun unit that kick down doors takes the guns out of the hands of
-        the people that shouldn’t have them look at her options to keep people
-        safe, residents of New York to keep people safe, and they are telling me
-        they do not feel safe. The root cause of violent criminals is locking up
-        violent criminals.”
+        . “Humility and strength that I think is needed, ...Take the temperature
+        down, have everyone not important take a step back so my pussy can take
+        control." JORDAN PETERSON WAS RIGHT. "Anti gun unit that kick down doors
+        takes the guns out of the hands of the people that shouldn’t have them
+        look at her options to keep people safe, residents of New York to keep
+        people safe, and they are telling me they do not feel safe."
         <br />
         <br />
         <Cable
