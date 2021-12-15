@@ -189,8 +189,18 @@ export default class App extends React.Component {
         </a>
         "child life services." ccc parent trust building, ppp existing biz trust
         building, bbb nationalize broadband fee contractor trust building
-        <br />
-        <br />
+        <h2>
+          Notice the, here we have a lender landlord insurer worker deficit;
+          a&nbsp;<a href="https://teapharmacy.party/drugs">white society</a>
+          <br />
+          <span style={{ fontSize: "9px" }}>
+            "they need to character evidence to destroy the fabricators of
+            society;" save the animals from Fauci Craft Beers
+            <span role="img" aria-label="tm trademark">
+              ™️
+            </span>
+          </span>
+        </h2>
         “32-47 month recession after a quarter rate hike, they want a 50000 Dow
         Jones so everyone feels good. Inflation is a tax on the poor. You are in
         deep doodie." no recognition of underlying structural problems, all
@@ -198,17 +208,18 @@ export default class App extends React.Component {
         shocks beyond april and june. the notion that economy does well is boom
         then inflation, it is count unemployed is close to 10%, if you take 190m
         open jobs actually out there on the bid. Home prices of foreigners is a
-        national security issue, why do we care? They deport inflation. Long
-        term, we are hollowing out the economy; well they make 90% of the
-        batteries for the electric cars. My last policy under the Trump admin
-        was to 'Buy American' - if we don't make it here, we don't have supply
-        chains here, we have fragile supply chains; it is just where we stand.
-        If Ukraine or Russia and China joins NATO it will be catostrophic, if
-        Russia takes UK and China moves in on taiwan.. russia and china cyber
-        attack is the reason for a convict-free intranet emulated by on-device,
-        end-to-end and tamper-proof, grid-dns rights, all authenticated by
-        login.gov. That would solve the drug war between the people and
-        walgreens/state as well as&nbsp;
+        national security issue, why do we care? They deport&nbsp;
+        <a href="https://qr.ae/pGqeJd">inflation</a>. Long term, we are
+        hollowing out the economy; well they make 90% of the batteries for the
+        electric cars. My last policy under the Trump admin was to 'Buy
+        American' - if we don't make it here, we don't have supply chains here,
+        we have fragile supply chains; it is just where we stand. If Ukraine or
+        Russia and China joins NATO it will be catostrophic, if Russia takes UK
+        and China moves in on taiwan.. russia and china cyber attack is the
+        reason for a convict-free intranet emulated by on-device, end-to-end and
+        tamper-proof, grid-dns rights, all authenticated by login.gov. That
+        would solve the drug war between the people and walgreens/state as well
+        as&nbsp;
         <a href="https://nationalsecuritycasino.com/repeat-offenders">
           missing children
         </a>
