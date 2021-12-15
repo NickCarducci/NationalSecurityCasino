@@ -193,7 +193,7 @@ export default class App extends React.Component {
         <br />
         “Humility and strength that I think is needed, ...Take the temperature
         down, have everyone not important take a step back so my pussy can take
-        control."
+        control." JORDAN PETERSON WAS RIGHT
         <br />
         <br />
         “32-47 month recession after a quarter rate hike, they want a 50000 Dow
