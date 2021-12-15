@@ -67,6 +67,7 @@ export default class App extends React.Component {
       width: null,
       lastWidth: null
     };
+    this.trump = React.createRef();
     this.gdp = React.createRef();
     this.levin = React.createRef();
     for (let i = 0; i < 250; i++) {
@@ -127,6 +128,8 @@ export default class App extends React.Component {
       if (this.props.pathname === "/") {
       } else if (this.props.pathname === "/gdp") {
         window.scroll(0, this.gdp.current.offsetTop);
+      } else if (this.props.pathname === "/trump") {
+        window.scroll(0, this.trump.current.offsetTop);
       } else if (
         this.props.pathname === "/levin" ||
         this.props.pathname === "/levin-blunder"
@@ -830,6 +833,7 @@ export default class App extends React.Component {
         "If you pay everyone the same, ...[mumbles]."
         <br />
         <br />
+        <hr ref={this.trump} />
         <Cable
           onError={handleScollImgError}
           //img={true}
@@ -861,6 +865,10 @@ export default class App extends React.Component {
         co-signing their employers and customers compounding interest impossibly
         derived from the seller nor the third parties unless every debtor is
         right, never is. just simply 1-level-board max royalty contracts).
+        <br />
+        <br />
+        "Republicans voice of reason and decency on this committee," Amanda
+        Devine
         <br />
         <br />
         “Many people like the union because they don’t have to work very hard
