@@ -193,7 +193,10 @@ export default class App extends React.Component {
         <br />
         “Humility and strength that I think is needed, ...Take the temperature
         down, have everyone not important take a step back so my pussy can take
-        control." JORDAN PETERSON WAS RIGHT
+        control." JORDAN PETERSON WAS RIGHT. Anti gun unit that kick down doors
+        takes the guns out of the hands of the people that shouldn’t have them
+        look at her options to keep people safe, residents of New York to keep
+        people safe, and they are telling me they do not feel safe.
         <br />
         <br />
         “32-47 month recession after a quarter rate hike, they want a 50000 Dow
