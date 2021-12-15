@@ -250,6 +250,13 @@ export default class App extends React.Component {
         we are going backwards in tech advancement with your income from credit,
         douche. Why do you care about another person's weed use?
         <br />
+        "A lot of these criminals are high on drugs, we do them good by
+        arrenting them and forcing them on the streets with implausible landlord
+        use and mortgages, for my hubby and I so I can dance around on net loss
+        77WABC propoganda unit by the grocer who doesn't want to pay for jail
+        with truncated sales tax." Lidia Curanai
+        <br />
+        <br />
         ‘Share the love,’ Suburu, “when you buy or lease, contribute to
         charities,” why wouldn't they just settle without implausible lease use?
         useless greed and third party beneficiary donee claimable
