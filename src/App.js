@@ -187,6 +187,14 @@ export default class App extends React.Component {
         "child life services."
         <br />
         <br />
+        Bo Snerdley ("conservative"): "Direct cash to parents per kid, benefit
+        fund is running out," of itemized counterfeit. "No plan to pay this back
+        in the future." All debt has a plan, that is to debt service
+        collateralized and bailout uncollateralized, for merely a lender work
+        deficit, $12k/year/p debt $3k/year/p bond $64/year/p new. Businesses in
+        america with credit as income isn’t really work.
+        <br />
+        <br />
         Barney Frank doesnt include non-voting youth in polls, because wehave no
         anti rent seeker candidate.
         <br />
