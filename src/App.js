@@ -356,6 +356,11 @@ export default class App extends React.Component {
         doesn't require cell to "replicate?"
         <br />
         <br />
+        <TwitterTweetEmbed
+          style={{ float: "left", width: "300px" }}
+          key="1428312309685002241"
+          tweetId="1428312309685002241" //1391836586707496962//1434568443496370179
+        />
         “When you telegraph will show up to work high, is when I start preparing
         for your resignation,” Greg Kelly, alcoholic. It is a gateway currency,
         we are going backwards in tech advancement with your income from credit,
