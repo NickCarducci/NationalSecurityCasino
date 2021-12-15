@@ -183,9 +183,14 @@ export default class App extends React.Component {
           href="https://truncatedsalestax.com"
         >
           truncatedsalestax.com
-        </a>
+        </a>{" "}
+        If your guy wants to deny the election on my mortality projections he
+        will have to for ppp trust building existing business.
+        <br />
+        <br />
         Work deficit when you target inflation without wages, assets, homes, nor
-        bonds, just labor.
+        bonds, just material, or force majure implausible deniability by expiry
+        or estimate option to buy sold fraud.
         <br />
         Brian Kilmeade: “What gives you jobs, is profit,” no that is just
         withheld outlays.
