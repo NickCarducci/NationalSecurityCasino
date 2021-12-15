@@ -212,7 +212,7 @@ export default class App extends React.Component {
         <a href="https://nationalsecuritycasino.com/repeat-offenders">
           missing children
         </a>
-        . “Humility and strength that I think is needed, ...Take the temperature
+        . Humility and strength that I think is needed, ...Take the temperature
         down, have everyone not important take a step back so my pussy can take
         control." JORDAN PETERSON WAS RIGHT. "Anti gun unit that kick down doors
         takes the guns out of the hands of the people that shouldn’t have them
@@ -277,6 +277,15 @@ export default class App extends React.Component {
           scrollTop={this.state.scrollTop}
         />
         “He killed a lot of people, and he should be in gitmo for that,”
+        <br />
+        <br />
+        Not legitimate because the minority is not with standing, nor is
+        treasury shares in outstanding when in price-to-earnings, or collateral
+        price fixed unless in inflation, intermediate-labor nor bond nor price
+        elastic asset in gini.
+        <br />
+        “That is the problem with america, people are so angry, they cannot be
+        fair.” I am only angry at unfairness, Alan Dershowitz. Get off my lawn!
         <br />
         <br />
         Bo Snerdley ("conservative"): "Direct cash to parents per kid, benefit
