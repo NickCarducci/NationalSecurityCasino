@@ -185,6 +185,51 @@ export default class App extends React.Component {
         and educators are on the bonded dole
         <br />
         <br />
+        Free rider mutable expiring claims. Economists favor hours as
+        productive, microeconomists who fail at finance become politicians.
+        <br />
+        <br />
+        Listen to statisticians nor saveface scientists who cannot imagine null
+        hypothesit of vitro restrospective instead of
+        lawyer-like-scientific-method of vivo-creation in a vacuum. being a
+        sheep, just going along with what they said, more often in science than
+        discovery allowed in statisticians by whistleblowers.
+        <br />
+        Medication cost goes to the patient with no insurance coverage and
+        insurer work deficit is folded. you ARE too stupid, steve trevalese,
+        $12/year/p $3/year/p $64/year/p, sprintify labor & materials not
+        estimated sold options. he can do public emergencies across the board,
+        president, hoouse speaker, senate minority leader, then you get
+        execurive orders for specific people, that is wrong. He can't make
+        himself president. govtech insurrection .us
+        <br />
+        <br />
+        <Cable
+          onError={handleScollImgError}
+          src={
+            this.state.nofred
+              ? ""
+              : "https://drive.google.com/file/d/1w1GVgxJHP1ibZKcRInbQPSVldHwSvysq/preview"
+          }
+          float="left"
+          title="Stinchfield (Newsmax) - Mike Huckabee"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 34]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        “FEMA should be getting aid to survivors, and getting people that need
+        to and want to, to get out, and or be tracked.”
+        <br />
+        <br />
+        “More people on the coast than 10, 20 , 30 years ago.” Huckabee.
+        Government will fix this if government is your G-d, they will fix the
+        weather with G-d.”
+        <br />
+        <br />
+        “...salvage, not make a political weapon out of it.”
+        <br />
+        <br />
         <Cable
           onError={handleScollImgError}
           src={
