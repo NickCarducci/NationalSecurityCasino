@@ -183,7 +183,20 @@ export default class App extends React.Component {
           href="https://truncatedsalestax.com"
         >
           truncatedsalestax.com
-        </a>{" "}
+        </a>
+        NATO is a defensive threat, like open-carry (put it in luggage). Why
+        wouldn't we defend Russia if they get attacked? We should be&nbsp;
+        <a href="https:/truncatedsalestax.com">local anyway</a>.
+        <br />
+        <br />
+        <TwitterTweetEmbed
+          style={{ width: "300px", float: "right" }}
+          tweetId="1416803308824633347"
+        />
+        Dick Morris: "Bribed by Putin and accepted a job," with $12k/year/p debt
+        $3k/year/p year #64/year/p
+        <br />
+        <br />
         If your guy wants to deny the election on my mortality projections he
         will have to for ppp trust building existing business.
         <br />
