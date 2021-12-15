@@ -203,8 +203,8 @@ export default class App extends React.Component {
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
-        That's the last thing we should do with tax-payers funds, investigation
-        come before the sentance, but the arresting officer has all the
+        "That's the last thing we should do with tax-payers funds, investigation
+        come before the sentance," but the arresting officer has all the
         evidence, you can make investigations a review of the evidence, and jail
         when there is some only.
         <br />
