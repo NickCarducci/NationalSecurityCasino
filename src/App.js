@@ -197,7 +197,10 @@ export default class App extends React.Component {
         payment third party beneficiary donee claimable is force majeure
         implausibly deniable, so when the right and top left wall st bailout and
         cancel instead of reverse people, just know they are walking into a
-        trap, showing their intent to harm.
+        trap, showing their intent to harm. Obamacare and private insurance is
+        net loss, Krugman and I agree, except I explain it a bit more: expiring
+        claims is flaccid loss like profits collective. Say rollover insurance
+        to a psych and get locked up in nj.
         <br />
         <br />
         Barney Frank doesnt include non-voting youth in polls, because wehave no
