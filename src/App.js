@@ -188,6 +188,27 @@ export default class App extends React.Component {
         building, bbb nationalize broadband fee contractor trust building
         <br />
         <br />
+        <Cable
+          onError={handleScollImgError}
+          src={
+            this.state.iosNoPhoto
+              ? ""
+              : "https://drive.google.com/file/d/1Cl8nAf5kSP2J6BuMiql6TcisXtDM1zZt/preview"
+          }
+          float="right"
+          title="Chris Salcedo (Newsmax) - vaccine mandate is article 4 use case, because vaccines just work, believe me"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 35]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        Cases doesn’t mean it is spreading, Chris. “Fallacious fatuous
+        fear-porn,” is all you. It still stands that it must come from
+        somewhere, it you think it work, and if you think it works, you must
+        think it is an evolutionary trait, if you think it, “requires cell to
+        replicate.”
+        <br />
+        <br />
         Bo Snerdley ("conservative"): "Direct cash to parents per kid, benefit
         fund is running out," of itemized counterfeit. "No plan to pay this back
         in the future." All debt has a plan, that is to debt service
@@ -254,14 +275,21 @@ export default class App extends React.Component {
         arrenting them and forcing them on the streets with implausible landlord
         use and mortgages, for my hubby and I so I can dance around on net loss
         77WABC propoganda unit by the grocer who doesn't want to pay for jail
-        with truncated sales tax." Lidia Curanai, lender work deficit. "Chicken
+        with truncated sales tax." Lidia Curanai, lender work deficit. Chicken
         or egg, criminals doing drugs so you don’t hire while instigating
         implausible landlord use and mortgages third party donee beneficiary
         claimable. We have a lender work deficit. Half 65+ 2.8m continuing
         claims, most disability, 20x/millennial rental-income, you people are
         the market-communists, had your whole lives to save. Occupy wall st gets
         65%, and expiring claims public or private nor finance by invoice is not
-        that."
+        that. Expiring claims are third party beneficiary donee claimable, ever
+        hear of no surrender in an End User License Agreement? Chicken or egg,
+        Lidia’s husband is driving me into insanity. We have a lender work
+        deficit. While $12k/year/p debt $3k/year/p bond $64/year/p new, that is
+        mostly private, like Lidias’ lender work deficit husband. She has a
+        conflict of interest in reporting the financial news and advertisements,
+        for christ sake if you say rollover insurance to an orthopedic surgeon
+        in red bank nj you get locked up for 13 days
         <br />
         <br />
         ‘Share the love,’ Suburu, “when you buy or lease, contribute to
