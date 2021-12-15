@@ -254,7 +254,14 @@ export default class App extends React.Component {
         arrenting them and forcing them on the streets with implausible landlord
         use and mortgages, for my hubby and I so I can dance around on net loss
         77WABC propoganda unit by the grocer who doesn't want to pay for jail
-        with truncated sales tax." Lidia Curanai
+        with truncated sales tax." Lidia Curanai, lender work deficit. "Chicken
+        or egg, criminals doing drugs so you don’t hire while instigating
+        implausible landlord use and mortgages third party donee beneficiary
+        claimable. We have a lender work deficit. Half 65+ 2.8m continuing
+        claims, most disability, 20x/millennial rental-income, you people are
+        the market-communists, had your whole lives to save. Occupy wall st gets
+        65%, and expiring claims public or private nor finance by invoice is not
+        that."
         <br />
         <br />
         ‘Share the love,’ Suburu, “when you buy or lease, contribute to
