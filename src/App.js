@@ -187,6 +187,38 @@ export default class App extends React.Component {
         "child life services."
         <br />
         <br />
+        Barney Frank doesnt include non-voting youth in polls, because wehave no
+        anti rent seeker candidate.
+        <br />
+        <br />
+        <Cable
+          onError={handleScollImgError}
+          src={
+            this.state.iosNoPhoto
+              ? ""
+              : "https://drive.google.com/file/d/1useG43jtYZkFm6CT9oDfOPr9MZBjJXna/preview"
+          }
+          float="left"
+          title="American Agenda (Newsmax) - Barney Frank should be dead already politician on virus"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 34]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        “No one predicted&nbsp;
+        <a href="https://humanharvest.info/testing">omicron</a>, the majority of
+        people want vaccinations and masks,” every Darwinist, or protistologist,
+        or part-based evolutionary and taxonomist did, that is not how science
+        is made, you need to put the evidence in front of a&nbsp;
+        <a href="https://humanharvest.info/testing">industry various jury</a>.
+        The fallacy everyone except myself fell for is that virus is not an
+        evolutionary trait not “reproduced” per prevalence only with cell, but
+        is non-exclusive byproduct. Need all-inclusive testing, by symptom, to
+        even correlate cause.
+        <br />
+        Let alone vivo-prove it.
+        <br />
+        <br />
         "Really confirms and solidified new expert from MIT testified as much."
         put it in front of a varying industry jury douche.
         <br />
