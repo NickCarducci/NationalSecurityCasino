@@ -184,7 +184,8 @@ export default class App extends React.Component {
         >
           truncatedsalestax.com
         </a>
-        "child life services."
+        "child life services." ccc parent trust building, ppp existing biz trust
+        building, bbb nationalize broadband fee contractor trust building
         <br />
         <br />
         Bo Snerdley ("conservative"): "Direct cash to parents per kid, benefit
@@ -192,7 +193,11 @@ export default class App extends React.Component {
         in the future." All debt has a plan, that is to debt service
         collateralized and bailout uncollateralized, for merely a lender work
         deficit, $12k/year/p debt $3k/year/p bond $64/year/p new. Businesses in
-        america with credit as income isn’t really work.
+        america with credit as income isn’t really work. Repo cycle kept down
+        payment third party beneficiary donee claimable is force majeure
+        implausibly deniable, so when the right and top left wall st bailout and
+        cancel instead of reverse people, just know they are walking into a
+        trap, showing their intent to harm.
         <br />
         <br />
         Barney Frank doesnt include non-voting youth in polls, because wehave no
