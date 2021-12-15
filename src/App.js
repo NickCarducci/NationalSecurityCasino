@@ -1375,9 +1375,13 @@ export default class App extends React.Component {
           "dnc politicians are rnc voters"
           <br />
           <span style={{ fontSize: "9px" }}>
-            Racism: the cause of the labor shortage, after working age shortage
-            from boomer boom 1.2m/yr+ 2015- 75+ (not accounted for in "excess"
-            year-to-year rates of event, unfixed for base-cause)
+            Racism: the cause of the&nbsp;
+            <a href="https://nationalsecuritycasino.com/trump">
+              labor shortage
+            </a>
+            , but only partially-after working age shortage from boomer boom
+            1.2m/yr+ 2015- 75+ (not accounted for in "excess" year-to-year rates
+            of event, unfixed for base-cause)
           </span>
           <br />
           <Cable
