@@ -220,7 +220,11 @@ export default class App extends React.Component {
         <a href="https://nationalsecuritycasino.com/repeat-offenders">
           missing children
         </a>
-        ."
+        . Anti gun unit that kick down doors takes the guns out of the hands of
+        the people that shouldn’t have them look at her options to keep people
+        safe, residents of New York to keep people safe, and they are telling me
+        they do not feel safe. The root cause of violent criminals is locking up
+        violent criminals.”
         <br />
         <br />
         <Cable
@@ -234,16 +238,10 @@ export default class App extends React.Component {
           float="left"
           title="Chris Salcedo (Newsmax) - Matt Gaetz"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 36]}
+          fwd={this["scrollImg" + 37]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
-        "That's the last thing we should do with tax-payers funds, investigation
-        come before the sentance," but the arresting officer has all the
-        evidence, you can make investigations a review of the evidence, and jail
-        when there is some only.
-        <br />
-        <br />
         <Cable
           onError={handleScollImgError}
           src={
@@ -254,15 +252,38 @@ export default class App extends React.Component {
           float="right"
           title="Chris Salcedo (Newsmax) - vaccine mandate is article 4 use case, because vaccines just work, believe me"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 35]}
+          fwd={this["scrollImg" + 36]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
+        "That's the last thing we should do with tax-payers funds, investigation
+        come before the sentance," but the arresting officer has all the
+        evidence, you can make investigations a review of the evidence, and jail
+        when there is some only.
+        <br />
+        <br />
         Cases doesn’t mean it is spreading, Chris. “Fallacious fatuous
         fear-porn,” is all you. It still stands that it must come from
         somewhere, it you think it work, and if you think it works, you must
         think it is an evolutionary trait, if you think it, “requires cell to
         replicate.”
+        <br />
+        <br />
+        <Cable
+          onError={handleScollImgError}
+          src={
+            this.state.iosNoPhoto
+              ? ""
+              : "https://drive.google.com/file/d/1WB-zeHITUGWaBOMNI86kWS7SYfJXvWWV/preview"
+          }
+          float="right"
+          title="Chris Salcedo (Newsmax) - Diamond & Silk on Andrew Cuomo order to return book profit $5.1m"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 35]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        “He killed a lot of people, and he should be in gitmo for that,”
         <br />
         <br />
         Bo Snerdley ("conservative"): "Direct cash to parents per kid, benefit
