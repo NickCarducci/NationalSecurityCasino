@@ -184,6 +184,61 @@ export default class App extends React.Component {
         >
           truncatedsalestax.com
         </a>
+        "Really confirms and solidified new expert from MIT testified as much."
+        put it in front of a varying industry jury douche.
+        <br />
+        <br />
+        You literally get PCR positive per what you look for. the probability is
+        not low because there are hundreds of thousands that haven't been
+        discovered that ALREADY EXIST. you think it is evolutionary trait or it
+        doesn't require cell to "replicate?"
+        <br />
+        <br />
+        “When you telegraph will show up to work high, is when I start preparing
+        for your resignation,” Greg Kelly, alcoholic. It is a gateway currency,
+        we are going backwards in tech advancement with your income from credit,
+        douche. Why do you care about another person's weed use?
+        <br />
+        ‘Share the love,’ Suburu, “when you buy or lease, contribute to
+        charities,” why wouldn't they just settle without implausible lease use?
+        useless greed and third party beneficiary donee claimable
+        <br />
+        “Phony national emergency,” Greg kelly.
+        <br />
+        What is your basis of that other than population growth a life
+        expectancy ago? Are you ageist when I say it? You’re a fucking dull
+        headed moron, you should&nbsp;
+        <a href="https://teapharmacy.party/drugs">toke one</a>.
+        <br />
+        "Excessive vanity or anger," is your problem douche. The right are
+        retards working against $12k/year/p debt $3k/year/p bond $64/year/p new
+        dollars and it is due for tort over third party beneficiary claimable,
+        along with implausible landlord use above 30 days or 5 units (not
+        price), expiring claims non-rollover insurance, repo cycle kept down
+        payments force majeure implausible deniability of third party savers.
+        Ever see a no surrender clause in an EULA? Fractional reserve in
+        contract busy work hours as productivity self-harmers. Lender work
+        deficit is slower “growth,” of the good kind. Price and hours in gdp
+        isn’t good, “growth.” Profits are just flaccid collective loss of
+        outlays withheld.
+        <br />
+        “Give him a chance,” I know him, he giddily talks about lighting up with
+        his own pot and rolling papers. It’s going to be fun. Biggest job in the
+        world and he goes to Africa.”
+        <br />
+        “Weed is like having a drink, it is the same thing,” bullshit
+        <br />
+        I have better motor skills with it. Open source ingredient lists. It is
+        not a gateway drug. Dr sibet look at me. You people correlate prevalence
+        without basis of smokers
+        <br />
+        Ad council correlates prevalence without basis of smoker. You call the
+        pandemic a phony emergency because of mortality projections by
+        population growth a life expectancy ago now? If trump goes down this
+        route for honor system signatures and magnetic data auditing fraud, he
+        will have to for ppp trust building existing business
+        <br />
+        <br />
         NATO is a defensive threat, like open-carry (put it in luggage). Why
         wouldn't we defend Russia if they get attacked? We should be&nbsp;
         <a href="https:/truncatedsalestax.com">local anyway</a>.
