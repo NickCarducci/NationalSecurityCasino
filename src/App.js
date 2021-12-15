@@ -67,6 +67,7 @@ export default class App extends React.Component {
       width: null,
       lastWidth: null
     };
+    this.repeat = React.createRef();
     this.trump = React.createRef();
     this.gdp = React.createRef();
     this.levin = React.createRef();
@@ -130,6 +131,8 @@ export default class App extends React.Component {
         window.scroll(0, this.gdp.current.offsetTop);
       } else if (this.props.pathname === "/trump") {
         window.scroll(0, this.trump.current.offsetTop);
+      } else if (this.props.pathname === "/repeat-offenders") {
+        window.scroll(0, this.repeat.current.offsetTop);
       } else if (
         this.props.pathname === "/levin" ||
         this.props.pathname === "/levin-blunder"
@@ -186,6 +189,35 @@ export default class App extends React.Component {
         </a>
         "child life services." ccc parent trust building, ppp existing biz trust
         building, bbb nationalize broadband fee contractor trust building
+        <br />
+        <br />
+        “Humility and strength that I think is needed, ...Take the temperature
+        down, have everyone not important take a step back so my pussy can take
+        control."
+        <br />
+        <br />
+        “32-47 month recession after a quarter rate hike, they want a 50000 Dow
+        Jones so everyone feels good. Inflation is a tax on the poor. You are in
+        deep doodie." no recognition of underlying structural problems, all
+        politics because drilling portends into farm food and energy price
+        shocks beyond april and june. the notion that economy does well is boom
+        then inflation, it is count unemployed is close to 10%, if you take 190m
+        open jobs actually out there on the bid. Home prices of foreigners is a
+        national security issue, why do we care? They deport inflation. Long
+        term, we are hollowing out the economy; well they make 90% of the
+        batteries for the electric cars. My last policy under the Trump admin
+        was to 'Buy American' - if we don't make it here, we don't have supply
+        chains here, we have fragile supply chains; it is just where we stand.
+        If Ukraine or Russia and China joins NATO it will be catostrophic, if
+        Russia takes UK and China moves in on taiwan.. russia and china cyber
+        attack is the reason for a convict-free intranet emulated by on-device,
+        end-to-end and tamper-proof, grid-dns rights, all authenticated by
+        login.gov. That would solve the drug war between the people and
+        walgreens/state as well as&nbsp;
+        <a href="https://nationalsecuritycasino.com/repeat-offenders">
+          missing children
+        </a>
+        ."
         <br />
         <br />
         <Cable
@@ -2664,6 +2696,7 @@ export default class App extends React.Component {
           allow apple to misrepresent&nbsp;
           <a href="https://thumbprint.us/phone">privacy</a>
         </div>
+        <hr ref={this.repeat} />
         <div
           style={{
             transition: ".3s ease-in",
