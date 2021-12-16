@@ -202,6 +202,27 @@ export default class App extends React.Component {
         nominally when abstaining is a default vote, "no."
         <br />
         “Ohio is king debt Trump country, 3rd highest natural gas producers."
+        First time in 70 years we had population growth, and that economic
+        growth. Attributed to trump oil and coal mining, first time in my
+        lifetime to take on communist china running rimshot over democratic and
+        republican economic cheaters in uspto defectors and open source
+        fundamentalists. ...These&nbsp;
+        <a href="https://nationalsecuritycasino.com/">illegals</a>&nbsp;coming
+        across the border. First act they are coming across the border is a
+        felony, crime, that should be punished. The leftist media thinks america
+        first is a campaign slogan. It was a trump doctrines, putting Americans
+        ahead of foreigners. It is not that we hate foreigners, it is about
+        putting the safety and jobs of our people, first. ...Democrats and
+        Republican rhinos often trample over our constitutional rights. I want
+        fighters like Ted Cruz, Jim Jordan, Donald Trump, and myself, Josh
+        Mandel dot com. I need donations from regular americans, credit is
+        income. Are you thinking of home refinance, interest rates are low, take
+        advantage of monthly savings. lets look at what your goals and
+        objectives are, customize and tailor a loan for your purchase, 1000 a
+        month, because they look at your entire picture, not just the home. you
+        can even skip two mortgage payments, to make UPFRONT savings." *slurps
+        learn how to amortize retard. Probably liking rich valdes' taint as I
+        type and just is replaying this tape.
         <h2>
           <span style={{ fontSize: "9px" }}>
             tranquility and voluntry trade
