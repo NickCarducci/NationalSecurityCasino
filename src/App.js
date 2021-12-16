@@ -189,8 +189,31 @@ export default class App extends React.Component {
         </a>
         "child life services." ccc parent trust building, ppp existing biz trust
         building, bbb nationalize broadband fee contractor trust building.
-        <br />
-        <br />
+        <h2>
+          collateralized debt has no bearing from free rider immutable article 4
+          with industry variant multiple of 11/12 jury
+          <br />
+          <Cable
+            style={{ height: "220px" }}
+            onError={handleScollImgError}
+            src={
+              this.state.noyoutube
+                ? ""
+                : "https://drive.google.com/file/d/1sTWJkxqtN27TJVYI5uF65U_p3HsYtY_9/preview"
+            }
+            float="left"
+            title="National Report (Newsmax) - William Barclay NY State Assemblyman"
+            scrolling={this.state.scrolling}
+            fwd={this["scrollImg" + 42]}
+            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+            scrollTop={this.state.scrollTop}
+          />
+          <span style={{ fontSize: "9px" }}>
+            hospitals have lost 20% of workforce and now having a real crisis, I
+            mean if you can't have employees you can't sell your products
+            successfully, price deflation per hour be damned
+          </span>
+        </h2>
         "Racing to hire workers, and the human lifecycle, we have to get these
         kids to work minimum wage job. I was working check to check, and getting
         behind on my bills. May parents are seeing prices rise and wait list
@@ -270,7 +293,6 @@ export default class App extends React.Component {
           regular business, nor non-production-taxable, nor certainly not, gift
           tax.
         </div>
-        <br />
         <br />
         "The money is borrowed, mostly in bonds and loans from other countries.
         So yes, it exists. And we pay it back… with interest. Just like any
