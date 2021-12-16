@@ -189,6 +189,19 @@ export default class App extends React.Component {
         </a>
         "child life services." ccc parent trust building, ppp existing biz trust
         building, bbb nationalize broadband fee contractor trust building
+        <br />
+        <br />
+        "We'll focus on the percentage of people by state&nbsp;
+        <a href="https://worldpopulationreview.com/state-rankings/voter-turnout-by-state">
+          that showed up
+        </a>
+        &nbsp;for the last presidential election. Highest % VEP New Jersey
+        (84.58%) Lowest % VEP Arkansas (62.00%)," not only are candidates never
+        available that present anti rent seeker ideas, parties are ideological
+        duress. this is skewed away from verifiable consent, and doesn't even
+        nominally when abstaining is a default vote, "no."
+        <br />
+        “Ohio is king debt Trump country, 3rd highest natural gas producers."
         <h2>
           <span style={{ fontSize: "9px" }}>
             tranquility and voluntry trade
