@@ -223,7 +223,7 @@ export default class App extends React.Component {
         duress. this is skewed away from verifiable consent, and doesn't even
         nominally when abstaining is a default vote, "no."
         <br />
-        “Ohio is king debt Trump country, 3rd highest natural gas producers."
+        “Ohio is king debt Trump country, 3rd highest natural gas producers.
         First time in 70 years we had population growth, and that economic
         growth. Attributed to trump oil and coal mining, first time in my
         lifetime to take on communist china running rimshot over democratic and
