@@ -191,6 +191,33 @@ export default class App extends React.Component {
         building, bbb nationalize broadband fee contractor trust building
         <br />
         <br />
+        "Raising the debt [ceiling] spends nothing it only authorizes the
+        Treasury to borrow to cover [new] spending and the cost of the [February
+        budget] previously authorized by Congress."
+        <br />
+        <div
+          style={{
+            borderRadius: "15px",
+            margin: "10px",
+            padding: "10px",
+            backgroundColor: "black",
+            color: "white"
+          }}
+        >
+          Meant to be serfs and employables in perpetuity, because they cannot
+          figure out how to truncated sales tax 2025 against Menendez, and
+          (cash/debt)*income every year back, and have to 1/4 1/4 1/4 debt spend
+          40% free rider mutable 60% 2010-2020 $4t/yr premium pentagon pensions
+          expiring claims and inequality by asset generator, nor gini, a
+          corruption of lender work deficit and productivity itself: price
+          deflation per hour, over time, and launder such spending 1/3 of all
+          debt, public and private, to show only $2t checking, with $12k/year/p
+          debt, $3k/year/p bond m2, $64/year/p new force majeure implausible
+          deniability third party donee beneficiary claimable, by class; not
+          cancel forbidden by past labor-equity-demand, nor bailout forbidden by
+          savers - and certainly, not discriminatorily.
+        </div>
+        <br />
         those acting criminally isn't with standing if malfeasant or
         comparatively innocent. defund the police and bail reform is racist,
         because crime goes up elastically. actually, euros have a lot to catch
