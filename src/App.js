@@ -218,10 +218,14 @@ export default class App extends React.Component {
           savers - and certainly, not discriminatorily.
         </div>
         <br />
-        those acting criminally isn't with standing if malfeasant or
-        comparatively innocent. defund the police and bail reform is racist,
+        "those acting criminally," isn't with standing if malfeasant or
+        comparatively innocent. "defund the police and bail reform is racist,"
         because crime goes up elastically. actually, euros have a lot to catch
-        up to, there is growth but not growth of growth.
+        up to, there is growth but not growth of growth. Isn't "criminality,"
+        moot when bonds profit from net loss incarceration? Truncated sales tax
+        at your grocer, after (cash/debt)*income, every-year-back (CDDTIEYB).
+        Bail means no evidence imo, if you have some you can always review it
+        later.
         <br />
         "$15k worth of merchandise on bid, then sold on a&nbsp;
         <a href="https://www.quora.com/profile/Nick-Carducci">
