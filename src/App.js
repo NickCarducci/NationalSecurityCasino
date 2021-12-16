@@ -191,6 +191,18 @@ export default class App extends React.Component {
         building, bbb nationalize broadband fee contractor trust building
         <br />
         <br />
+        those acting criminally isn't with standing if malfeasant or
+        comparatively innocent. defund the police and bail reform is racist,
+        because crime goes up elastically. actually, euros have a lot to catch
+        up to, there is growth but not growth of growth.
+        <br />
+        "$15k worth of merchandise on bid, then sold on a&nbsp;
+        <a href="https://www.quora.com/profile/Nick-Carducci">
+          fraction of a price
+        </a>
+        &nbsp;on facebook marketplace." Christina Thomson in the newsroom.
+        Kristina, Thanks
+        <br />
         <Cable
           onError={handleScollImgError}
           src={
@@ -208,9 +220,11 @@ export default class App extends React.Component {
         "the drugs, guns and people smuggling enrich corrupt governments," stop
         surges in past, hold people for due process. many restay with ice or
         flee. that is why that is what happeens. that is why the flo0w is so bad
-        (6m + 3m/yr+ all immigration = legal + illegal)cvp ended the last surge,
-        and stopping that is why the [...destruction] of humanity is," Rob
-        Vatilla.
+        (+ 3m/yr+ all immigration = 40m legal + 6m illegal) cvp ended the last
+        surge, and stopping that is why the [...destruction] of humanity is,"
+        Ron Vitiello,&nbsp;
+        <a href="https://teapharmacy.party/drugs">with dog</a>
+        .
         <br />"
         <a href="https://humanharvest.info/polio">
           A downslope, instead of an upslope
