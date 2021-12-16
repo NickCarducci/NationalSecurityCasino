@@ -208,7 +208,8 @@ export default class App extends React.Component {
           </span>
           <br />
           Notice the, here we have a lender landlord insurer worker deficit;
-          a&nbsp;<a href="https://teapharmacy.party/drugs">white society</a>
+          a&nbsp;<a href="https://teapharmacy.party/drugs">white society</a>, in
+          the water. dems/walgreens are drug lords
           <br />
           <span style={{ fontSize: "9px" }}>
             "they need to character evidence to destroy the fabricators of
