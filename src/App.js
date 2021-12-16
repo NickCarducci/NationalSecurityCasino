@@ -294,7 +294,6 @@ export default class App extends React.Component {
           debt-servicing, 40% debt-spending, up to 40% debt-servicing, in states
           like NJ turnpike authority.
         </div>
-        >
         <br />
         "The Federal government doesn’t 'earn' money by taxing. It’s where the
         money came from in the first place (if anybody but the government prints
@@ -373,7 +372,6 @@ export default class App extends React.Component {
           of new income, by rent, false bid pools or repo cycle kept down
           payments implausible deniability
         </div>
-        >
         <br />
         "those acting criminally," isn't with standing if malfeasant or
         comparatively innocent. "defund the police and bail reform is racist,"
