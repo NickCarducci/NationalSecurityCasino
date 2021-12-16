@@ -189,8 +189,14 @@ export default class App extends React.Component {
         </a>
         "child life services." ccc parent trust building, ppp existing biz trust
         building, bbb nationalize broadband fee contractor trust building
-        <br />
-        <br />
+        <h2>
+          credit is theft, without usury is Islamic banking, but to say credit
+          cycle is Marxist
+          <br />
+          <span style={{ fontSize: "9px" }}>
+            third party beneficiary donee claimable, or else!
+          </span>
+        </h2>
         "We'll focus on the percentage of people by state&nbsp;
         <a href="https://worldpopulationreview.com/state-rankings/voter-turnout-by-state">
           that showed up
@@ -217,11 +223,12 @@ export default class App extends React.Component {
         fighters like Ted Cruz, Jim Jordan, Donald Trump, and myself, Josh
         Mandel dot com. I need donations from regular americans, credit is
         income. Are you thinking of home refinance, interest rates are low, take
-        advantage of monthly savings. lets look at what your goals and
-        objectives are, customize and tailor a loan for your purchase, 1000 a
-        month, because they look at your entire picture, not just the home. you
+        advantage of monthly savings. Lets look at what your goals and
+        objectives are, customize and tailor a loan for your purchase, $100 a
+        month, because they look at your entire picture, not just the home. You
         can even skip two mortgage payments, to make UPFRONT savings." *slurps
-        learn how to amortize retard. Probably liking rich valdes' taint as I
+        learn how to amortize retard. Probably liking rich valdes'&nbsp;
+        <a href="https://nationalsecuritycasino.com/levin">taint</a>&nbsp;as I
         type and just is replaying this tape.
         <h2>
           <span style={{ fontSize: "9px" }}>
