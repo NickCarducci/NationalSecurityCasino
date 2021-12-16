@@ -189,8 +189,7 @@ export default class App extends React.Component {
         </a>
         "child life services." ccc parent trust building, ppp existing biz trust
         building, bbb nationalize broadband fee contractor trust building
-        <br />
-        <br />
+        <h2>I don't like math, I like what you can do with it.</h2>
         There is lag to 3/2020 trust building by king debt trump ppp existing
         biz. Comparative advantage tech advancement is price deflation per hour
         productivity, is all that matters. Hours per home doubles every 5 years,
