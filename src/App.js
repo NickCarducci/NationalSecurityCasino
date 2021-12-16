@@ -189,6 +189,29 @@ export default class App extends React.Component {
         </a>
         "child life services." ccc parent trust building, ppp existing biz trust
         building, bbb nationalize broadband fee contractor trust building.
+        <br />
+        <br />
+        <Cable
+          style={{ height: "220px" }}
+          onError={handleScollImgError}
+          src={
+            this.state.noyoutube
+              ? ""
+              : "https://drive.google.com/file/d/1Ch6mJGtJO57EANZuP6v1EnMyCpS52YED/preview"
+          }
+          float="right"
+          title="National Report (Newsmax) - John Glizzzly"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 43]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        "$2t, $3 trillion, $4.9 trillion, what is the final, 'price tag,' we are
+        still waiting on that. Some say voting rights bill, with stronger
+        federal hand, will pass more than the bbb, but that isn't true:
+        republicans and key decider manchin is far from considering it, and to
+        say they will drop bbb for voting rights is a moot point as neither will
+        see the light of day until after Christmas.
         <h2>
           collateralized debt has no bearing from free rider immutable article 4
           with industry variant multiple of 11/12 jury
