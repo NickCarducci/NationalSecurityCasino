@@ -225,7 +225,8 @@ export default class App extends React.Component {
         moot when bonds profit from net loss incarceration? Truncated sales tax
         at your grocer, after (cash/debt)*income, every-year-back (CDDTIEYB).
         Bail means no evidence imo, if you have some you can always review it
-        later.
+        later. The arresting officer has all the evidence you'll ever get
+        anyway.
         <br />
         "$15k worth of merchandise on bid, then sold on a&nbsp;
         <a href="https://www.quora.com/profile/Nick-Carducci">
