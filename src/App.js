@@ -201,10 +201,13 @@ export default class App extends React.Component {
         germany north korea and vietnam, north traty organization, umdb early
         rescamskiski plan in poland radical socialist elite party now people
         party, stand up an antivaxx air force. ordered to destroy democratic
-        pol8cy studies, telling tom hayes he should be shot, my proudest moment,
-        making his scared with several agents around. Counter hegemony now in
-        Italian catholics, educate then revolution,” communist talk radio guy,
-        Jimmie.
+        policy studies, ...
+        <a href="https://www.mtsu.edu/first-amendment/article/1201/students-for-a-democratic-society#:~:text=Shortly,">
+          telling tom hayes he should be shot
+        </a>
+        , my proudest moment, making his scared with several agents around.
+        Counter hegemony now in Italian catholics, educate then revolution,”
+        communist talk radio guy, Jimmie.
         <h2>
           credit is theft, without usury is Islamic banking, but to say credit
           cycle is Marxist
@@ -4011,3 +4014,4 @@ export default class App extends React.Component {
     );
   }
 }
+
