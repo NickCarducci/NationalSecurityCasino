@@ -189,6 +189,11 @@ export default class App extends React.Component {
         </a>
         "child life services." ccc parent trust building, ppp existing biz trust
         building, bbb nationalize broadband fee contractor trust building
+        <br />
+        "marxist revolutionaries in the open, our enemies russia and china are
+        building weapons," well if “Speculative into the now,” kidney harvesting
+        China author, why are you inciting violence. Hasn't Putin and Xi served
+        their time already? YOU FUCKING TERRORIST
         <h2>
           credit is theft, without usury is Islamic banking, but to say credit
           cycle is Marxist
@@ -249,7 +254,7 @@ export default class App extends React.Component {
         </h2>
         “32-47 month recession after a quarter rate hike, they want a 50000 Dow
         Jones so everyone feels good. Inflation is a tax on the poor. You are in
-        deep doodie." no recognition of underlying structural problems, all
+        deep doodie. no recognition of underlying structural problems, all
         politics because drilling portends into farm food and energy price
         shocks beyond april and june. the notion that economy does well is boom
         then inflation, it is count unemployed is close to 10%, if you take 190m
