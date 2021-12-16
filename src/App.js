@@ -190,6 +190,17 @@ export default class App extends React.Component {
         "child life services." ccc parent trust building, ppp existing biz trust
         building, bbb nationalize broadband fee contractor trust building
         <br />
+        <h2>
+          Amazon: “Healthcare on day one, do what is best for our employees.”
+          Brought forward demand expiring claims is not helping.
+          <br />
+          <span style={{ fontSize: "9px" }}>
+            Krugman and I believe non-rollover are a net loss by expiring
+            claims, subscription by tech is concurrentable and collective
+            bargainable, neither like a flaccid corporate account loss nor
+            estimates&nbsp;<a href="https://qr.ae/pGqmOq">optionable</a>.
+          </span>
+        </h2>
         "marxist revolutionaries in the open, our enemies russia and china are
         building weapons," well if “Speculative into the now,” kidney harvesting
         China author, why are you inciting violence. Hasn't Putin and Xi served
