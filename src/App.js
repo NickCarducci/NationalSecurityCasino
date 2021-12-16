@@ -202,7 +202,9 @@ export default class App extends React.Component {
         rescamskiski plan in poland radical socialist elite party now people
         party, stand up an antivaxx air force. ordered to destroy democratic
         pol8cy studies, telling tom hayes he should be shot, my proudest moment,
-        making his scared with several agents around."
+        making his scared with several agents around. Counter hegemony now in
+        Italian catholics, educate then revolution,” communist talk radio guy,
+        Jimmie.
         <h2>
           credit is theft, without usury is Islamic banking, but to say credit
           cycle is Marxist
