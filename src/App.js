@@ -188,7 +188,18 @@ export default class App extends React.Component {
           truncatedsalestax.com
         </a>
         "child life services." ccc parent trust building, ppp existing biz trust
-        building, bbb nationalize broadband fee contractor trust building
+        building, bbb nationalize broadband fee contractor trust building.
+        <br />
+        <br />
+        "Racing to hire workers, and the human lifecycle, we have to get these
+        kids to work minimum wage job. I was working check to check, and getting
+        behind on my bills. May parents are seeing prices rise and wait list
+        growth. 20% have quit job for childcare, for single parent it is 35% of
+        their income. Childcare Jost were as much as rent. Waitlist, 3 years
+        long. 300k women down from pandemic, that is out of 170m. Pay no more
+        that 7% of their income, early childcare income can’t be paid less, so
+        it will take significant public funding to solve this problem,” actually
+        it only invokes work deficit for monopsony prices.
         <h2>I don't like math, I like what you can do with it.</h2>
         There is lag to 3/2020 trust building by king debt trump ppp existing
         biz. Comparative advantage tech advancement is price deflation per hour
