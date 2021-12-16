@@ -192,7 +192,6 @@ export default class App extends React.Component {
         <br />
         <br />
         <Cable
-          style={{ height: "220px" }}
           onError={handleScollImgError}
           src={
             this.state.noyoutube
@@ -526,13 +525,16 @@ export default class App extends React.Component {
         safe when they leave their homes. They want to feel safe.” D Lemon
         “Don’t listen to all the way fat left, bail reform, people who commit
         crime should be behind bars, shouldn’t be on the streets, mental health
-        and those out of the streets, and those people that have been on the
-        streets have been released after Covid. They don’t want to talk about
-        why let out, why they are there in the first place, because they won’t
-        get elected. They don’t want to come from the fringe _ _ _ crew. What is
-        happening to mental illness (sadness and homelessness? What about cap
-        rent at units or days, not price) more cops (ween jail off bonds net
-        loss profit) and more people of power to enact those policies.
+        and those out of the streets [call rent over units or days not price a
+        mental illness], and those people that have been on the streets have
+        been released after Covid. They don’t want to talk about why let out,
+        why they are there in the first place, because they won’t get elected.
+        They don’t want to come from the fringe _ _ _ crew [say
+        rollover-insurance to a psych in NJ, get locked up for 13 days, $2k/day
+        by net loss bond profit]. What is happening to mental illness (sadness
+        and homelessness? What about cap rent at units or days, not price) more
+        cops (ween jail off bonds net loss profit) and more people of power to
+        enact those policies.
         <br />
         We are not setting the stage for three hikes, if I knew I would, the
         goal is price stability and inflation are different stories, it is
