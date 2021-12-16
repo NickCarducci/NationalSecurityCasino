@@ -228,7 +228,7 @@ export default class App extends React.Component {
         get elected. They don’t want to come from the fringe _ _ _ crew. What is
         happening to mental illness (sadness and homelessness? What about cap
         rent at units or days, not price) more cops (ween jail off bonds net
-        loss profit) and more people of power to enact those policies.”
+        loss profit) and more people of power to enact those policies.
         <br />
         We are not setting the stage for three hikes, if I knew I would, the
         goal is price stability and inflation are different stories, it is
@@ -237,7 +237,7 @@ export default class App extends React.Component {
         be juiced but ccc would help those prices, but not the lender landlord
         insurer work deficit.
         <br />A greater supply of housing would reduce price pressure on shelter
-        costs, and home-contractor monopsony is no matter to my phat pussy
+        costs, and home-contractor monopsony is no matter to my phat pussy."
         <h2>
           Amazon: “Healthcare on day one, do what is best for our employees.”
           Brought forward demand expiring claims is not helping.
