@@ -209,9 +209,19 @@ export default class App extends React.Component {
             scrollTop={this.state.scrollTop}
           />
           <span style={{ fontSize: "9px" }}>
-            hospitals have lost 20% of workforce and now having a real crisis, I
-            mean if you can't have employees you can't sell your products
-            successfully, price deflation per hour be damned
+            "hospitals have lost 20% of workforce and now having a real crisis,
+            I mean if you can't have employees you can't sell your products
+            successfully, price deflation per hour be damned," mortality
+            projections and&nbsp;
+            <a href="https://humanharvest.info/polio">
+              ms matched paralytic polio
+            </a>
+            , by the numbers of accute flaccid paralysis class. YOU DID NOTHING!
+            Sewage correlates integrally with lifetime mortality anyway, as
+            does, "age-standardized-excess-deaths," when you fix for cohort
+            size, boomers are called such for a reason,&nbsp;
+            <a href="https://fred.stlouisfed.org/graph/?g=H5XB">56m/40m</a>
+            &nbsp;normalized excess 75+ 2020-2030.
           </span>
         </h2>
         "Racing to hire workers, and the human lifecycle, we have to get these
