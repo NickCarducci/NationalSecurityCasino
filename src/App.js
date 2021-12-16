@@ -226,7 +226,7 @@ export default class App extends React.Component {
         </h2>
         "Racing to hire workers, and the human lifecycle, we have to get these
         kids to work minimum wage job. I was working check to check, and getting
-        behind on my bills. May parents are seeing prices rise and wait list
+        behind on my bills. Many parents are seeing prices rise and wait list
         growth. 20% have quit job for childcare, for single parent it is 35% of
         their income. Childcare Jost were as much as rent. Waitlist, 3 years
         long. 300k women down from pandemic, that is out of 170m. Pay no more
@@ -238,7 +238,7 @@ export default class App extends React.Component {
         biz. Comparative advantage tech advancement is price deflation per hour
         productivity, is all that matters. Hours per home doubles every 5 years,
         10 home, 20 bonds m2 checking currencyComponentOfM1, 40 material. Idk
-        labor
+        labor. double employment for childcare to, "solve the problem."
         <br />
         <br />
         "Raising the debt [ceiling] spends nothing it only authorizes the
