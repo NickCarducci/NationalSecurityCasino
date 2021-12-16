@@ -194,6 +194,15 @@ export default class App extends React.Component {
         building weapons," well if “Speculative into the now,” kidney harvesting
         China author, why are you inciting violence. Hasn't Putin and Xi served
         their time already? YOU FUCKING TERRORIST
+        <br />
+        "students for democratic society hanoi vietnam gut preference for
+        disorder raskin father anti castro cubans for soviet meeting with ted
+        kennedy, kgb doing research for our government. liberal papers east
+        germany north korea and vietnam, north traty organization, umdb early
+        rescamskiski plan in poland radical socialist elite party now people
+        party, stand up an antivaxx air force. ordered to destroy democratic
+        pol8cy studies, telling tom hayes he should be shot, my proudest moment,
+        making his scared with several agents around."
         <h2>
           credit is theft, without usury is Islamic banking, but to say credit
           cycle is Marxist
