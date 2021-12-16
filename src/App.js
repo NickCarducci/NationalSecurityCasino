@@ -224,7 +224,7 @@ export default class App extends React.Component {
         Mandel dot com. I need donations from regular americans, credit is
         income. Are you thinking of home refinance, interest rates are low, take
         advantage of monthly savings. Lets look at what your goals and
-        objectives are, customize and tailor a loan for your purchase, $100 a
+        objectives are, customize and tailor a loan for your purchase, $1000 a
         month, because they look at your entire picture, not just the home. You
         can even skip two mortgage payments, to make UPFRONT savings." *slurps
         learn how to amortize retard. Probably liking rich valdes'&nbsp;
