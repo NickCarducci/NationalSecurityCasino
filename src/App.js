@@ -190,6 +190,27 @@ export default class App extends React.Component {
         "child life services." ccc parent trust building, ppp existing biz trust
         building, bbb nationalize broadband fee contractor trust building
         <br />
+        <br />
+        “Most liberal people don’t want bail er, most people want cops and feel
+        safe when they leave their homes. They want to feel safe.” D Lemon
+        “Don’t listen to all the way fat left, bail reform, people who commit
+        crime should be behind bars, shouldn’t be on the streets, mental health
+        and those out of the streets, and those people that have been on the
+        streets have been released after Covid. They don’t want to talk about
+        why let out, why they are there in the first place, because they won’t
+        get elected. They don’t want to come from the fringe _ _ _ crew. What is
+        happening to mental illness (sadness and homelessness? What about cap
+        rent at units or days, not price) more cops (ween jail off bonds net
+        loss profit) and more people of power to enact those policies.”
+        <br />
+        We are not setting the stage for three hikes, if I knew I would, the
+        goal is price stability and inflation are different stories, it is
+        pandemic expected embedded by pandemic of mortality that we actually
+        projected in 2015. It is a self-fulfilling prophecy. So inflation would
+        be juiced but ccc would help those prices, but not the lender landlord
+        insurer work deficit.
+        <br />A greater supply of housing would reduce price pressure on shelter
+        costs, and home-contractor monopsony is no matter to my phat pussy
         <h2>
           Amazon: “Healthcare on day one, do what is best for our employees.”
           Brought forward demand expiring claims is not helping.
