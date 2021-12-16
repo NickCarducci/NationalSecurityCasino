@@ -190,7 +190,34 @@ export default class App extends React.Component {
         "child life services." ccc parent trust building, ppp existing biz trust
         building, bbb nationalize broadband fee contractor trust building
         <br />
-        <br />
+        <br />"
+        <a href="https://humanharvest.info/polio">
+          A downslope, instead of an upslope
+        </a>
+        . For now, it seems like it is preventing people from hospitalizations
+        and deaths, it is a big benefit."
+        <Cable
+          style={{
+            height: "440px"
+          }}
+          onError={handleScollImgError}
+          src={
+            this.state.iosNoPhoto
+              ? ""
+              : "https://drive.google.com/file/d/1A6e4vddeJ_Dm_r8PXgczo7zgz3ZpiU3V/preview"
+          }
+          float="right"
+          title="Bernie and Sid (77WABC) - "
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 38]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        <h2>
+          character witness & state victimization of fines in scopes, then
+          consumer fraud act of nj, -less industry-variant-jury of 11/12
+          multiple (IVJOETM)
+        </h2>
         “Most liberal people don’t want bail er, most people want cops and feel
         safe when they leave their homes. They want to feel safe.” D Lemon
         “Don’t listen to all the way fat left, bail reform, people who commit
