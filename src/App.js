@@ -190,6 +190,27 @@ export default class App extends React.Component {
         "child life services." ccc parent trust building, ppp existing biz trust
         building, bbb nationalize broadband fee contractor trust building
         <br />
+        <br />
+        <Cable
+          onError={handleScollImgError}
+          src={
+            this.state.iosNoPhoto
+              ? ""
+              : "https://drive.google.com/file/d/1vWe5SAZy-pk-sdcS5mRKjZz5y-W9aBZJ/preview"
+          }
+          float="left"
+          title="National Report (Newsmax) - Ron Vitiello fmr acting ICE Director"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 40]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        "the drugs, guns and people smuggling enrich corrupt governments," stop
+        surges in past, hold people for due process. many restay with ice or
+        flee. that is why that is what happeens. that is why the flo0w is so bad
+        (6m + 3m/yr+ all immigration = legal + illegal)cvp ended the last surge,
+        and stopping that is why the [...destruction] of humanity is," Rob
+        Vatilla.
         <br />"
         <a href="https://humanharvest.info/polio">
           A downslope, instead of an upslope
@@ -209,7 +230,7 @@ export default class App extends React.Component {
           float="right"
           title="Bernie and Sid (77WABC) - "
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 38]}
+          fwd={this["scrollImg" + 39]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
