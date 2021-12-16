@@ -208,7 +208,26 @@ export default class App extends React.Component {
         , my proudest moment, making his scared with several agents around.
         Counter hegemony now in Italian catholics, educate then revolution,”
         communist talk radio guy, Jimmie.
+        <Cable
+          onError={handleScollImgError}
+          src={
+            this.state.iosNoPhoto
+              ? ""
+              : "https://drive.google.com/file/d/1V4MRqGmOVNBq-FxFzb4t0OZKSOx0eKbC/preview"
+          }
+          float="right"
+          title="Rob Schmitt (Newsmax) - debt spending"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 38]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
         <h2>
+          <span style={{ fontSize: "9px" }}>
+            “National debt will someday destroy our country. Covid mandate turn
+            supply chain issue into a full-blown crisis.”
+          </span>
+          <br />
           credit is theft, without usury is Islamic banking, but to say credit
           cycle is Marxist
           <br />
@@ -4014,4 +4033,3 @@ export default class App extends React.Component {
     );
   }
 }
-
