@@ -1589,6 +1589,17 @@ export default class App extends React.Component {
         <br />
         <br />
         <hr ref={this.trump} />
+        3m/yr+ 40m "legal" 6m "illegal"
+        <h1>
+          “We want immigration, just legal immigration. We love people, we feel
+          for them, organized, because drugs.” Chairman of RNC.
+          <br />
+          It takes like 20 years, you’re a fucking nut.
+          <br />
+          Only want bankers instead of laborers? Why do you understand
+          comparative advantage lost from union barrier to entry but not the
+          border?
+        </h1>
         <Cable
           onError={handleScollImgError}
           //img={true}
