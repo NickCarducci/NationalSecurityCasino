@@ -1589,6 +1589,9 @@ export default class App extends React.Component {
         <br />
         <br />
         <hr ref={this.trump} />
+        “Paying money to keep green card all these years, where is my refund?”
+        <br/>
+        <br/>
         3m/yr+ 40m "legal" 6m "illegal"
         <h1>
           “We want immigration, just legal immigration. We love people, we feel
