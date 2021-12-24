@@ -8,22 +8,34 @@ class Cable extends React.Component {
   componentDidUpdate = (prevProps) => {
     if (this.props.scrolling !== prevProps.scrolling) {
       const { cache } = this.state;
-      const { scrollTopAndHeight, scrollTop } = this.props;
+      const { scrollTopAndHeight, scrollTop, girth, timeout } = this.props;
+      var girt = girth ? girth : 8000;
+      var timeou = timeout ? timeout : 4000;
       var continuee = this.props.fwd.current;
       if (!continuee && !cache) return;
       clearTimeout(this.setset);
       this.setset = setTimeout(() => {
         var page = this.page.current;
         var between =
-          page.offsetTop - scrollTop > -1000 &&
-          scrollTopAndHeight - page.offsetTop > -1000;
+          page.offsetTop - scrollTop > Number(`-${girt}`) &&
+          scrollTopAndHeight - page.offsetTop > Number(`-${girt}`);
         if (!continuee) continuee = cache;
         this.setState({ cache: continuee, between }, () => {
-          if (!between) return continuee.remove();
+          if (!between && continuee) {
+            //while (page.firstChild) {
+            //page.removeChild(page.firstChild);
+            let onClick =
+              "ontouchstart" in continuee ? "touchstart" : "onclick";
+            if (continuee[onClick]) continuee.remove(); //touchevent
+            //continuee.click();
+            //}
+            return;
+          }
+          //if (!between && continuee) return continuee.remove();
           if (page.children[0] !== this.state.cache)
             page.appendChild(this.state.cache);
         });
-      }, 1000);
+      }, timeou);
     }
   };
   componentWillUnmount = () => {
