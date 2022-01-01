@@ -153,6 +153,7 @@ export default class App extends React.Component {
         style={{
           overflow: "hidden",
           width: "100%",
+          maxWidth: "600px",
           textAlign: "center",
           fontFamily: "'Quantico', sans-serif"
         }}
@@ -1590,8 +1591,8 @@ export default class App extends React.Component {
         <br />
         <hr ref={this.trump} />
         “Paying money to keep green card all these years, where is my refund?”
-        <br/>
-        <br/>
+        <br />
+        <br />
         3m/yr+ 40m "legal" 6m "illegal"
         <h1>
           “We want immigration, just legal immigration. We love people, we feel
