@@ -187,7 +187,7 @@ class Cable extends React.Component {
               alt={title}
               style={{
                 width: "100%",
-                border: !mount || src === "" ? "2px gray solid" : 0,
+                border: src === "" ? "2px gray solid" : 0,
                 height: optionalheight
                 //...this.props.style
               }}
