@@ -126,19 +126,24 @@ export default class App extends React.Component {
   };
   componentDidUpdate = (prevProps) => {
     if (this.props.pathname !== prevProps.pathname) {
-      if (this.props.pathname === "/") {
-      } else if (this.props.pathname === "/gdp") {
-        window.scroll(0, this.gdp.current.offsetTop);
-      } else if (this.props.pathname === "/trump") {
-        window.scroll(0, this.trump.current.offsetTop);
-      } else if (this.props.pathname === "/repeat-offenders") {
-        window.scroll(0, this.repeat.current.offsetTop);
-      } else if (
-        this.props.pathname === "/levin" ||
-        this.props.pathname === "/levin-blunder"
-      ) {
-        window.scroll(0, this.levin.current.offsetTop);
-      }
+      clearTimeout(this.check);
+      const check = () => {
+        if (this.props.pathname === "/") {
+        } else if (this.props.pathname === "/gdp") {
+          window.scroll(0, this.gdp.current.offsetTop);
+        } else if (this.props.pathname === "/trump") {
+          window.scroll(0, this.trump.current.offsetTop);
+        } else if (this.props.pathname === "/repeat-offenders") {
+          window.scroll(0, this.repeat.current.offsetTop);
+        } else if (
+          this.props.pathname === "/levin" ||
+          this.props.pathname === "/levin-blunder"
+        ) {
+          window.scroll(0, this.levin.current.offsetTop);
+        }
+      };
+      check();
+      this.check = setTimeout(check, 4000);
     }
   };
   render() {
@@ -148,6 +153,8 @@ export default class App extends React.Component {
         this.setState({ settleDropboxFree: true });
       }
     };
+
+    const space = " ";
     return (
       <div
         style={{
@@ -235,16 +242,16 @@ export default class App extends React.Component {
             "hospitals have lost 20% of workforce and now having a real crisis,
             I mean if you can't have employees you can't sell your products
             successfully, price deflation per hour be damned," mortality
-            projections and&nbsp;
+            projections and{space}
             <a href="https://humanharvest.info/polio">
               ms matched paralytic polio
             </a>
             , by the numbers of accute flaccid paralysis class. YOU DID NOTHING!
             Sewage correlates integrally with lifetime mortality anyway, as
             does, "age-standardized-excess-deaths," when you fix for cohort
-            size, boomers are called such for a reason,&nbsp;
+            size, boomers are called such for a reason,{space}
             <a href="https://fred.stlouisfed.org/graph/?g=H5XB">56m/40m</a>
-            &nbsp;normalized excess 75+ 2020-2030.
+            {space}normalized excess 75+ 2020-2030.
           </span>
         </h2>
         "Racing to hire workers, and the human lifecycle, we have to get these
@@ -448,11 +455,11 @@ export default class App extends React.Component {
         later. The arresting officer has all the evidence you'll ever get
         anyway.
         <br />
-        "$15k worth of merchandise on bid, then sold on a&nbsp;
+        "$15k worth of merchandise on bid, then sold on a{space}
         <a href="https://www.quora.com/profile/Nick-Carducci">
           fraction of a price
         </a>
-        &nbsp;on facebook marketplace." Christina Thomson in the newsroom.
+        {space}on facebook marketplace." Christina Thomson in the newsroom.
         Kristina, Thanks
         <br />
         <Cable
@@ -474,7 +481,7 @@ export default class App extends React.Component {
         flee. that is why that is what happeens. that is why the flo0w is so bad
         (+ 3m/yr+ all immigration = 40m legal + 6m illegal) cvp ended the last
         surge, and stopping that is why the [...destruction] of humanity is,"
-        Ron Vitiello,&nbsp;
+        Ron Vitiello,{space}
         <a href="https://teapharmacy.party/drugs">with dog</a>
         .
         <br />"
@@ -553,7 +560,8 @@ export default class App extends React.Component {
             Krugman and I believe non-rollover are a net loss by expiring
             claims, subscription by tech is concurrentable and collective
             bargainable, neither like a flaccid corporate account loss nor
-            estimates&nbsp;<a href="https://qr.ae/pGqmOq">optionable</a>.
+            estimates{space}
+            <a href="https://qr.ae/pGqmOq">optionable</a>.
           </span>
         </h2>
         "marxist revolutionaries in the open, our enemies russia and china are
@@ -601,11 +609,11 @@ export default class App extends React.Component {
             third party beneficiary donee claimable, or else!
           </span>
         </h2>
-        "We'll focus on the percentage of people by state&nbsp;
+        "We'll focus on the percentage of people by state{space}
         <a href="https://worldpopulationreview.com/state-rankings/voter-turnout-by-state">
           that showed up
         </a>
-        &nbsp;for the last presidential election. Highest % VEP New Jersey
+        {space}for the last presidential election. Highest % VEP New Jersey
         (84.58%) Lowest % VEP Arkansas (62.00%)," not only are candidates never
         available that present anti rent seeker ideas, parties are ideological
         duress. this is skewed away from verifiable consent, and doesn't even
@@ -616,32 +624,34 @@ export default class App extends React.Component {
         growth. Attributed to trump oil and coal mining, first time in my
         lifetime to take on communist china running rimshot over democratic and
         republican economic cheaters in uspto defectors and open source
-        fundamentalists. ...These&nbsp;
-        <a href="https://nationalsecuritycasino.com/">illegals</a>&nbsp;coming
-        across the border. First act they are coming across the border is a
-        felony, crime, that should be punished. The leftist media thinks america
-        first is a campaign slogan. It was a trump doctrines, putting Americans
-        ahead of foreigners. It is not that we hate foreigners, it is about
-        putting the safety and jobs of our people, first. ...Democrats and
-        Republican rhinos often trample over our constitutional rights. I want
-        fighters like Ted Cruz, Jim Jordan, Donald Trump, and myself, Josh
-        Mandel dot com. I need donations from regular americans, credit is
-        income. Are you thinking of home refinance, interest rates are low, take
-        advantage of monthly savings. Lets look at what your goals and
-        objectives are, customize and tailor a loan for your purchase, $1000 a
-        month, because they look at your entire picture, not just the home. You
-        can even skip two mortgage payments, to make UPFRONT savings." *slurps
-        learn how to amortize retard. Probably liking rich valdes'&nbsp;
-        <a href="https://nationalsecuritycasino.com/levin">taint</a>&nbsp;as I
-        type and just is replaying this tape.
+        fundamentalists. ...These{space}
+        <a href="https://nationalsecuritycasino.com/">illegals</a>
+        {space}coming across the border. First act they are coming across the
+        border is a felony, crime, that should be punished. The leftist media
+        thinks america first is a campaign slogan. It was a trump doctrines,
+        putting Americans ahead of foreigners. It is not that we hate
+        foreigners, it is about putting the safety and jobs of our people,
+        first. ...Democrats and Republican rhinos often trample over our
+        constitutional rights. I want fighters like Ted Cruz, Jim Jordan, Donald
+        Trump, and myself, Josh Mandel dot com. I need donations from regular
+        americans, credit is income. Are you thinking of home refinance,
+        interest rates are low, take advantage of monthly savings. Lets look at
+        what your goals and objectives are, customize and tailor a loan for your
+        purchase, $1000 a month, because they look at your entire picture, not
+        just the home. You can even skip two mortgage payments, to make UPFRONT
+        savings." *slurps learn how to amortize retard. Probably liking rich
+        valdes'{space}
+        <a href="https://nationalsecuritycasino.com/levin">taint</a>
+        {space}as I type and just is replaying this tape.
         <h2>
           <span style={{ fontSize: "9px" }}>
             tranquility and voluntry trade
           </span>
           <br />
-          Notice the, here we have a lender landlord insurer worker deficit;
-          a&nbsp;<a href="https://teapharmacy.party/drugs">white society</a>, in
-          the water. dems/walgreens are drug lords
+          Notice the, here we have a lender landlord insurer worker deficit; a
+          {space}
+          <a href="https://teapharmacy.party/drugs">white society</a>, in the
+          water. dems/walgreens are drug lords
           <br />
           <span style={{ fontSize: "9px" }}>
             "they need to character evidence to destroy the fabricators of
@@ -658,7 +668,7 @@ export default class App extends React.Component {
         shocks beyond april and june. the notion that economy does well is boom
         then inflation, it is count unemployed is close to 10%, if you take 190m
         open jobs actually out there on the bid. Home prices of foreigners is a
-        national security issue, why do we care? They deport&nbsp;
+        national security issue, why do we care? They deport{space}
         <a href="https://qr.ae/pGqeJd">inflation</a>. Long term, we are
         hollowing out the economy; well they make 90% of the batteries for the
         electric cars. My last policy under the Trump admin was to 'Buy
@@ -669,7 +679,7 @@ export default class App extends React.Component {
         reason for a convict-free intranet emulated by on-device, end-to-end and
         tamper-proof, grid-dns rights, all authenticated by login.gov. That
         would solve the drug war between the people and walgreens/state as well
-        as&nbsp;
+        as{space}
         <a href="https://nationalsecuritycasino.com/repeat-offenders">
           missing children
         </a>
@@ -782,11 +792,11 @@ export default class App extends React.Component {
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
-        “No one predicted&nbsp;
+        “No one predicted{space}
         <a href="https://humanharvest.info/testing">omicron</a>, the majority of
         people want vaccinations and masks,” every Darwinist, or protistologist,
         or part-based evolutionary and taxonomist did, that is not how science
-        is made, you need to put the evidence in front of a&nbsp;
+        is made, you need to put the evidence in front of a{space}
         <a href="https://humanharvest.info/testing">industry various jury</a>.
         The fallacy everyone except myself fell for is that virus is not an
         evolutionary trait not “reproduced” per prevalence only with cell, but
@@ -845,7 +855,7 @@ export default class App extends React.Component {
         <br />
         What is your basis of that other than population growth a life
         expectancy ago? Are you ageist when I say it? You’re a fucking dull
-        headed moron, you should&nbsp;
+        headed moron, you should{space}
         <a href="https://teapharmacy.party/drugs">toke one</a>.
         <br />
         "Excessive vanity or anger," is your problem douche. The right are
@@ -878,7 +888,7 @@ export default class App extends React.Component {
         <br />
         <br />
         NATO is a defensive threat, like open-carry (put it in luggage). Why
-        wouldn't we defend Russia if they get attacked? We should be&nbsp;
+        wouldn't we defend Russia if they get attacked? We should be{space}
         <a href="https:/truncatedsalestax.com">local anyway</a>.
         <br />
         <br />
@@ -1144,7 +1154,7 @@ export default class App extends React.Component {
         <br />
         <br />
         “To get decent housing with credit, it requires social acceptability
-        score,” Dick Morris oblivious to&nbsp;
+        score,” Dick Morris oblivious to{space}
         <a href="https://www.investopedia.com/ask/answers/031815/why-are-there-no-profits-perfectly-competitive-market.asp">
           economics
         </a>
@@ -1155,7 +1165,7 @@ export default class App extends React.Component {
         How when $32/day/p new debt and $.18/day/p new checking
         currencyComponentOfM1? Target margin consumer surrogate, do not
         nationalize you bipartisan prick. “...what happens when the money they
-        put into the market is&nbsp;
+        put into the market is{space}
         <a href="https://nationalsecuritycasino.com/levin-blunder">
           getting screwed up
         </a>
@@ -1207,8 +1217,8 @@ export default class App extends React.Component {
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
-        “You’re not gonna need a&nbsp;<a href="https://moldmask.co">mask</a>,
-        that wasn’t true at&nbsp;
+        “You’re not gonna need a{space}
+        <a href="https://moldmask.co">mask</a>, that wasn’t true at{space}
         <a href="https://www.politifact.com/factchecks/2020/jun/15/facebook-posts/claim-n95-masks-cant-stop-covid-19-particles-due-s/">
           all
         </a>
@@ -1240,8 +1250,9 @@ export default class App extends React.Component {
         combat is not behind a computer screen.
         <br />
         <br />
-        We do know that&nbsp;<a href="https://carducci.us/videos">Hitler</a>
-        &nbsp;spent a lot and promised to drain{/**hobocode */} the swamp like
+        We do know that{space}
+        <a href="https://carducci.us/videos">Hitler</a>
+        {space}spent a lot and promised to drain{/**hobocode */} the swamp like
         Trump.
         <br />
         <br />
@@ -1284,7 +1295,7 @@ export default class App extends React.Component {
         deficit, but there is lender landlord and insurer work deficit.
         <br />
         20x/person 55+/millennials; half continuing claims and most disability,
-        because they&nbsp;
+        because they{space}
         <span role="img" aria-label="cancel tan-old-man">
           🚫👨🏽‍🦳
         </span>
@@ -1358,12 +1369,13 @@ export default class App extends React.Component {
         they want to abuse their body, we will help them." Listen you old-cunt,
         It is not "soft" to not put yourself in danger but get high. My body is
         better and your son couldn't get voluntary customers so had to get a
-        government job&nbsp;
+        government job{space}
         <span role="img" aria-label="side-splitting-laughter">
           🤣
         </span>
         <h2>
-          <a href="https://vaults.biz">Marijuana</a>&nbsp;is a gateway currency
+          <a href="https://vaults.biz">Marijuana</a>
+          {space}is a gateway currency
           <br />
           <span style={{ fontSize: "9px" }}>
             (bank depositary, concurrentable, like perfectly-durable and
@@ -1404,7 +1416,7 @@ export default class App extends React.Component {
         have no problem with medical marijuana, as long as it is moderated by a
         medical doctor,” so you are going to allow alcohol without marijuana
         medical use? For anxiety? Everyone can benefit from amphetamines in the
-        water too, concentration would&nbsp;
+        water too, concentration would{space}
         <a href="https://teapharmacy.party/drugs">SKYROCKET</a>. "Supervision of
         medical professionals who use marijuana to not have anxiety,” is
         self-reported, character-“witness” not evidence of a crime or prevalence
@@ -1437,11 +1449,11 @@ export default class App extends React.Component {
         "FCF what it allows companies to do, cap ex, investing for the future
         <br />
         600x in finance, 1x book of assets without third party beneficiary donee
-        claimable income…&nbsp;
+        claimable income…{space}
         <a href="https://fred.stlouisfed.org/graph/?g=JLa3">
           bankers will be serfs
         </a>
-        &nbsp;after cash:debt*income thru history… damn we would have to
+        {space}after cash:debt*income thru history… damn we would have to
         discriminate literally."
         <br />
         <br />
@@ -1511,14 +1523,14 @@ export default class App extends React.Component {
         Dick Morris: “Functional equivalent of a declaration of war, ended up
         failing because it didn’t have enough assets appraised by third party
         beneficiary repo kept down payments, if you have money but cannot use it
-        in the swift system, you don’t have any money. French&nbsp;
-        <a href="https://nationalsecuritycasino.com/gdp">gdp/p</a>&nbsp;is the
-        greatest.”
+        in the swift system, you don’t have any money. French{space}
+        <a href="https://nationalsecuritycasino.com/gdp">gdp/p</a>
+        {space}is the greatest.”
         <br />
         <br />
-        "If we can get a durable good expenditure, that would be&nbsp;
+        "If we can get a durable good expenditure, that would be{space}
         <span style={{ textDecoration: "line-through" }}>bullish for</span>
-        &nbsp; market concentration by price/equality,"
+        {space} market concentration by price/equality,"
         <br />
         <br />
         <Cable
@@ -1538,7 +1550,7 @@ export default class App extends React.Component {
         “Tax increases that will lose 100k jobs, and slow our economic growth.”
         taxes from outside the market make more jobs for less
         price-deflation-productivity. gdp/p amidst 3% p/yr+ before federal
-        reserve was&nbsp;
+        reserve was{space}
         <a href="https://nationalsecuritycasino.com/gdp">nearly constant</a>
         <h2>
           market-communist, court-backed price-fixed, third party beneficiary
@@ -1666,10 +1678,11 @@ export default class App extends React.Component {
         suppliers can wait, yet demand can no longer negotiate.
         <h2>
           “[Withholding oil on free-rider-mutable, collectively-flaccid,
-          federally-cornered lands] to make&nbsp;
-          <a href="https://magnate.company">electric</a>&nbsp;more appealing.
-          ...Inflating currency makes inflation.” Rental-income isn't income?
-          Bonds aren't assets? Homes aren't meant to be owned outright?
+          federally-cornered lands] to make{space}
+          <a href="https://magnate.company">electric</a>
+          {space}more appealing. ...Inflating currency makes inflation.”
+          Rental-income isn't income? Bonds aren't assets? Homes aren't meant to
+          be owned outright?
         </h2>
         Inflation overwhelms wages, “in the long term,” by profits from lender
         work deficit, and wages move in the first place because guys like Grover
@@ -1735,7 +1748,7 @@ export default class App extends React.Component {
         servicing.
         <br />
         <br />
-        “There is never enough money to pay for theory, and&nbsp;
+        “There is never enough money to pay for theory, and{space}
         <a href="https://www.marxists.org/archive/marx/works/1848/communist-manifesto/ch02.htm">
           Marxism
         </a>
@@ -1859,8 +1872,8 @@ export default class App extends React.Component {
         Margin-targeting R&D loss is for only the existing business. You aren’t
         counting the transitive property of that intermediate R&D for new
         business from labor, with, otherwise, no time to invent.
-        <br />"<a href="https://teapharmacy.com">Clinical trials</a>&nbsp;is the
-        largest r&d expenditure."
+        <br />"<a href="https://teapharmacy.com">Clinical trials</a>
+        {space}is the largest r&d expenditure."
         <br />
         <br />
         Poofitability not withheld for flaccid collective loss, is income
@@ -1924,7 +1937,7 @@ export default class App extends React.Component {
         electron microscope snapshot with bacteria or mitosis of already
         infected spread isn't proof otherwise.
         <h2>
-          you aren't counting&nbsp;
+          you aren't counting{space}
           <a href="https://www.fda.gov/media/144245/download#page=42">
             all cases
           </a>
@@ -1936,7 +1949,7 @@ export default class App extends React.Component {
           antibodies to stop blood clotting but not infection of prevalence
           without transmission. prevalence does not transmission-cause make.
         </h2>
-        after 2008, home-contractor household, I ventured to understand&nbsp;
+        after 2008, home-contractor household, I ventured to understand{space}
         <a href="https://youtu.be/W-Vv1vysGzE">market history and propoganda</a>
         , writing to admissions my desire to look into Chinese film. First time
         I realized economics JHU favors collective flaccid loss to per hour ease
@@ -2111,7 +2124,7 @@ export default class App extends React.Component {
         <br />
         Repo cycle kept down payments still third party beneficiary donee
         claimable even without fractional reserve doesn't stop fractional
-        reserve in contract&nbsp;
+        reserve in contract{space}
         <span role="img" aria-label="bottom-left squirrel white-circle">
           ️↙🐿⚪️
         </span>
@@ -2145,7 +2158,7 @@ export default class App extends React.Component {
           "dnc politicians are rnc voters"
           <br />
           <span style={{ fontSize: "9px" }}>
-            Racism: the cause of the&nbsp;
+            Racism: the cause of the{space}
             <a href="https://nationalsecuritycasino.com/trump">
               labor shortage
             </a>
@@ -2170,9 +2183,9 @@ export default class App extends React.Component {
           />
           corporate and free rider mutable tax collective flaccid loss
         </h2>
-        "...nurses, those jobs are out there,&nbsp;
+        "...nurses, those jobs are out there,{space}
         <a href="https://fred.stlouisfed.org/graph/?g=H5XB">labor market</a>
-        &nbsp;is strong in that regard," says Stephen Moore, but it is not
+        {space}is strong in that regard," says Stephen Moore, but it is not
         strong as per hour productivity (price-deflation of assets, inflation
         and intermediate-labor).
         <br />
@@ -2319,7 +2332,7 @@ export default class App extends React.Component {
         <a href="https://www.arc.gov/staff/federal-co-chair-gayle-conelly-manchin/">
           Appalachian Regional Commission
         </a>
-        &nbsp;rent seeking free rider mutable maintainable
+        {space}rent seeking free rider mutable maintainable
         feeable/operating-costable, Gov gentrification monopsony is mere price
         inflation unless large enough collective bargain without estimating and
         flaccid collective loss
@@ -2349,16 +2362,16 @@ export default class App extends React.Component {
         that people don't want to work, though why would you work against
         $32/day debt? that's retarded
         <h2>ccc bbb ppp trust-building parent contractor existing-biz</h2>
-        60%&nbsp;
+        60%{space}
         <span style={{ backgroundColor: "black", color: "white" }}>
           Free rider mutable
         </span>
-        &nbsp;from outside the market inflationary tax 1/4 1/4 1/4 premium
-        pentagon pensions 40% debt spending&nbsp;
+        {space}from outside the market inflationary tax 1/4 1/4 1/4 premium
+        pentagon pensions 40% debt spending{space}
         <a href="https://law.justia.com/cases/california/supreme-court/3d/11/394.html">
           Third party beneficiary donee claimable
         </a>
-        &nbsp;is useless price inelasticity and r&d monopsony by private and
+        {space}is useless price inelasticity and r&d monopsony by private and
         public
         <br />
         <br />
@@ -2413,7 +2426,7 @@ export default class App extends React.Component {
         <a href="https://github.com/NickCarducci/mastercard-backbank/tree/main/src">
           credit
         </a>
-        &nbsp;is theft/<a href="https://thumbprint.us/payments">haram</a>,
+        {space}is theft/<a href="https://thumbprint.us/payments">haram</a>,
         gdp/down 11/1 is not a job
         <br />
         <br />
@@ -2449,7 +2462,7 @@ export default class App extends React.Component {
         claiming "plausible deniability" of knowledge as the right and top left
         often do.
         <h2>
-          Amanda Devine:&nbsp;
+          Amanda Devine:{space}
           <span style={{ textDecoration: "underline" }}>
             Laptop(s) from Hell
           </span>
@@ -2487,11 +2500,11 @@ export default class App extends React.Component {
           finite producers is not sufficient for perfect equillibrium of
           demand-exclusivity-of-labor, or outlaid t-0 (time zero)
         </h2>
-        "Virus don't want to&nbsp;
+        "Virus don't want to{space}
         <a href="https://www.genome.gov/genetics-glossary/Virus#:~:text=Viruses%20must%20infect%20cells%20and,been%20found%20everywhere%20on%20Earth.">
           kill
         </a>
-        &nbsp;you, they want to&nbsp;
+        {space}you, they want to{space}
         <a href="https://youtu.be/Weqb9KrQ-TU?t=21">survive</a>. In 1918, my
         grandfather died of starvation at 35,"
         <br />
@@ -2520,14 +2533,14 @@ export default class App extends React.Component {
           scrollTop={this.state.scrollTop}
         />
         <h2>
-          save the supply chain: don't be racist&nbsp;
+          save the supply chain: don't be racist{space}
           <span style={{ fontSize: "14px" }}>teapharmacy.party</span>
         </h2>
-        “We need to get China out of the DOD, it is&nbsp;
+        “We need to get China out of the DOD, it is{space}
         <a href="https://constitutioncenter.org/interactive-constitution/article/article-iii#article-section-3">
           long
         </a>
-        &nbsp;overdue,” Kimmick
+        {space}overdue,” Kimmick
         <br />
         <a
           style={{
@@ -2593,7 +2606,7 @@ export default class App extends React.Component {
         <br />
         <span style={{ fontSize: "9px" }}>
           <a href="https://fred.stlouisfed.org/graph/?g=JE8F">compound</a>
-          &nbsp;starting at&nbsp;
+          {space}starting at{space}
           <a href="https://fred.stlouisfed.org/graph/?g=JEcT">zero</a>, begets
           more investment required. repo-cycle corrects unless the fractional
           reserve park deeds bails out libertarians.
@@ -2699,10 +2712,10 @@ export default class App extends React.Component {
         bacterial infection, prevalence byproduct, warning mechanism or cause.
         <br />
         <br />
-        “If China sends us another virus that&nbsp;
-        <a href="https://humanharvest.info">kills</a>&nbsp;hundreds of
-        thousands, then we need to be tactical, but ground war is stupid in this
-        day and age,”
+        “If China sends us another virus that{space}
+        <a href="https://humanharvest.info">kills</a>
+        {space}hundreds of thousands, then we need to be tactical, but ground
+        war is stupid in this day and age,”
         <br />
         <br />
         rick grenell thinks utility can be owned
@@ -2745,7 +2758,7 @@ export default class App extends React.Component {
             “Nice big present from the United States,” says Schmitt about Saver
             equity, sounding very
           </span>
-          &nbsp;national-market-communist. It’s only tech advanced comparative
+          {space}national-market-communist. It’s only tech advanced comparative
           advantagable self harm, I tell you
         </h2>
         <br />
@@ -2772,19 +2785,19 @@ export default class App extends React.Component {
           style={{ width: "300px", float: "right" }}
           tweetId="1421858300979732480"
         />
-        “Against medical advice&nbsp;
+        “Against medical advice{space}
         <a href="https://www.biblegateway.com/passage/?search=1%20John%202%3A22&version=KJV">
           religious
         </a>
-        &nbsp;or medical, here is your badge or here is[ your freedom],” Alan
+        {space}or medical, here is your badge or here is[ your freedom],” Alan
         jackson firefighter crafted
         <br />
         <h2>
-          no consent between&nbsp;
+          no consent between{space}
           <a href="https://teapharmacy.party">
             wall st pharma cop v wall st pharma cop
           </a>
-          &nbsp;plural minority collusion; stay at home moms aren't my base
+          {space}plural minority collusion; stay at home moms aren't my base
         </h2>
         <Cable
           style={{
@@ -2854,12 +2867,12 @@ export default class App extends React.Component {
         “80m human beings killed in WWII, greatest generation, greatest value
         system. I was raised in a greatest generation home. 80 years ago,
         today,” slighting 2015- 75+ 1.2m/yr+ as excess deaths age standardized
-        cohort gains expected fraud pandemic. The&nbsp;
-        <a href="https://thumbprint.us/voting">election</a>&nbsp;was
-        stolen,&nbsp;
-        <a href="https://saverparty.xyz">saver money</a>&nbsp;was stolen, and
-        intermediate labor is stolen by estimates of expiring claims and r&d
-        monopsony.
+        cohort gains expected fraud pandemic. The{space}
+        <a href="https://thumbprint.us/voting">election</a>
+        {space}was stolen,{space}
+        <a href="https://saverparty.xyz">saver money</a>
+        {space}was stolen, and intermediate labor is stolen by estimates of
+        expiring claims and r&d monopsony.
         <br />
         <br />
         <Cable
@@ -3049,7 +3062,7 @@ export default class App extends React.Component {
           <br />
           <span style={{ fontSize: "20px" }}>
             inflation and gini doesn’t propensity-fix, nor count homes,
-            courted-bonds or&nbsp;
+            courted-bonds or{space}
             <a href="https://carducci.us">collateral-repo-and-down</a>
           </span>
           <br />
@@ -3084,7 +3097,7 @@ export default class App extends React.Component {
         can take whatever property they want
         <br />
         <br />
-        Love, comfort, and tranquility; m1v1===m2v2=gdp&nbsp;&nbsp;&nbsp;/yr
+        Love, comfort, and tranquility; m1v1===m2v2=gdp{space}/yr
         <br />
         <br />
         <Cable
@@ -3109,8 +3122,8 @@ export default class App extends React.Component {
         Here I capture the accusations away from mentally-crazy or sick, but
         “unhealthy,” understanding $3k/year/person new debt is created by people
         with high cash flow and burn, as opposed to me, an
-        open-source-contributor&nbsp;&bull;&nbsp;40% debt spending and free
-        rider mutable tax for no less than monopsonyand the same &nbsp;
+        open-source-contributor{space}&bull;{space}40% debt spending and free
+        rider mutable tax for no less than monopsonyand the same {space}
         <a href="https://micro-theory.com">intermediate-goods</a>
         <br />
         <br />
@@ -3139,7 +3152,7 @@ export default class App extends React.Component {
           style={{ border: "none" }}
           allowFullScreen
         ></iframe>
-        p2p dns router:&nbsp;
+        p2p dns router:{space}
         <a href="https://support.apple.com/en-us/HT202303">
           apple/fb cloud keys end-to-end enbunction
         </a>
@@ -3156,7 +3169,7 @@ export default class App extends React.Component {
             color: "white"
           }}
         >
-          debt-reversed by&nbsp;
+          debt-reversed by{space}
           <a
             style={{
               color: "rgb(197, 179, 88)"
@@ -3165,11 +3178,11 @@ export default class App extends React.Component {
           >
             public-park-dollars 20% fed lands
           </a>
-          &nbsp; occupy wall st/gov is free market communism;&nbsp;
+          {space} occupy wall st/gov is free market communism;{space}
           <a href="https://vaults.biz" style={{ color: "white" }}>
             86 credit as income
           </a>
-          , free rider mutable tax &&nbsp;
+          , free rider mutable tax &{space}
           <a href="https://30under5.us" style={{ color: "white" }}>
             implausible landlord use
           </a>
@@ -3180,8 +3193,9 @@ export default class App extends React.Component {
             backgroundColor: "rgb(180,200,255)"
           }}
         >
-          <span style={{ color: "red" }}>c1970 half-life</span>&nbsp;.5x
-          unemployed to population, 10x price/hours more hours for median home
+          <span style={{ color: "red" }}>c1970 half-life</span>
+          {space}.5x unemployed to population, 10x price/hours more hours for
+          median home
           <br />
           {/*this.state.width && <Misses width={this.state.width} />*/}
           <a
@@ -3199,7 +3213,7 @@ export default class App extends React.Component {
           <br />
           dns routing twaddle and
           <br />
-          allow apple to misrepresent&nbsp;
+          allow apple to misrepresent{space}
           <a href="https://thumbprint.us/phone">privacy</a>
         </div>
         <hr ref={this.repeat} />
@@ -3225,7 +3239,7 @@ export default class App extends React.Component {
           </div>
           <br />
           <br />
-          boycotting credit as income, you cannot&nbsp;
+          boycotting credit as income, you cannot{space}
           <a href="https://saverparty.xyz">get everything</a>[, in reference to
           the infrastructure spending bill], it's just not possible," kilmeade.
           education is trade secrets, patents are rent seeking (no utility is
@@ -3240,7 +3254,7 @@ export default class App extends React.Component {
               WebkitTextStroke: "1 rgb(197, 179, 88)"
             }}
           >
-            Teapharmacy.party &&nbsp;
+            Teapharmacy.party &{space}
             <a
               href="https://froth.app"
               style={{
@@ -3271,8 +3285,9 @@ export default class App extends React.Component {
           Nj transit “flex pass” collective bargain rollover tech A-OK
           <br />
           <br />
-          <a href="https://magnate.company">green new deal</a>&nbsp;would be to
-          cash:debt*income back to 1908 and timelesspaydayroyalty
+          <a href="https://magnate.company">green new deal</a>
+          {space}would be to cash:debt*income back to 1908 and
+          timelesspaydayroyalty
           <br />
           <br />
           330m/8b UBI is racist, 20x 55+/millennial-rental-income per capita is
@@ -3281,7 +3296,7 @@ export default class App extends React.Component {
           foreign owned debt "investing" of taxable-free-rider-immutable instead
           of timelesspaydayroyalty by industry-type not general-income
           <br />
-          That's $32/day per person,&nbsp;
+          That's $32/day per person,{space}
           <a href="https://wavv.art/forumCUiXE5xjbwE6WfLqf58K">
             $1/day* for Afghanistan alone *Markey
           </a>
@@ -3296,14 +3311,14 @@ export default class App extends React.Component {
           <br />
           15m excess deaths expected thru Great Leap Forward by population
           growth alone #InsuranceConflictOfInterests #RolloverInsurance
-          #InvoicesAreTheft basis for #HonorSystemSignatures instead of&nbsp;
+          #InvoicesAreTheft basis for #HonorSystemSignatures instead of{space}
           <a href="https://thumbprint.us/voting">#ArrayArrays</a>
           <br />
           <br />
           Abstain public officials on holdings, no #PatternDayTrading 2 week
           anonymity with sec backdoor
           <br />
-          "contribute, not coerce," truncatedsalestax.com 30under5.us&nbsp;
+          "contribute, not coerce," truncatedsalestax.com 30under5.us{space}
           <span style={{ color: "grey" }}>3under2.us</span>
           <br />
           Do not assume guilt by association, Article 4 receipt scope is by
@@ -3382,13 +3397,13 @@ export default class App extends React.Component {
             <a href="https://constitutioncenter.org/interactive-constitution/amendment/amendment-ii">
               Amendment 2
             </a>
-            &nbsp; says nothing about private property, Jack Posebic. Isn't he
+            {space} says nothing about private property, Jack Posebic. Isn't he
             paid by CHINA? Cops are to recover-as-is & torts cover bid-price of
             sale without current debt-inelasticity value-met either
             <br />
             <br />
             He continues, "Jury was removed because they presumed-guilt for
-            dismay with that weapon,&nbsp;
+            dismay with that weapon,{space}
             <a href="https://saverparty.xyz/kyle">neglectful of intent</a>."
           </div>
           <div
@@ -3398,14 +3413,14 @@ export default class App extends React.Component {
               left: "100px"
             }}
           >
-            #BondZero &bull; #HungJury &bull;&nbsp;
+            #BondZero &bull; #HungJury &bull;{space}
             <a href="https://stackoverflow.com/a/69812518/11711280">
               #TruncatedSalesTax
             </a>
-            &nbsp;&bull; &nbsp;#FundSewagePolice &nbsp; convict-intranet
+            {space}&bull; {space}#FundSewagePolice {space} convict-intranet
             tamperproof dns, ArrayArrays &bull; #ReverseM2 &bull;
-            #MillennialIncomeDeficit &bull;&nbsp;#GovernmentGentrification
-            &bull; #FreePeopleLawsuits &bull;&nbsp;#ConflictOfInterests &bull;
+            #MillennialIncomeDeficit &bull;{space}#GovernmentGentrification
+            &bull; #FreePeopleLawsuits &bull;{space}#ConflictOfInterests &bull;
             #ClassPrecedenceMalfeasance &bull; #ConstantGDPoverPopulation
             <br />
             DEA/Walgreens, concentration #AmphetaminesAreMoney
@@ -3425,9 +3440,9 @@ export default class App extends React.Component {
               <a href="https://2052.live">2052.live</a>
             </div>
           </div>
-          barrier to entry to&nbsp;
+          barrier to entry to{space}
           <a href="https://laborequity.org">get drugs</a>
-          &nbsp;#ConsumerTwitter and have legal rights rallying cry can be "
+          {space}#ConsumerTwitter and have legal rights rallying cry can be "
           <a href="https://micro-theory.com">hung jury</a>"
           <TwitterTweetEmbed
             style={{ width: "300px", float: "right" }}
@@ -3455,9 +3470,10 @@ export default class App extends React.Component {
             doing great!"
             <br />
             <br />
-            "Yeah, anti-vaxxers are lunatics,&nbsp;
-            <a href="https://vaults.biz">10x price/hours to 1970</a>&nbsp;is how
-            I determine your InvoluntaryCommitment anyway, tie him to a table"
+            "Yeah, anti-vaxxers are lunatics,{space}
+            <a href="https://vaults.biz">10x price/hours to 1970</a>
+            {space}is how I determine your InvoluntaryCommitment anyway, tie him
+            to a table"
             <br />
             <br />
             <span style={{ textDecoration: "underline" }}>
@@ -3499,7 +3515,7 @@ export default class App extends React.Component {
           </div>
           <br />
           <span style={{ textDecoration: "underline" }}>
-            geohash-transaction-line &nbsp;
+            geohash-transaction-line {space}
             <a href="https://codesandbox.io/s/dark-firefly-yd9vi?file=/netlify/functions/src/index.js">
               sandbox
             </a>
@@ -3517,24 +3533,26 @@ export default class App extends React.Component {
             <a href="https://vaults.biz">standing</a> for{" "}
             <a href="https://micro-theory.com">escalation</a>
             <br />
-            carface&nbsp;<a href="https://truncatedsalestax.com">Jamie Dimon</a>
-            &nbsp;like&nbsp;<a href="https://teapharmacy.party">Floyd</a>
+            carface{space}
+            <a href="https://truncatedsalestax.com">Jamie Dimon</a>
+            {space}like{space}
+            <a href="https://teapharmacy.party">Floyd</a>
           </div>
           malfeasance of cops turns castle doctrine of equity - accrual &
           non-rollover #ConsumerTwitter #FreePeopleLawsuits #TruncatedSalesTax
           grocery 3%-percentile average-indexed-purchases #FundSewagePolice
           vaults.biz vau.money:~: geohash transaction-line voting by ArrayArrays
           [public-id, way*device2device-key], tamper-proof-non convict grid
-          [thumbprint.us/privacy,&nbsp;
+          [thumbprint.us/privacy,{space}
           <a href="https://saverparty.xyz">saverparty.xyz</a>] Article3
           Tranquility Involuntary-Servitude Third-Party-Beneficiary
           <hr ref={this.gdp} />
           <GDP width={this.state.width} />
-          when you launder, it doesn't matter what you&nbsp;
+          when you launder, it doesn't matter what you{space}
           <a href="https://www.dailystar.co.uk/news/weird-news/nasa-space-news-iss-fake-16818740">
             spend money on
           </a>
-          &nbsp;no-surrender in&nbsp;
+          {space}no-surrender in{space}
           <a href="https://github.com/NickCarducci/react-local-firebase/blob/master/license.lz.txt">
             contract law
           </a>
@@ -3642,11 +3660,12 @@ export default class App extends React.Component {
           wages #taxes 
         */}
           In one breathe democrats will say the government assets belong to the
-          poeople and another that they are not operating a monopsony,&nbsp;
-          <a href="https://3under2.us">unnecessarily</a>&nbsp;Pubs are trickle
-          down, Dems are ubi-bail-out, Berts are fractional-reserve hypocrites
-          and&nbsp;
-          <a href="https://micro-theory.com">Savers are fair & honest</a>&nbsp;
+          poeople and another that they are not operating a monopsony,{space}
+          <a href="https://3under2.us">unnecessarily</a>
+          {space}Pubs are trickle down, Dems are ubi-bail-out, Berts are
+          fractional-reserve hypocrites and{space}
+          <a href="https://micro-theory.com">Savers are fair & honest</a>
+          {space}
           (in-non-duress/-fraud/
           <a href="https://30under5.us">
             -intent-to-harm-not-improve-plausibly-to-oneself-many-units-or-stores
@@ -3664,7 +3683,7 @@ export default class App extends React.Component {
           <br />
           <br />
           Voting by gov ID is not free (in addition to counting and platforms),
-          it is $25 for 7 years or it is nonconsensually-diluting&nbsp;
+          it is $25 for 7 years or it is nonconsensually-diluting{space}
           <a href="https://saverparty.xyz">Saver</a>'s equityutilitymoney.com
           <br />
           <br />
@@ -3778,30 +3797,30 @@ export default class App extends React.Component {
             >
               if you are old, afro or Hispanic
             </a>
-            - to&nbsp;
+            - to{space}
             <a
               style={{ color: "grey" }}
               href="https://www.prweb.com/releases/new_study_identifies_mental_health_as_a_risk_factor_for_covid_19/prweb17836314.htm"
             >
               get into my events
             </a>
-            ,&nbsp;
+            ,{space}
             <a
               style={{ color: "grey" }}
               href="https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/semen-has-more-benefits-than-you-think/articleshow/55725846.cms"
             >
               it is healthy
             </a>
-            .&nbsp;If you are polish-italian american&nbsp;
+            .{space}If you are polish-italian american{space}
             <a
               style={{ color: "grey" }}
               href="https://twitter.com/viathumbprint/status/1382342045889609730?s=20"
             >
               under 40
             </a>
-            , you can come into&nbsp;
-            <a href="https://wavv.art">thumbprint.us</a>&nbsp;without the jab
-            (my d***)
+            , you can come into{space}
+            <a href="https://wavv.art">thumbprint.us</a>
+            {space}without the jab (my d***)
           </h1>
           <a href="https://www.youtube.com/watch?v=Gp5WEeQi6jE">
             Geraldo Rivera
@@ -3859,16 +3878,17 @@ export default class App extends React.Component {
             who helped reach this goal!"
           </div>
           <br />
-          Does it&nbsp;<a href="https://magnate.company">take</a>&nbsp;more
-          people to run solar and wind energy than gas and coal?
+          Does it{space}
+          <a href="https://magnate.company">take</a>
+          {space}more people to run solar and wind energy than gas and coal?
           <br />
           <br />
-          All the&nbsp;
+          All the{space}
           <a href="https://www.flightsimulator.com/">
             governments
             {/* beiber/drugs, march2020SuperclusterMapboxUberReactGL*/}
           </a>
-          &nbsp;buy each others’ debt, which they use to gather assets (and
+          {space}buy each others’ debt, which they use to gather assets (and
           labor) from individuals @cnn @TheJusticeDept @un
           <br />
           <br />
@@ -3881,7 +3901,7 @@ export default class App extends React.Component {
           9/11 was obviously insurance and risk fraud (kneecap-bat-,
           bail-strike-, property-destruction-threat). the hijackers left their
           passports behind? UK news reporting Tower 3 before it is demolished?
-          Planes slice through front then bounce off floor, with&nbsp;
+          Planes slice through front then bounce off floor, with{space}
           <a href="https://www.jvejournals.com/article/16784">
             no ricochet debri
           </a>
@@ -3950,15 +3970,15 @@ export default class App extends React.Component {
               determining if you're eligible for federal government assistance
               or benefit programs."
             </b>
-            &nbsp;
+            {space}
             <a href="https://www.cnet.com/personal-finance/stimulus-checks-and-your-taxes-what-you-need-to-know-when-you-file-your-2020-tax-return/">
               abject fraud by you! @USTreasury @ftc
             </a>
             <br />
             are you intending to not include this stimulus payment in the
-            historical spending? @potus @IRSnews @OversightDems&nbsp;
-            <a href="https://billbiden.org">Bail-Out- @JoeBiden</a>&nbsp;and
-            @BarackObama at your scourge
+            historical spending? @potus @IRSnews @OversightDems{space}
+            <a href="https://billbiden.org">Bail-Out- @JoeBiden</a>
+            {space}and @BarackObama at your scourge
           </div>
           <br />
           Kamala called border agents Kkk “2x preg-death by afro/hispanic”
@@ -3987,9 +4007,9 @@ export default class App extends React.Component {
           “[Dismissivisity is the worst,]” that’s true bro
           <br />
           <br />
-          Misinformation is illegal, counterfeit-wagering and&nbsp;
-          <a href="https://saverparty.xyz">colonialism rent-seeking</a>&nbsp;is
-          illegal #MinnesotaIsGuilty #ChauvinTrial
+          Misinformation is illegal, counterfeit-wagering and{space}
+          <a href="https://saverparty.xyz">colonialism rent-seeking</a>
+          {space}is illegal #MinnesotaIsGuilty #ChauvinTrial
           <br />
           <br />
           Complex conspiracy theory online, social isolation exasperate feelings
@@ -4016,16 +4036,16 @@ export default class App extends React.Component {
           @charliekirk11
           <br />
           <br />
-          Every-white-collar-crime,&nbsp;
-          <a href="https://3under2.us">let him go</a>,&nbsp;
+          Every-white-collar-crime,{space}
+          <a href="https://3under2.us">let him go</a>,{space}
           <a href="https://vianickcarducci.medium.com/optimal-security-for-webapps-dd2a65c2418c">
             got an address
           </a>
-          &nbsp;and satellite imaging globally every 10 secs @SFRCdems
+          {space}and satellite imaging globally every 10 secs @SFRCdems
           <br />
           <br />
           <h3>
-            It is a waste to have any&nbsp;
+            It is a waste to have any{space}
             <a href="https://bankingisnot.biz">debt</a>:currency:asset, but it’s
             a waste to not enslave people too
           </h3>
@@ -4084,7 +4104,7 @@ export default class App extends React.Component {
             <a href="https://www.gurufocus.com/term/Treasury%20Stock/BA/Treasury%252BStock/Boeing+Co">
               corporate share
             </a>
-            &nbsp;fraud or non-free-rider-immutable tax to create embedded
+            {space}fraud or non-free-rider-immutable tax to create embedded
             monopsonies and again poor outcomes compared to, not Central
             planning totalitarianism is communism not socialism (re: Sen Ron
             Johnson with supply-side Kudlow), but
@@ -4114,7 +4134,7 @@ export default class App extends React.Component {
           spending, now with an original principle of 1/41 (
           <a href="https://micro-theory.com">2cash/82debt</a>)
           <br />
-          much more than monetary minus housing inflation how the&nbsp;
+          much more than monetary minus housing inflation how the{space}
           <span style={{ textDecoration: "line-through" }}>
             ask sets the price for the bid to take
           </span>
@@ -4139,35 +4159,35 @@ export default class App extends React.Component {
           </div>
           <br />
           <div>
-            Also, national security and&nbsp;
+            Also, national security and{space}
             <a href="https://constitutioncenter.org/interactive-constitution/amendment/amendment-xvi">
               Amendment 16
             </a>
-            &nbsp;evidently take precedence over&nbsp;
+            {space}evidently take precedence over{space}
             <a href="https://www.ftc.gov/tips-advice/competition-guidance/guide-antitrust-laws/antitrust-laws">
               Anti-Trust Monopsony
             </a>
-            &nbsp;
+            {space}
             <a href="https://www.investopedia.com/articles/investing/110513/utilizing-prisoners-dilemma-business-and-economy.asp">
               Duress
             </a>
-            &nbsp;
+            {space}
             <a href="https://constitutioncenter.org/interactive-constitution/amendment/amendment-xiii">
               Slavery
             </a>{" "}
             as well as freedom of expression (Amendment 1) in leveraging other
             people's money, taking other people's money & privacy by only
             allowing evidence to be found legally through subpoena with
-            notification to user and an intranet for parole-users with&nbsp;
+            notification to user and an intranet for parole-users with{space}
             <a href="https://vianickcarducci.medium.com/optimal-security-for-webapps-dd2a65c2418c">
               Gov ID sign-in
             </a>
-            &nbsp;for all to the untracked-internet, device-inputs and nil
-            third-party sharing to respect Amendment 4 Writing for a&nbsp;
+            {space}for all to the untracked-internet, device-inputs and nil
+            third-party sharing to respect Amendment 4 Writing for a{space}
             <a href="https://constitutioncenter.org/interactive-constitution/amendment/amendment-i">
               community
             </a>
-            &nbsp;can be&nbsp;
+            {space}can be{space}
             <a href="https://constitutioncenter.org/interactive-constitution/interpretation/article-iv/clauses/42">
               dangerous
             </a>
@@ -4181,22 +4201,22 @@ export default class App extends React.Component {
           </div>
           <br />
           <div>
-            Also, lying about&nbsp;
+            Also, lying about{space}
             <a href="https://www.gurufocus.com/term/Treasury%20Stock/BA/Treasury%252BStock/Boeing+Co">
               treasury
             </a>
-            &nbsp;shares (under the auspices of the&nbsp;
-            <a href="https://www.justice.gov/">SEC</a>&nbsp; makes them a
-            non-impartial judge and defendant at their own trial for false
-            advertisement of will and fraud) not being outstanding in
-            price-share metrics like earnings, sales or book - or permitting
-            investors to trade anonymously with exchanges and retail with
-            exchanges or brokers without similar protection under the law
+            {space}shares (under the auspices of the{space}
+            <a href="https://www.justice.gov/">SEC</a>
+            {space} makes them a non-impartial judge and defendant at their own
+            trial for false advertisement of will and fraud) not being
+            outstanding in price-share metrics like earnings, sales or book - or
+            permitting investors to trade anonymously with exchanges and retail
+            with exchanges or brokers without similar protection under the law
             (either show us 13D immediately or allow retail to hide their
             unhedged positions) in the interests of Article4;4 - is not an equal
             protection under the law, monopolistic and a strategy of colonizers
             or community-wide slave-owners. Also, selling citizens out to
-            foreigners is not only involuntary trade but violation of&nbsp;
+            foreigners is not only involuntary trade but violation of{space}
             <a href="https://constitutioncenter.org/interactive-constitution/interpretation/article-iii/clauses/39">
               Article3;3
             </a>
@@ -4212,7 +4232,7 @@ export default class App extends React.Component {
           <br />
           insurance is not subscription-membership because one person's
           subscription does not go towards someone else's, it goes to pay for
-          their non-&nbsp;
+          their non-{space}
           <a href="https://saverparty.xyz">monopsony</a>, individual servicing.
           insurance is duressful trade, by invoice, gift-certificate or
           max-expense, prohibiting trade and causing slavery just the same as
@@ -4223,25 +4243,25 @@ export default class App extends React.Component {
           https://www.nature.com/articles/cddis2016148. exclusion is slavery by
           free riders taking services of those excluded elsewhere in society
           <br />
-          Domestic violence&nbsp;
+          Domestic violence{space}
           <a
             style={{ color: "black" }}
             href="https://constitutioncenter.org/interactive-constitution/interpretation/article-iv/clauses/42"
           >
             article4;4
           </a>
-          &nbsp;can be stopped by govID && parole intranet let alone violating
+          {space}can be stopped by govID && parole intranet let alone violating
           <br />
-          this duressful arrangement can cause grave&nbsp;
-          <a href="https://humanharvest.info">harm</a>&nbsp;of cancer from
-          foreign-made antibodies and mRNA.
+          this duressful arrangement can cause grave{space}
+          <a href="https://humanharvest.info">harm</a>
+          {space}of cancer from foreign-made antibodies and mRNA.
           https://www.nature.com/articles/cddis2016148. exclusion is slavery by
           free riders taking services of those excluded elsewhere in society
           <br />
           <a href="https://taxfoundation.org/american-rescue-plan-covid-relief/">
             $12b
           </a>
-          &nbsp;for public health records and exclusion by
+          {space}for public health records and exclusion by
           free-rider-private-entities, instead of non-invasive evidense or
           visible bodily symptoms
           <br />
@@ -4279,11 +4299,12 @@ export default class App extends React.Component {
           rental-colonialists prohibiting price-elasticity: you need to be sued
           <br />
           <br />
-          <a href="https://wavv.art/Iran">Islam</a>&nbsp;says&nbsp;
+          <a href="https://wavv.art/Iran">Islam</a>
+          {space}says{space}
           <a href="https://www.youtube.com/watch?v=Gp5WEeQi6jE">
             trespassing (2006 Geraldo Opium US-Afghanistan report)
           </a>
-          &nbsp;is ok to war others, but uselessly abuse animals which is never
+          {space}is ok to war others, but uselessly abuse animals which is never
           supported by westerners; however, obviously China feels the same about
           a b**********g animals for some etherial effect. G-d is supposed to do
           the judgement is something they misinterpret about their own text.
@@ -4400,14 +4421,16 @@ export default class App extends React.Component {
             href="https://saverparty.xyz"
             style={{ backgroundColor: "navy", color: "rgb(197, 179, 88)" }}
           >
-            Saver Party&nbsp;<span role="img">🐿</span>
+            Saver Party{space}
+            <span role="img">🐿</span>
           </a>
           patents are rent-seeking, profits are net-loss of corporate market
           communes, occupy wall st is free market communism 'gainst the free
           rider mutable tax, trust-building, deficit laundering implausible
           ladlord use collctive bargaining fraud friends & family
-          lein-discrimination and non-reciprocated non-crazy reasonable
-          doubts&nbsp;{">"}1/12
+          lein-discrimination and non-reciprocated non-crazy reasonable doubts
+          {space}
+          {">"}1/12
         </div>
       </div>
     );
