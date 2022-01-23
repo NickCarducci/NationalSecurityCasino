@@ -138,6 +138,14 @@ export default class App extends React.Component {
         >
           micro-theory.com
         </a>
+        “Forever retarded, school, education barely all work.”
+        <br />
+        “House isn’t worth amount you owe.”
+        <br />
+        “Unemployment have to because I was fired for not being educated,” tom hanks
+        lied. "Education knowledge fireproof."
+        <br />
+        <br />
         "What ways has the World Bank contributed to the economic development of
         your country?"
         <br />
