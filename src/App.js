@@ -71,6 +71,7 @@ export default class App extends React.Component {
     this.trump = React.createRef();
     this.gdp = React.createRef();
     this.levin = React.createRef();
+    this.options = React.createRef();
     for (let i = 0; i < 250; i++) {
       this["scrollImg" + i] = React.createRef();
     }
@@ -129,6 +130,8 @@ export default class App extends React.Component {
       clearTimeout(this.check);
       const check = () => {
         if (this.props.pathname === "/") {
+        } else if (this.props.pathname === "/options") {
+          window.scroll(0, this.options.current.offsetTop);
         } else if (this.props.pathname === "/gdp") {
           window.scroll(0, this.gdp.current.offsetTop);
         } else if (this.props.pathname === "/trump") {
@@ -154,6 +157,12 @@ export default class App extends React.Component {
       }
     };
 
+    let arrayOfnumbers = [0];
+    const scrollnum = () => {
+      const num = arrayOfnumbers[arrayOfnumbers.length - 1] + 1;
+      arrayOfnumbers.push(num);
+      return num;
+    };
     const space = " ";
     return (
       <div
@@ -209,7 +218,7 @@ export default class App extends React.Component {
           float="right"
           title="National Report (Newsmax) - John Glizzzly"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 43]}
+          fwd={this["scrollImg" + scrollnum()]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -234,7 +243,7 @@ export default class App extends React.Component {
             float="left"
             title="National Report (Newsmax) - William Barclay NY State Assemblyman"
             scrolling={this.state.scrolling}
-            fwd={this["scrollImg" + 42]}
+            fwd={this["scrollImg" + scrollnum()]}
             scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
             scrollTop={this.state.scrollTop}
           />
@@ -263,7 +272,10 @@ export default class App extends React.Component {
         that 7% of their income, early childcare income can’t be paid less, so
         it will take significant public funding to solve this problem,” actually
         it only invokes work deficit for monopsony prices.
-        <h2>I don't like math, I like what you can do with it.</h2>
+        <h2>
+          I don't like math, I{space}
+          <a href="https://qr.ae/pG6Asa">like what you can do with it</a>.
+        </h2>
         There is lag to 3/2020 trust building by king debt trump ppp existing
         biz. Comparative advantage tech advancement is price deflation per hour
         productivity, is all that matters. Hours per home doubles every 5 years,
@@ -472,7 +484,7 @@ export default class App extends React.Component {
           float="left"
           title="National Report (Newsmax) - Ron Vitiello fmr acting ICE Director"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 41]}
+          fwd={this["scrollImg" + scrollnum()]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -503,7 +515,7 @@ export default class App extends React.Component {
           float="right"
           title="Bernie and Sid (77WABC) - Bill O'reilly face while chat stream"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 40]}
+          fwd={this["scrollImg" + scrollnum()]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -520,7 +532,7 @@ export default class App extends React.Component {
           float="right"
           title="Bernie and Sid (77WABC) - Bill O'reilly face while chat stream"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 39]}
+          fwd={this["scrollImg" + scrollnum()]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -592,7 +604,7 @@ export default class App extends React.Component {
           float="right"
           title="Rob Schmitt (Newsmax) - debt spending"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 38]}
+          fwd={this["scrollImg" + scrollnum()]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -702,7 +714,7 @@ export default class App extends React.Component {
           float="left"
           title="Chris Salcedo (Newsmax) - Matt Gaetz"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 37]}
+          fwd={this["scrollImg" + scrollnum()]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -716,7 +728,7 @@ export default class App extends React.Component {
           float="right"
           title="Chris Salcedo (Newsmax) - vaccine mandate is article 4 use case, because vaccines just work, believe me"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 36]}
+          fwd={this["scrollImg" + scrollnum()]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -743,7 +755,7 @@ export default class App extends React.Component {
           float="right"
           title="Chris Salcedo (Newsmax) - Diamond & Silk on Andrew Cuomo order to return book profit $5.1m"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 35]}
+          fwd={this["scrollImg" + scrollnum()]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -788,7 +800,7 @@ export default class App extends React.Component {
           float="left"
           title="American Agenda (Newsmax) - Barney Frank should be dead already politician on virus"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 34]}
+          fwd={this["scrollImg" + scrollnum()]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -983,7 +995,7 @@ export default class App extends React.Component {
           float="left"
           title="Stinchfield (Newsmax) - Mike Huckabee"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 34]}
+          fwd={this["scrollImg" + scrollnum()]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -1009,7 +1021,7 @@ export default class App extends React.Component {
           float="right"
           title="Spicer & co (Newsmax) - OH Skinner former Arizona Solicitor General"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 33]}
+          fwd={this["scrollImg" + scrollnum()]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -1073,7 +1085,7 @@ export default class App extends React.Component {
           float="right"
           title="Chris Salcedo (Newsmax) - playing dumb on financialized medicine"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 32]}
+          fwd={this["scrollImg" + scrollnum()]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -1095,7 +1107,7 @@ export default class App extends React.Component {
           float="left"
           title="Eric Bolling (The Balance,Newsmax) - CBO with Psaki-Graham analysis deflection"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 31]}
+          fwd={this["scrollImg" + scrollnum()]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -1141,7 +1153,7 @@ export default class App extends React.Component {
           float="right"
           title="Eric Bolling (The Balance,Newsmax) - Mark Halperin"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 30]}
+          fwd={this["scrollImg" + scrollnum()]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -1213,7 +1225,7 @@ export default class App extends React.Component {
           float="left"
           title="Saturday Agenda (Newsmax) - Rep Jeff Van Drew"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 29]}
+          fwd={this["scrollImg" + scrollnum()]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -1311,7 +1323,7 @@ export default class App extends React.Component {
           float="right"
           title="Save the Nation (Newsmax) - Star Parker on care.org and freedom-based-education, as opposed to the destruction of the family-dependency unit, like fucking plantations"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 29]}
+          fwd={this["scrollImg" + scrollnum()]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -1335,7 +1347,7 @@ export default class App extends React.Component {
           float="right"
           title=""
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 31]}
+          fwd={this["scrollImg" + scrollnum()]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -1354,7 +1366,7 @@ export default class App extends React.Component {
           float="left"
           title=""
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 28]}
+          fwd={this["scrollImg" + scrollnum()]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -1403,7 +1415,7 @@ export default class App extends React.Component {
           float="right"
           title=""
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 27]}
+          fwd={this["scrollImg" + scrollnum()]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -1543,7 +1555,7 @@ export default class App extends React.Component {
           float="right"
           title={`Save the Nation (Newsmax) - Brandon Arnold, "Inflations' impact on you"`}
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 26]}
+          fwd={this["scrollImg" + scrollnum()]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -1627,7 +1639,7 @@ export default class App extends React.Component {
           float="left"
           title="John Bachmann (Newsmax) - Brandon Judd National Border Patrol Council, 'Desantis fights to protect FL from Biden's border crisis'"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 33]}
+          fwd={this["scrollImg" + scrollnum()]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -1702,7 +1714,7 @@ export default class App extends React.Component {
           float="right"
           title="https://fb.watch/8vc_WNxnzq/"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 25]}
+          fwd={this["scrollImg" + scrollnum()]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -1896,7 +1908,7 @@ export default class App extends React.Component {
           float="left"
           title="American Agenda (Newsmax) - J. Borroughs (forget his name) on the benefits of intermediate-labor inflation"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 24]}
+          fwd={this["scrollImg" + scrollnum()]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -1919,7 +1931,7 @@ export default class App extends React.Component {
           float="right"
           title="American Agenda (Newsmax) - Joe Tobacco on public holdings"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 23]}
+          fwd={this["scrollImg" + scrollnum()]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -1972,7 +1984,7 @@ export default class App extends React.Component {
           float="right"
           title="GBNews - Thomas Jefferson statue"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 22]}
+          fwd={this["scrollImg" + scrollnum()]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -2101,6 +2113,7 @@ export default class App extends React.Component {
         impalusible landlord use, bonds (7.5%/yr+) nor home prices (5%/yr+)
         <br />
         <br />
+        <hr ref={this.options} />
         <Cable
           style={{ width: "100%", height: "400px", maxHeight: "50vw" }}
           onError={handleScollImgError}
@@ -2112,11 +2125,19 @@ export default class App extends React.Component {
           float="right"
           title="Ron Paul Liberty Report - inflation, mandates and public debt"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 21]}
+          fwd={this["scrollImg" + scrollnum()]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
-        <h2>Libertarians love their corporate collective flaccid loss</h2>
+        <h2>
+          Libertarians love their corporate collective flaccid loss -38% $4t/yr
+          40% debt spend, the rest{space}
+          <a href="https://www.ssa.gov/OACT/TRSUM/2020/tr20summary.pdf#page=11">
+            Medicare, Pension and SSA general revenue asset sales 50%, 19%
+            expiring premiums claimed
+          </a>
+          .
+        </h2>
         "...#1 duty evidently is to maintain stock market," ask price, because
         13d-retail anon uuid discrepancy like shooting fish in a barrel with
         pattern day trading rules.
@@ -2177,7 +2198,7 @@ export default class App extends React.Component {
             float="left"
             title="American Agenda (Newsmax) - Stephen Moore labor market and inflation, ignoring the private and public invoices, expiring claims, implausible landlord use & repo-cycle-kept-down-payment influence in the work deficit as third party beneficiary donee claimables"
             scrolling={this.state.scrolling}
-            fwd={this["scrollImg" + 20]}
+            fwd={this["scrollImg" + scrollnum()]}
             scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
             scrollTop={this.state.scrollTop}
           />
@@ -2298,7 +2319,7 @@ export default class App extends React.Component {
           float="right"
           title="Cortez & Pelegrino (Newsmax) - Elize Stefanik"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 19]}
+          fwd={this["scrollImg" + scrollnum()]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -2325,7 +2346,7 @@ export default class App extends React.Component {
           float="left"
           title="Stinchfield (Newsmax) - Kristin Tate, 'Liberal Invasion of Red State America'"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 19]}
+          fwd={this["scrollImg" + scrollnum()]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -2404,7 +2425,7 @@ export default class App extends React.Component {
           float="right"
           title="Eric Bolling (Newsmax) - 'Ukriane is not our perogative[, let Russia nationalize their supply chain as colony],"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 18]}
+          fwd={this["scrollImg" + scrollnum()]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -2449,7 +2470,7 @@ export default class App extends React.Component {
           float="right"
           title="GBNews - 'My Son Hunter' and 'the good parts of crack'"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 29]}
+          fwd={this["scrollImg" + scrollnum()]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -2493,7 +2514,7 @@ export default class App extends React.Component {
             float="left"
             title="Chris Salcedo (Newsmax) - NY Hospitol fires 100 unvaxxed employees who claim religious exemption"
             scrolling={this.state.scrolling}
-            fwd={this["scrollImg" + 17]}
+            fwd={this["scrollImg" + scrollnum()]}
             scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
             scrollTop={this.state.scrollTop}
           />
@@ -2528,7 +2549,7 @@ export default class App extends React.Component {
           float="right"
           title="Spicer & co (Newsmax) - Kimmick and Waltz on China intermediate supply-demand && bond work deficit"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 16]}
+          fwd={this["scrollImg" + scrollnum()]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -2573,7 +2594,7 @@ export default class App extends React.Component {
           float="left"
           title="Save the Nation (Newsmax) - 'Texas leads the charge to secure the southern border'"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 25]}
+          fwd={this["scrollImg" + scrollnum()]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -2631,7 +2652,7 @@ export default class App extends React.Component {
           float="left"
           title=""
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 15]}
+          fwd={this["scrollImg" + scrollnum()]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -2658,7 +2679,7 @@ export default class App extends React.Component {
           float="right"
           title=""
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 14]}
+          fwd={this["scrollImg" + scrollnum()]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -2689,7 +2710,7 @@ export default class App extends React.Component {
           float="right"
           title="2015 mortality projections, US Census Bureau 1.2m/yr+ standardized excess deaths by cohort, gain (75+)"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 13]}
+          fwd={this["scrollImg" + scrollnum()]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -2703,7 +2724,7 @@ export default class App extends React.Component {
           float="left"
           title="American Agenda (Newsmax) - Eric Bolling foreign affairs"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 12]}
+          fwd={this["scrollImg" + scrollnum()]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -2749,7 +2770,7 @@ export default class App extends React.Component {
           float="right"
           title="Rob Scmitt Tonight (Newsmax) - Nat Sec. Adv Jake Sullivan on 2 Russian-colony sanctions"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 11]}
+          fwd={this["scrollImg" + scrollnum()]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -2772,7 +2793,7 @@ export default class App extends React.Component {
           float="left"
           title="Rob Scmitt Tonight (Newsmax) - Morgan Ortagus on 2 Russian-colony sanctions"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 10]}
+          fwd={this["scrollImg" + scrollnum()]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -2813,7 +2834,7 @@ export default class App extends React.Component {
           float="left"
           title="Dick Morris (77WABC) - Advisor to Clinton and Trump on greenhouse gases, WWII and Marxist anti-rentier, repo-cycle, and profit by estimates of labor and material, rather than demository so labor is exclusively demand."
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 9]}
+          fwd={this["scrollImg" + scrollnum()]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -2885,7 +2906,7 @@ export default class App extends React.Component {
           float="right"
           title="Spicer & co (Newsmax) - Lindsay M Keith on needing a draft next planned attack, like a mob vig"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 8]}
+          fwd={this["scrollImg" + scrollnum()]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -2931,7 +2952,7 @@ export default class App extends React.Component {
           float="left"
           title="GBNews - Nigel Farage on Pearl Harbor, '80 years later'"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 7]}
+          fwd={this["scrollImg" + scrollnum()]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -2958,7 +2979,7 @@ export default class App extends React.Component {
           float="right"
           title="Spicer & co (Newsmax) - Mike Huckabee on needing a draft next planned attack, like a mob vig"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 7]}
+          fwd={this["scrollImg" + scrollnum()]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -2983,7 +3004,7 @@ export default class App extends React.Component {
           float="left"
           title="Spicer & co (Newsmax) - Marsha Blackburn on democracy"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 6]}
+          fwd={this["scrollImg" + scrollnum()]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -3001,7 +3022,7 @@ export default class App extends React.Component {
           float="right"
           title="Spicer & co (Newsmax) - Meredith MCGraw, National Security Correspondent, Politico on civil disobedience, democracy, consent and polling"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 5]}
+          fwd={this["scrollImg" + scrollnum()]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -3023,7 +3044,7 @@ export default class App extends React.Component {
           float="left"
           title="Chris Salcedo (Newsmax) -  August Pfluger of texas racketeering for oil pipeline fees"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 4]}
+          fwd={this["scrollImg" + scrollnum()]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -3047,7 +3068,7 @@ export default class App extends React.Component {
           float="right"
           title="Chris Salcedo (Newsmax) - Carl Higbie on Democratic policies making less GDP, neither debt-less cops"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 3]}
+          fwd={this["scrollImg" + scrollnum()]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -3111,7 +3132,7 @@ export default class App extends React.Component {
           float="left"
           title="Jen Psaki (Yahoo Finance w/ chat) - You are laundering thru savings accounts but not paying it down"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 2]}
+          fwd={this["scrollImg" + scrollnum()]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -3137,7 +3158,7 @@ export default class App extends React.Component {
           float="right"
           title="Stephen Moore (77WABC Moore Money) - 3/13/2021 "
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 1]}
+          fwd={this["scrollImg" + scrollnum()]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
