@@ -138,12 +138,31 @@ export default class App extends React.Component {
         >
           micro-theory.com
         </a>
+        <h1>
+          “Afros should vote for Republican to do what white folk do: 15% for
+          republican,” 2/3 private debt stock share gain market concentration
+          gentrification doesn’t help afro tool.
+        </h1>
+        “Money, gay people married smoke marijuana, social issues that make you
+        feel good but don’t actually benefit you. Drugs are money, scripts
+        prohibit trade,
+        <h1>
+          you want implausible landlord use and expiring premiums. That is
+          retarded
+        </h1>
+        <br />
+        “He was an antivaxxer, that is why he died,” sewage is more correlated,
+        you can see no-toilet India and Ms is polio. Vaccinations never stopped
+        aggregate sickness, just non-exclusive by product, you are just showing
+        that virion isn’t correlated with sickness with asymptomatic testing.
+        <br />
+        <br />
         “Forever retarded, school, education barely all work.”
         <br />
         “House isn’t worth amount you owe.”
         <br />
-        “Unemployment have to because I was fired for not being educated,” tom hanks
-        lied. "Education knowledge fireproof."
+        “Unemployment have to because I was fired for not being educated,” tom
+        hanks lied. "Education knowledge fireproof."
         <br />
         <br />
         "What ways has the World Bank contributed to the economic development of
